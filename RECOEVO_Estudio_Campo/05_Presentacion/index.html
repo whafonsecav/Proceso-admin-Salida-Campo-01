@@ -225,7 +225,16 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .pt .big{font-size:170px}
 .pt .shade{background:linear-gradient(0deg,rgba(5,7,10,.98) 0%,rgba(5,7,10,.88) 55%,rgba(5,7,10,.35) 100%)}
 .pt .ph-l{height:var(--pph,560px)!important}
-.pt .hide-pt{display:none!important}
+.pt .hide-pt:not(.photo){display:none!important}
+/* móvil: todas las fotos visibles en cuadrícula de 2 columnas */
+.pt .cols.fill{grid-template-columns:1fr 1fr!important;gap:16px}
+.pt .cols.fill>.photo{height:330px!important}
+.pt .cols.fill>.photo:first-child{grid-column:1/-1;height:460px!important}
+.pt .fauna-g>.card{grid-column:1/-1}
+.pt .split.vs1{grid-template-columns:1fr 1fr!important;gap:18px}
+.pt .split.vs1>.photo{height:600px!important;width:100%;aspect-ratio:auto!important}
+.pt .split.vs1>.so,.pt .split.vs3>.so{grid-column:1/-1}
+.pt .split.vs3>.photo{height:640px!important}
 .pt .only-ls{display:none!important}
 .only-pt{display:none}.pt .only-pt{display:block}.pt .heatT.only-pt{display:grid}html:not(.pt) .heatT{display:none!important}
 .pt .chain{grid-template-columns:1fr;gap:16px;margin-top:34px}
@@ -253,7 +262,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .pt .mapnote{left:54px;right:54px;width:auto;bottom:380px}
 .pt .hud .data{right:80px;top:110px;font-size:16px}.pt .hud .rec{left:80px;top:110px;font-size:14px}.pt .hud .c1,.pt .hud .c2{top:60px}.pt .hud .c1,.pt .hud .c3{left:40px}.pt .hud .c2,.pt .hud .c4{right:40px}
 .pt .receipt{transform:rotate(-2deg);width:470px}
-.pt .stamp{right:-8px}
+.pt .stamp{right:-8px;bottom:auto;top:40px;font-size:19px;padding:10px 14px}
 
 
 /* ===== portada: carrusel ===== */
@@ -271,6 +280,23 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .poli{position:absolute;right:130px;top:40px;height:46px;width:auto;opacity:.75;z-index:7;pointer-events:none;margin:0}
 .pt .poli{right:54px;top:44px;height:42px}
 #loader .ld-logo{height:64px;width:auto;display:block;margin-bottom:26px;opacity:.9;align-self:flex-start}
+
+/* ===== MÓVIL: sin efectos que parpadean en GPUs de celular ===== */
+.pt .grain{display:none}
+.pt .glow{display:none}
+.pt *{backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+.pt .kb img{filter:none}
+.pt .photo{box-shadow:0 14px 40px rgba(0,0,0,.45)}
+.pt .tag{background:rgba(5,7,10,.88)}
+.pt .mapnote{background:rgba(8,12,15,.94)}
+.fauna-g{grid-template-columns:1fr 1fr 1fr .8fr}
+/* indicación para avanzar (móvil) */
+.swipe{position:absolute;left:0;right:0;bottom:150px;display:none;flex-direction:column;align-items:center;gap:10px;z-index:8;color:var(--lime);font-family:var(--mono);font-size:22px;letter-spacing:.14em;text-transform:uppercase;pointer-events:none}
+.pt .swipe{display:flex}
+.swipe svg{width:56px;height:56px;animation:bob 1.6s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0);opacity:.6}50%{transform:translateY(-14px);opacity:1}}
+.pt .reveal .controls{color:var(--lime)}
+.pt .reveal .controls .navigate-down,.pt .reveal .controls .navigate-up{transform:scale(1.35)}
 /* ===== PANTALLA DE CARGA ===== */
 #loader{position:fixed;inset:0;z-index:200;background:radial-gradient(ellipse at 30% 20%,#0E1A12 0%,#05070A 60%);display:flex;align-items:center;justify-content:center;font-family:var(--sans);color:var(--ink);transition:opacity .8s}
 #loader.off{opacity:0;pointer-events:none}
@@ -367,6 +393,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
   <div class="shade"></div>
   <div class="glow" style="width:900px;height:900px;left:-300px;top:-200px;background:var(--lime);opacity:.13"></div>
   <div class="kbdots"><i class="on"></i><i></i><i></i><i></i></div>
+  <div class="swipe"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 28l10-10 10 10"/><path d="M14 38l10-10 10 10" opacity=".5"/></svg>Desliza hacia arriba</div>
   <div class="pad center">
     <img class="a cv-logo" src="media/logo_poli.png" alt="Politécnico Grancolombiano">
     <div class="kicker a" style="margin-top:34px">Proceso Administrativo · Informe de trabajo de campo</div>
@@ -734,7 +761,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
   <div class="pad">
     <div class="kicker k-amber a"><span class="n">O2</span> Fauna</div>
     <h2 class="t1 a">Perros, palomas y ratas se alimentan de los residuos orgánicos expuestos</h2>
-    <div class="cols fill a" style="--n:4;--pn:1;margin-top:40px;grid-template-columns:1fr 1fr 1fr .8fr">
+    <div class="cols fauna-g fill a" style="--n:4;--pn:1;margin-top:40px">
       <div class="photo" data-cap="Perro echado junto a una bolsa y un recipiente de icopor con restos de comida, en una zona verde."><img src="media/perro_icopor.jpg" alt="" style="object-position:40% 60%"><span class="tag">Perro comiendo de un icopor</span></div>
       <div class="photo hide-pt" data-cap="Perro buscando entre bolsas y costales en la ladera usada como botadero."><img src="media/perro_basura_ladera.jpg" alt="" style="object-position:55% 40%"><span class="tag">Perro entre bolsas en la ladera</span></div>
       <div class="photo hide-pt" data-cap="Punto de arrojo: una persona revisa residuos mientras perros y palomas buscan comida."><img src="media/botadero_reciclaje_1.jpg" alt="" style="object-position:30% 50%"><span class="tag">Palomas y perros en el botadero</span></div>
@@ -887,7 +914,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
   <div class="pad">
     <div class="kicker a">Próximos pasos</div>
     <h2 class="t1 a">Antes de probar la solución hay que completar la investigación y aclarar dos datos que no coinciden</h2>
-    <div class="cols" style="--n:3;--pn:2;margin-top:40px;gap:20px">
+    <div class="cols" style="--n:3;--pn:2;margin-top:26px;gap:18px">
       <div class="card a" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm"><svg><use href="#i-tractor"/></svg></div><span class="mono lime" style="font-size:22px">01</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Salida rural con agricultores</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Cómo abonan hoy, cuánto les cuesta y si usarían compost en lugar de químicos.</p></div>
       <div class="card a" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm"><svg><use href="#i-store"/></svg></div><span class="mono lime" style="font-size:22px">02</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Fruvers y vendedores de la calle</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Cuánto orgánico generan y qué hacen con él. Hasta ahora solo hay un fruver entrevistado.</p></div>
       <div class="card a" data-ev="precio" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm coral"><svg><use href="#i-coin"/></svg></div><span class="mono coral" style="font-size:22px">03</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Verificar la tarifa de aseo</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Lo dicho va de $40.000 a $160.000 al mes. Revisar facturas reales de hogar y de comercio. <span class="evn" style="color:var(--ink)">Ver lo que dijeron</span></p></div>
@@ -1305,7 +1332,8 @@ function animate(sec) {
   running.forEach(t => t && (t.revert ? t.revert() : t.kill && t.kill())); running = [];
   sec.querySelectorAll("video").forEach(v => { v.muted = true; v.currentTime = 0; const p = v.play(); if (p) p.catch(() => {}); });
   const a = sec.querySelectorAll(".a");
-  if (a.length) running.push(gsap.fromTo(a, { opacity: 0, y: 40, filter: "blur(8px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: .85, stagger: .11, ease: "power3.out", clearProps: "filter" }));
+  if (a.length) running.push(PT ? gsap.fromTo(a, { opacity: 0, y: 28 }, { opacity: 1, y: 0, duration: .6, stagger: .07, ease: "power2.out", clearProps: "transform" })
+                   : gsap.fromTo(a, { opacity: 0, y: 40, filter: "blur(8px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: .85, stagger: .11, ease: "power3.out", clearProps: "filter" }));
   sec.querySelectorAll("[data-count]").forEach(el => { const end = parseFloat(el.dataset.count), dec = +(el.dataset.dec || 0), o = { v: 0 };
     running.push(gsap.to(o, { v: end, duration: 1.8, delay: .35, ease: "power3.out", onUpdate: () => el.textContent = fmt(o.v, dec) })); });
   sec.querySelectorAll("[data-bar]").forEach((el, i) => running.push(gsap.fromTo(el, { scaleX: 0 }, { scaleX: 1, duration: 1.3, delay: .5 + i * .1, ease: "power3.out" })));
@@ -1314,12 +1342,13 @@ function animate(sec) {
 // ---------- Reveal ----------
 const startIdx = sessionStorage.getItem("recoevo_rot") ? +(sessionStorage.getItem("recoevo_idx") || 0) : 0; sessionStorage.removeItem("recoevo_rot");
 Reveal.initialize({ width: PT ? PW : 1920, height: PT ? PH : 1080, margin: 0, minScale: .05, maxScale: 4, center: false, controls: PT, controlsTutorial: false,
-  progress: true, hash: false, transition: PT ? "slide" : "fade", backgroundTransition: "fade", keyboard: true, overview: true, viewDistance: 3, touch: true, scrollActivationWidth: null, view: null })
+  progress: true, hash: false, transition: PT ? "slide" : "fade", backgroundTransition: "fade", keyboard: true, overview: true, viewDistance: PT ? 2 : 3, mobileViewDistance: 2, transitionSpeed: PT ? "fast" : "default", touch: true, scrollActivationWidth: null, view: null })
   .then(() => { Reveal.configure({ keyboard: false }); if (startIdx) PT ? Reveal.slide(0, startIdx) : Reveal.slide(startIdx); preload(); });
 const curIdx = () => { const i = Reveal.getIndices(); return PT ? (i.v || 0) : i.h; };
 Reveal.on("slidechanged", e => {
   sessionStorage.setItem("recoevo_idx", curIdx());
   document.querySelectorAll(".reveal video").forEach(v => { if (!e.currentSlide.contains(v)) v.pause(); });
+  const mp = document.getElementById("map"); if (mp) mp.style.visibility = e.currentSlide.contains(mp) ? "visible" : "hidden";
   animate(e.currentSlide);
 });
 
