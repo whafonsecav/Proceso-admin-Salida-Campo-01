@@ -208,7 +208,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .lclose{position:absolute;right:20px;top:18px;width:46px;height:46px;border-radius:12px;border:1px solid #2A3A44;background:#10181D;color:#fff;font-size:22px;cursor:pointer;z-index:2}
 
 /* ===== VERSIÓN VERTICAL (móvil) ===== */
-.pt .pad{padding:104px 54px 130px;justify-content:center}
+.pt .pad{padding:150px 54px 130px;justify-content:center}
 .pt .pad>.fill{flex:0 0 auto}
 .pt .cols.fill>.photo{height:470px}
 .pt .cols.fill>div>.photo{height:300px;flex:none!important}
@@ -278,14 +278,14 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .pt .cv-logo{height:96px}.pt .kbdots{right:54px;bottom:120px}
 /* ===== logo institucional en las láminas ===== */
 .poli{position:absolute;right:130px;top:40px;height:46px;width:auto;opacity:.75;z-index:7;pointer-events:none;margin:0}
-.pt .poli{right:54px;top:44px;height:42px}
+.pt .poli{right:54px;top:56px;height:44px}
 #loader .ld-logo{height:64px;width:auto;display:block;margin-bottom:26px;opacity:.9;align-self:flex-start}
 
 /* ===== MÓVIL: sin efectos que parpadean en GPUs de celular ===== */
 .pt .grain{display:none}
 .pt .glow{display:none}
 .pt *{backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
-.pt .kb img{filter:none}
+.pt .kb img{filter:none;will-change:auto;transform:none!important}
 .pt .photo{box-shadow:0 14px 40px rgba(0,0,0,.45)}
 .pt .tag{background:rgba(5,7,10,.88)}
 .pt .mapnote{background:rgba(8,12,15,.94)}
@@ -988,11 +988,15 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 <script>
 // ---------- orientación: vertical = versión móvil (láminas 9:16 que avanzan hacia abajo) ----------
 const PT = window.innerHeight > window.innerWidth;
-const PW = 900, PH = Math.round(Math.min(2000, Math.max(1460, PW * window.innerHeight / window.innerWidth)));
+const PW = 900, PH = Math.round(Math.min(2200, Math.max(2010, PW * window.innerHeight / window.innerWidth)));
 if (PT) {
   document.documentElement.classList.add("pt"); document.documentElement.style.setProperty("--ph", PH + "px"); document.documentElement.style.setProperty("--pw", PW + "px");
   const slides = document.querySelector(".slides"), stack = document.createElement("section");
   stack.className = "stack"; [...slides.children].forEach(s => stack.appendChild(s)); slides.appendChild(stack);
+  // fotos livianas en el celular: menos memoria gráfica, sin cuadros negros
+  const light = u => u.replace(/media\/(mapa\/)?([\w-]+)\.(jpg|png)/, (m, d, n) => /^(logo_poli|qr_prototipo)$/.test(n) ? m : `media/m/${n}.jpg`);
+  document.querySelectorAll('img[src^="media/"]').forEach(im => im.setAttribute("src", light(im.getAttribute("src"))));
+  document.querySelectorAll('[style*="background-image"]').forEach(el => el.setAttribute("style", light(el.getAttribute("style"))));
   // en vertical la ficha técnica se divide en dos láminas para que se lea bien
   const fs = [...stack.children].find(x => x.querySelector(".ficha"));
   if (fs) {
@@ -1253,7 +1257,7 @@ maplibregl.addProtocol("rt", async (params, ctrl) => {
 function initMap() {
   if (mapReady) return mapReady;
   const tiles = ["rt://{z}/{y}/{x}"];
-  map = new maplibregl.Map({ container: "map", interactive: false, attributionControl: { compact: true }, fadeDuration: 0, maxPitch: 70, maxTileCacheSize: 4000, refreshExpiredTiles: false, center: [-52, -2], zoom: 1.6,
+  map = new maplibregl.Map({ container: "map", interactive: false, pixelRatio: PT ? 1 : Math.min(2, window.devicePixelRatio || 1), attributionControl: { compact: true }, fadeDuration: 0, maxPitch: 70, maxTileCacheSize: 4000, refreshExpiredTiles: false, center: [-52, -2], zoom: 1.6,
     style: { version: 8, projection: { type: "globe" },
       sky: { "sky-color": "#0B1A14", "horizon-color": "#1F3A2A", "fog-color": "#05070A", "sky-horizon-blend": .6, "horizon-fog-blend": .8, "fog-ground-blend": .6, "atmosphere-blend": ["interpolate", ["linear"], ["zoom"], 0, 1, 6, .8, 9, 0] },
       sources: { sat: { type: "raster", tiles, tileSize: 256, maxzoom: 19, attribution: "Esri World Imagery" } },
@@ -1360,17 +1364,20 @@ document.querySelectorAll(".reveal .slides section:not(.stack)").forEach(sec => 
 });
 document.querySelectorAll(".kb").forEach(kb => {
   const imgs = [...kb.querySelectorAll("img")], dots = [...kb.parentElement.querySelectorAll(".kbdots i")]; let k = 0;
+  const sec = kb.closest("section");
   const show = (i, first) => {
     const im = imgs[i]; gsap.killTweensOf(im); im.style.zIndex = 2;
-    gsap.fromTo(im, { scale: 1.02, opacity: first ? 1 : 0 }, { scale: 1.14, duration: 6.5, ease: "none" });
-    if (!first) gsap.to(im, { opacity: 1, duration: 1.8, ease: "power1.inOut" });
+    if (PT) gsap.fromTo(im, { opacity: first ? 1 : 0 }, { opacity: 1, duration: first ? 0 : 1.4, ease: "power1.inOut" });
+    else { gsap.fromTo(im, { scale: 1.02, opacity: first ? 1 : 0 }, { scale: 1.14, duration: 6.5, ease: "none" });
+           if (!first) gsap.to(im, { opacity: 1, duration: 1.8, ease: "power1.inOut" }); }
     dots.forEach((d, j) => d.classList.toggle("on", j === i));
   };
   show(0, true);
   setInterval(() => {
+    if (!sec.classList.contains("present")) return;                               // no gasta memoria si no se ve
     const prev = imgs[k]; prev.style.zIndex = 1;                                  // la anterior queda debajo, sigue su zoom
     k = (k + 1) % imgs.length; show(k, false);
-    gsap.to(prev, { opacity: 0, duration: 1.8, delay: 1.8, ease: "none" });       // se apaga cuando la nueva ya cubre
+    gsap.to(prev, { opacity: 0, duration: PT ? 1 : 1.8, delay: PT ? 1.4 : 1.8, ease: "none" });       // se apaga cuando la nueva ya cubre
   }, 4000);
 });
 // ---------- PRECARGA: todo a memoria antes de empezar ----------
@@ -1399,7 +1406,7 @@ async function preload() {
     prog("Cargando fotos…");
     await pool([...urls], 6, async u => { const img = new Image(); img.src = u; await img.decode(); done.i++; set("ld-i", done.i, urls.size); prog(); });
     prog("Cargando mapa satelital…");
-    try {  // un solo paquete (pack.bin) con todas las teselas: mucho más rápido que miles de solicitudes
+    if (PT) { done.t = tot.t; set("ld-t", "bajo demanda"); } else try {  // un solo paquete (pack.bin) con todas las teselas: mucho más rápido que miles de solicitudes
       const idx = await (await fetch("media/tiles/pack.json")).json(), r = await fetch("media/tiles/pack.bin");
       // tamaño real desde el índice (el servidor puede enviar el archivo comprimido y su Content-Length no sirve)
       const size = Object.values(idx).reduce((m, [o, n]) => Math.max(m, o + n), 0), buf = new Uint8Array(size), rd = r.body.getReader(); let got = 0;
@@ -1410,7 +1417,8 @@ async function preload() {
       await pool(tiles, 16, async k => { const r = await fetch(`media/tiles/${k}.jpg`); if (r.ok) TILEMEM.set(k, await r.arrayBuffer()); done.t++; if (done.t % 40 === 0) { set("ld-t", done.t, tiles.length); prog(); } });
     }
     prog("Cargando audios…");
-    await pool(auds, 4, async u => { await blobUrl(u); done.a++; set("ld-a", done.a, auds.length); prog(); });
+    if (PT) { done.a = tot.a; set("ld-a", "al tocar ▶"); }
+    else await pool(auds, 4, async u => { await blobUrl(u); done.a++; set("ld-a", done.a, auds.length); prog(); });
   } else {
     done.t = tot.t; done.v = tot.v; done.i = tot.i; done.a = tot.a;
     $("ldnote").textContent = "Abierto sin servidor local: el mapa y los audios se cargarán en vivo. Para una presentación fluida y sin internet, usa Presentar.bat.";
@@ -1431,7 +1439,7 @@ function startShow(fs) {
   const L = document.getElementById("loader");
   if (fs && document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(() => {});
   player.muted = true; player.play().catch(() => {}); player.pause(); player.muted = false;   // desbloquea el audio
-  L.classList.add("off"); setTimeout(() => L.remove(), 900);
+  if (PT) L.remove(); else { L.classList.add("off"); setTimeout(() => L.remove(), 900); }
   Reveal.configure({ keyboard: true }); if (!startIdx) Reveal.slide(0, 0); lastSec = null; animate(Reveal.getCurrentSlide());
 }
 document.getElementById("ldfs").onclick = () => startShow(true);
