@@ -252,6 +252,21 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .pt .receipt{transform:rotate(-2deg);width:470px}
 .pt .stamp{right:-8px}
 
+
+/* ===== portada: carrusel ===== */
+.kb{position:absolute;inset:0;overflow:hidden;background:#05070A}
+.kb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 1.6s ease;filter:saturate(.9) brightness(.7);transform:scale(1.04)}
+.kb img.on{opacity:1;animation:kenburns 9s ease-out forwards}
+@keyframes kenburns{from{transform:scale(1.04)}to{transform:scale(1.16)}}
+.kbdots{position:absolute;right:130px;bottom:100px;display:flex;gap:10px;z-index:6}
+.kbdots i{width:34px;height:4px;border-radius:2px;background:rgba(255,255,255,.25);transition:background .6s}
+.kbdots i.on{background:var(--lime)}
+.cv-logo{height:118px;width:auto;display:block;align-self:flex-start;object-fit:contain}
+.pt .cv-logo{height:96px}.pt .kbdots{right:54px;bottom:120px}
+/* ===== logo institucional en las láminas ===== */
+.poli{position:absolute;right:130px;top:40px;height:46px;width:auto;opacity:.75;z-index:7;pointer-events:none;margin:0}
+.pt .poli{right:54px;top:44px;height:42px}
+#loader .ld-logo{height:64px;width:auto;display:block;margin-bottom:26px;opacity:.9;align-self:flex-start}
 /* ===== PANTALLA DE CARGA ===== */
 #loader{position:fixed;inset:0;z-index:200;background:radial-gradient(ellipse at 30% 20%,#0E1A12 0%,#05070A 60%);display:flex;align-items:center;justify-content:center;font-family:var(--sans);color:var(--ink);transition:opacity .8s}
 #loader.off{opacity:0;pointer-events:none}
@@ -317,7 +332,8 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 </svg>
 <div class="grain"></div>
 <div id="loader"><div class="box">
-  <div class="mono" style="font-size:13px;letter-spacing:.18em;color:var(--lime)">POLITÉCNICO GRANCOLOMBIANO · PROCESO ADMINISTRATIVO</div>
+  <img class="ld-logo" src="media/logo_poli.png" alt="Politécnico Grancolombiano">
+  <div class="mono" style="font-size:13px;letter-spacing:.18em;color:var(--lime)">PROCESO ADMINISTRATIVO · INFORME DE TRABAJO DE CAMPO</div>
   <div class="brand" style="margin-top:18px">RECOEVO*</div>
   <div class="sub">Preparando la presentación: se cargan el mapa satelital, los videos, las fotos y los audios para que todo corra sin pausas.</div>
   <div class="bar"><i id="ldbar"></i></div>
@@ -338,11 +354,18 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 
 <!-- 01 PORTADA -->
 <section class="cover">
-  <div class="bg"><video src="media/video_shut_botan.mp4" muted loop playsinline autoplay style="width:100%;height:100%;object-fit:cover;filter:saturate(.8) brightness(.62)"></video></div>
+  <div class="kb" id="kb">
+    <img src="media/shut_prohibido.jpg" alt="" class="on" style="object-position:70% 50%">
+    <img src="media/perro_icopor.jpg" alt="" style="object-position:45% 60%">
+    <img src="media/bolsas_anden.jpg" alt="" style="object-position:60% 60%">
+    <img src="media/llanta_cascaras.jpg" alt="" style="object-position:50% 55%">
+  </div>
   <div class="shade"></div>
   <div class="glow" style="width:900px;height:900px;left:-300px;top:-200px;background:var(--lime);opacity:.13"></div>
+  <div class="kbdots" id="kbdots"><i class="on"></i><i></i><i></i><i></i></div>
   <div class="pad center">
-    <div class="kicker a">Politécnico Grancolombiano · Proceso Administrativo</div>
+    <img class="a cv-logo" src="media/logo_poli.png" alt="Politécnico Grancolombiano">
+    <div class="kicker a" style="margin-top:34px">Proceso Administrativo · Informe de trabajo de campo</div>
     <h1 class="a" style="font-size:230px;font-weight:840;letter-spacing:-.065em;line-height:.85;margin-top:40px"><span class="grad">RECOEVO</span><sup style="font-size:.32em;color:var(--lime);vertical-align:top;margin-left:10px">*</sup></h1>
     <p class="a cv-sub" style="font-size:52px;font-weight:600;letter-spacing:-.03em;line-height:1.12;margin-top:36px;max-width:1250px">Percepciones, dinámicas y problemáticas frente al manejo de residuos orgánicos en las calles de Usme</p>
     <div class="cols a cv-meta" style="--n:4;--pn:2;margin-top:54px;max-width:1500px;gap:30px">
@@ -850,7 +873,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
         <div class="call" data-ev="cond_recoleccion"><div class="ic sm"><svg><use href="#i-key"/></svg></div><div><div class="ct">Llave del operario</div><div class="cw">Pensado para una ruta de recolección propia. <b>Hallazgo 04</b></div></div></div>
       </div>
     </div>
-    <a class="only-pt a" href="https://whafonsecav.github.io/Proceso-admin-prototipo/" target="_blank" rel="noopener" style="margin-top:34px;display:block;text-align:center;padding:30px;border-radius:24px;background:var(--lime);color:#05070A;font-size:38px;font-weight:760;letter-spacing:-.02em">Abrir el prototipo 3D ↗</a>
+    <a class="only-pt a ptbtn" href="https://whafonsecav.github.io/Proceso-admin-prototipo/" target="_blank" rel="noopener" style="margin-top:34px;text-align:center;padding:30px;border-radius:24px;background:var(--lime);color:#05070A;font-size:38px;font-weight:760;letter-spacing:-.02em">Abrir el prototipo 3D ↗</a>
   </div>
   <div class="foot"><span>Recoevo analógico · 38 × 40 × 68 cm · cajón de 20 L · whafonsecav.github.io/Proceso-admin-prototipo</span><span class="pg"></span></div>
 </section>
@@ -1282,6 +1305,19 @@ Reveal.on("slidechanged", e => {
   animate(e.currentSlide);
 });
 
+
+// ---------- logo institucional y carrusel de portada ----------
+document.querySelectorAll(".reveal .slides section:not(.stack)").forEach(sec => {
+  if (sec.classList.contains("cover") || sec.dataset.fx === "map" || (!PT && sec.querySelector(".qr"))) return;
+  const im = document.createElement("img"); im.className = "poli"; im.src = "media/logo_poli.png"; im.alt = "Politécnico Grancolombiano"; sec.appendChild(im);
+});
+(function () {
+  const imgs = [...document.querySelectorAll("#kb img")], dots = [...document.querySelectorAll("#kbdots i")]; let k = 0;
+  setInterval(() => {
+    imgs[k].classList.remove("on"); dots[k].classList.remove("on"); k = (k + 1) % imgs.length;
+    void imgs[k].offsetWidth; imgs[k].classList.add("on"); dots[k].classList.add("on");
+  }, 4000);
+})();
 // ---------- PRECARGA: todo a memoria antes de empezar ----------
 const MEDIA = new Map();
 async function preload() {
