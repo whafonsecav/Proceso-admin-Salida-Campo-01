@@ -1,7 +1,7 @@
 Audio7 · transcripción revisada (base: Whisper large-v3 + transcripción original; hablantes asignados por contexto)
-Participante: residente adulto/a mayor, hogar (vive con una hija). Duración: 4:17.
+Participante: residente adulto mayor (hombre), hogar (vive con una hija). Duración: 4:17.
 
-Entrevistador: Listo, bueno, ¿su merced vive solo? ¿O vive acompañada?
+Entrevistador: Listo, bueno, ¿su merced vive solo? ¿O vive acompañado?
 P: No, sí, una hija.
 Entrevistador: Ah, una hija. ¿Quién se encarga de la cocina normalmente? ¿De preparar la comida? ¿Lavar la loza?
 P: Por ahí, de eso yo me toca tal vez preparar, preparar mi comida, si quiero tomar un tinto, hacerlo, porque ella trabaja también, entonces, por ahí.

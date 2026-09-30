@@ -30,7 +30,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .fill{flex:1;min-height:0}
 .center{justify-content:center}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:center}
-.split.l{grid-template-columns:1.15fr .85fr}.split.vs1{grid-template-columns:auto auto 1fr;gap:34px}.split.vs2{grid-template-columns:auto 1fr 1fr;gap:34px}.split.r{grid-template-columns:.85fr 1.15fr}
+.split.l{grid-template-columns:1.15fr .85fr}.split.vs1{grid-template-columns:auto auto 1fr;gap:34px}.split.vs2{grid-template-columns:auto 1fr 1fr;gap:34px}.split.vs3{grid-template-columns:auto 1fr;gap:60px;max-width:1300px}.split.r{grid-template-columns:.85fr 1.15fr}
 .cols{display:grid;grid-template-columns:repeat(var(--n,3),1fr);gap:26px}
 .bg{position:absolute;inset:0;background-size:cover;background-position:center}
 .shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(5,7,10,.97) 0%,rgba(5,7,10,.86) 46%,rgba(5,7,10,.25) 100%)}
@@ -85,6 +85,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .evb:hover{background:rgba(184,243,90,.2)}
 .evb::before{content:"";width:18px;height:18px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23B8F35A' stroke-width='2.2' stroke-linecap='round'%3E%3Cpath d='M4 6h16M4 12h16M4 18h10'/%3E%3C/svg%3E") center/contain no-repeat}
 .evn{border-bottom:3px dotted rgba(184,243,90,.55)}
+.evq{cursor:pointer}.evq::after{content:" ▶";font-family:var(--mono);font-style:normal;font-size:.55em;color:var(--lime);vertical-align:middle;opacity:.8}
 .evn:hover{border-bottom-color:var(--lime)}
 .row{display:flex;gap:28px;align-items:center;flex-wrap:wrap}
 /* map */
@@ -139,10 +140,10 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .v-mid{background:rgba(255,181,71,.12);color:var(--amber);border:1.5px solid rgba(255,181,71,.4)}
 .v-new{background:rgba(98,200,255,.12);color:var(--sky);border:1.5px solid rgba(98,200,255,.4)}
 /* ficha */
-.ficha{display:grid;grid-template-columns:repeat(4,1fr);gap:34px 40px;margin-top:50px}
+.ficha{display:grid;grid-template-columns:repeat(4,1fr);gap:24px 36px;margin-top:36px}
 .ficha div{border-top:1.5px solid var(--line);padding-top:16px}
 .ficha dt{font-family:var(--mono);font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:var(--lime);margin-bottom:10px}
-.ficha dd{margin:0;font-size:26px;line-height:1.32;color:#D6DDD8}
+.ficha dd{margin:0;font-size:23px;line-height:1.3;color:#D6DDD8}
 /* receipt */
 .receipt{width:500px;background:#F1F2EC;color:#0B1014;border-radius:22px 22px 0 0;padding:40px 44px 56px;box-shadow:0 60px 140px rgba(0,0,0,.6);transform:rotate(-3deg);position:relative;font-family:var(--mono);margin:0 auto}
 .receipt::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:22px;background:linear-gradient(-45deg,transparent 11px,#F1F2EC 0) 0 0/22px 22px,linear-gradient(45deg,transparent 11px,#F1F2EC 0) 0 0/22px 22px}
@@ -213,8 +214,8 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .pt .card{padding:30px 32px}
 .pt .cover h1{font-size:170px!important}.pt .cv-sub{font-size:44px!important}
 .pt .foot{left:54px;right:54px;bottom:44px;font-size:14px;flex-direction:column;gap:6px}
-.pt .split,.pt .split.l,.pt .split.r,.pt .split.vs1,.pt .split.vs2{grid-template-columns:1fr;gap:44px}
-.pt .split.vs1>.photo,.pt .split.vs2>.photo{justify-self:center}
+.pt .split,.pt .split.l,.pt .split.r,.pt .split.vs1,.pt .split.vs2,.pt .split.vs3{grid-template-columns:1fr;gap:44px}
+.pt .split.vs1>.photo,.pt .split.vs2>.photo,.pt .split.vs3>.photo{justify-self:center}
 .pt .cols{grid-template-columns:repeat(var(--pn,1),1fr);gap:22px}
 .pt .t1{font-size:70px}
 .pt .h-hero{font-size:132px}
@@ -422,7 +423,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div id="people" class="cols a" style="--n:4;--pn:2;margin-top:40px;gap:20px"></div>
     <p class="a" style="font-size:23px;color:var(--mute);margin-top:26px;line-height:1.4">Según la autorización firmada, nadie aparece con su nombre: cada persona tiene un código (E01–E08). Toca una tarjeta para leer todo lo que dijo. Los agricultores se entrevistarán en la fase 2.</p>
   </div>
-  <div class="foot"><span>5 hombres · 3 mujeres · 2 líderes comunitarios · 10 grabaciones</span><span class="pg"></span></div>
+  <div class="foot"><span>3 hogares · 3 comercios · 2 hogar y comercio · 2 líderes comunitarios · 10 grabaciones</span><span class="pg"></span></div>
 </section>
 
 <!-- 06 RESUMEN -->
@@ -457,7 +458,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
   <div class="pad center">
     <div class="kicker k-coral a"><span class="n">01</span> Foco del problema</div>
     <h2 class="t1 a" style="max-width:1050px"><span class="evn" data-ev="pun" data-np="pun">8</span> de 8 personas señalan el shut y las esquinas como el lugar donde se acumula la basura</h2>
-    <p class="quote a" style="font-size:44px;margin-top:44px;max-width:950px">“Aquí en el shut hay un desorden tenaz, porque mandan a los niños… y la riegan.” <span class="who">E01 · Hogar</span></p>
+    <p data-ev="u:A1-T19-2" title="Toca para leer y escuchar" class="evq quote a" style="font-size:44px;margin-top:44px;max-width:950px">“Aquí en el shut hay un desorden tenaz, porque mandan a los niños… y la riegan.” <span class="who">E01 · Hogar</span></p>
     <div class="so coral a" style="margin-top:44px;max-width:980px">
       <div class="l">Qué significa</div>
       <div class="t">El problema no se ve dentro de las casas sino en el trayecto: la bolsa sale sin horario, queda por fuera del shut y se desborda.</div>
@@ -499,7 +500,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <h2 class="t1 a"><span class="evn" data-ev="rom" data-np="rom">6</span> de 8 dicen que perros y recicladores rompen las bolsas. El olor de lo orgánico los atrae.</h2>
     <div class="split l fill" style="margin-top:44px">
       <div class="a">
-        <p class="quote" style="font-size:66px">“Hay más perros que gente acá en el sector.”</p>
+        <p data-ev="u:A3-T32-3" title="Toca para leer y escuchar" class="evq quote" style="font-size:66px">“Hay más perros que gente acá en el sector.”</p>
         <div class="who" style="margin-top:16px">E02 · Comerciante y líder comunal</div>
         <div class="cols" style="--n:2;margin-top:40px">
           <div class="card" data-ev="fau" style="padding:26px 30px;display:flex;gap:20px;align-items:center"><div class="ic amber sm"><svg><use href="#i-rat"/></svg></div><div><div class="num amber" style="font-size:52px;font-weight:800"><span class="evn" data-np="fau">6</span><span class="mute" style="font-size:28px">/8</span></div><div style="font-size:21px;color:var(--mute)">mencionan perros, ratas o zancudos</div></div></div>
@@ -514,7 +515,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
       <div class="photo a ph-l" style="height:100%;--pph:620px" data-cap="Perro junto al shut rosado, con residuos en la calle."><img src="media/perro_frente_shut.jpg" alt="Perro frente al shut" style="object-position:40% 50%"><span class="tag">Observado · perro junto al shut</span></div>
     </div>
   </div>
-  <div class="foot"><span>“Cada perro coge una bolsa y se abre para un punto” · E03</span><span class="pg"></span></div>
+  <div class="foot"><span class="evq" data-ev="u:A4-T04-5" style="cursor:pointer">“Cada perro coge una bolsa y se abre para un punto” · E03 ▶</span><span class="pg"></span></div>
 </section>
 
 <!-- 11 SERVICIO -->
@@ -534,9 +535,9 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
       </div></div>
       <div class="a">
         <div class="cols" style="--n:1;gap:18px">
-          <div class="card" data-ev="precio" style="padding:20px 26px"><div class="mono coral" style="font-size:16px">Costo</div><div style="font-size:25px;font-weight:600;margin-top:6px;line-height:1.25">Una comerciante paga <b>$40.000</b> al mes. Una residente dice pagar entre <b>$130.000 y $160.000</b> por piso y lo considera caro.</div></div>
+          <div class="card" data-ev="precio" style="padding:20px 26px"><div class="mono coral" style="font-size:16px">Costo</div><div style="font-size:25px;font-weight:600;margin-top:6px;line-height:1.25">Una comerciante (E05) paga <b>$40.000</b> al mes. Un residente (E06) dice pagar entre <b>$130.000 y $160.000</b> por piso, “todo comercial”, y lo considera caro. Las cifras no cuadran: hay que verificarlas.</div></div>
           <div class="card" data-ev="residencial" style="padding:20px 26px"><div class="mono coral" style="font-size:16px">Diferencia por zona</div><div style="font-size:25px;font-weight:600;margin-top:6px;line-height:1.25">Un comerciante compara: en su barrio residencial el carro “pasa cumplido”; en la zona comercial, “pasa de afán”.</div></div>
-          <div class="card" data-ev="rut_ok" style="padding:20px 26px"><div class="mono green" style="font-size:16px">Caso distinto</div><div style="font-size:25px;font-weight:600;margin-top:6px;line-height:1.25">Una residente (E07) dice que el carro pasa día de por medio y cumple.</div></div>
+          <div class="card" data-ev="rut_ok" style="padding:20px 26px"><div class="mono green" style="font-size:16px">Dato que no coincide</div><div style="font-size:25px;font-weight:600;margin-top:6px;line-height:1.25">Una residente (E07) dice que el carro pasa día de por medio y cumple. Se debe verificar.</div></div>
         </div>
         <div class="so coral" style="margin-top:24px">
           <div class="l">Qué significa</div>
@@ -561,7 +562,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
         <div class="so coral">
           <div class="l">Cómo se calculó</div>
           <div class="t" style="font-size:27px">Solo se calificaron las frases en que la persona <b>evalúa la situación del barrio o del servicio</b>, de 1 (muy insatisfecho) a 5 (muy satisfecho), según criterios fijos. Las frases sobre la propia casa no se califican. Cada carita es el promedio de una persona.</div>
-          <div class="row" style="margin-top:22px"><span class="evb" data-ev="sat">Ver las <span data-nu="sat">86</span> frases calificadas</span><span class="evb" data-ev="e06">Caso distinto: E06</span></div>
+          <div class="row" style="margin-top:22px"><span class="evb" data-ev="sat">Ver las <span data-nu="sat">86</span> frases calificadas</span></div>
         </div>
       </div>
     </div>
@@ -575,9 +576,9 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="kicker k-violet a"><span class="n">06</span> Barreras</div>
     <h2 class="t1 a">El hábito, la desconfianza en los vecinos y la ausencia del Estado frenan el cambio</h2>
     <div class="cols" style="--n:3;margin-top:50px">
-      <div class="card a" data-ev="cul"><div class="row" style="justify-content:space-between"><div class="ic violet"><svg><use href="#i-clock"/></svg></div><div class="num violet" style="font-size:60px;font-weight:800"><span class="evn" data-np="cul">7</span><span class="mute" style="font-size:32px">/8</span></div></div><div style="font-size:38px;font-weight:720;margin-top:24px;letter-spacing:-.03em">El hábito</div><div style="font-size:23px;color:var(--mute);margin-top:8px;line-height:1.3">Viven “a las carreras”. Separar no hace parte de la rutina.</div><p class="quote" style="font-size:31px;margin-top:22px">“Es una cultura que se puede demorar 100 años.” <span class="who">E02</span></p></div>
-      <div class="card a" data-ev="fre"><div class="row" style="justify-content:space-between"><div class="ic violet"><svg><use href="#i-question"/></svg></div><div class="num violet" style="font-size:60px;font-weight:800"><span class="evn" data-np="fre">5</span><span class="mute" style="font-size:32px">/8</span></div></div><div style="font-size:38px;font-weight:720;margin-top:24px;letter-spacing:-.03em">¿Y si los demás no?</div><div style="font-size:23px;color:var(--mute);margin-top:8px;line-height:1.3">Nadie quiere ser el único que lo hace.</div><p class="quote" style="font-size:31px;margin-top:22px">“¿Qué hacemos tres o cuatro si diez no lo hacen?” <span class="who">E05</span></p></div>
-      <div class="card a" data-ev="est"><div class="row" style="justify-content:space-between"><div class="ic violet"><svg><use href="#i-building"/></svg></div><div class="num violet" style="font-size:60px;font-weight:800"><span class="evn" data-np="est">4</span><span class="mute" style="font-size:32px">/8</span></div></div><div style="font-size:38px;font-weight:720;margin-top:24px;letter-spacing:-.03em">Estado ausente</div><div style="font-size:23px;color:var(--mute);margin-top:8px;line-height:1.3">Hay multas en el papel, pero nadie vigila. Las peticiones no tienen respuesta.</div><p class="quote" style="font-size:31px;margin-top:22px">“Estamos abandonados por la alcaldía.” <span class="who">E02</span></p></div>
+      <div class="card a" data-ev="cul"><div class="row" style="justify-content:space-between"><div class="ic violet"><svg><use href="#i-clock"/></svg></div><div class="num violet" style="font-size:60px;font-weight:800"><span class="evn" data-np="cul">7</span><span class="mute" style="font-size:32px">/8</span></div></div><div style="font-size:38px;font-weight:720;margin-top:24px;letter-spacing:-.03em">El hábito</div><div style="font-size:23px;color:var(--mute);margin-top:8px;line-height:1.3">Viven “a las carreras”. Separar no hace parte de la rutina.</div><p data-ev="u:A3-T08-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:31px;margin-top:22px">“Es una cultura que se puede demorar 100 años.” <span class="who">E02</span></p></div>
+      <div class="card a" data-ev="fre"><div class="row" style="justify-content:space-between"><div class="ic violet"><svg><use href="#i-question"/></svg></div><div class="num violet" style="font-size:60px;font-weight:800"><span class="evn" data-np="fre">5</span><span class="mute" style="font-size:32px">/8</span></div></div><div style="font-size:38px;font-weight:720;margin-top:24px;letter-spacing:-.03em">¿Y si los demás no?</div><div style="font-size:23px;color:var(--mute);margin-top:8px;line-height:1.3">Nadie quiere ser el único que lo hace.</div><p data-ev="u:A6-T40-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:31px;margin-top:22px">“¿Qué hacemos tres o cuatro si diez no lo hacen?” <span class="who">E05</span></p></div>
+      <div class="card a" data-ev="est"><div class="row" style="justify-content:space-between"><div class="ic violet"><svg><use href="#i-building"/></svg></div><div class="num violet" style="font-size:60px;font-weight:800"><span class="evn" data-np="est">4</span><span class="mute" style="font-size:32px">/8</span></div></div><div style="font-size:38px;font-weight:720;margin-top:24px;letter-spacing:-.03em">Estado ausente</div><div style="font-size:23px;color:var(--mute);margin-top:8px;line-height:1.3">Hay multas en el papel, pero nadie vigila. Las peticiones no tienen respuesta.</div><p data-ev="u:A3-T36-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:31px;margin-top:22px">“Estamos abandonados por la alcaldía.” <span class="who">E02</span></p></div>
     </div>
     <div class="so violet a" style="margin-top:40px">
       <div class="l">Qué significa</div>
@@ -594,9 +595,9 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="kicker a"><span class="n">07</span> Hábito existente</div>
     <h2 class="t1 a"><span class="evn" data-ev="apr" data-np="apr">3</span> de 8 ya reutilizan sobras de comida en su casa o negocio, sin ningún programa</h2>
     <div class="cols" style="--n:3;margin-top:50px">
-      <div class="card a" data-ev="apr_E04"><div class="ic"><svg><use href="#i-rabbit"/></svg></div><div class="mono lime" style="font-size:17px;margin-top:26px">E04 · Fruver</div><div style="font-size:34px;font-weight:700;margin-top:10px;line-height:1.15">Regala las cáscaras a vecinos que crían conejos y pollos</div><p class="quote" style="font-size:28px;margin-top:18px;color:var(--soft)">“A la larga eso no se pierde.”</p></div>
-      <div class="card a" data-ev="apr_E05"><div class="ic"><svg><use href="#i-dog"/></svg></div><div class="mono lime" style="font-size:17px;margin-top:26px">E05 · Comercio y hogar</div><div style="font-size:34px;font-weight:700;margin-top:10px;line-height:1.15">Da las sobras a sus perros y muele la cáscara de huevo para las matas</div><p class="quote" style="font-size:28px;margin-top:18px;color:var(--soft)">“Esas se las molemos y se las echamos a las materas.”</p></div>
-      <div class="card a" data-ev="apr_E08"><div class="ic"><svg><use href="#i-plant"/></svg></div><div class="mono lime" style="font-size:17px;margin-top:26px">E08 · Comercio</div><div style="font-size:34px;font-weight:700;margin-top:10px;line-height:1.15">Guarda las cáscaras de huevo y las usa como abono en su jardín</div><p class="quote" style="font-size:28px;margin-top:18px;color:var(--soft)">“Se la echo a las maticas, como abono.”</p></div>
+      <div class="card a" data-ev="apr_E04"><div class="ic"><svg><use href="#i-rabbit"/></svg></div><div class="mono lime" style="font-size:17px;margin-top:26px">E04 · Fruver</div><div style="font-size:34px;font-weight:700;margin-top:10px;line-height:1.15">Regala las cáscaras a vecinos que crían conejos y pollos</div><p data-ev="u:A5-T08-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:28px;margin-top:18px;color:var(--soft)">“A la larga eso no se pierde.”</p></div>
+      <div class="card a" data-ev="apr_E05"><div class="ic"><svg><use href="#i-dog"/></svg></div><div class="mono lime" style="font-size:17px;margin-top:26px">E05 · Comercio y hogar</div><div style="font-size:34px;font-weight:700;margin-top:10px;line-height:1.15">Da las sobras a sus perros y muele la cáscara de huevo para las matas</div><p data-ev="u:A6-T18-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:28px;margin-top:18px;color:var(--soft)">“Esas se las molemos y se las echamos a las materas.”</p></div>
+      <div class="card a" data-ev="apr_E08"><div class="ic"><svg><use href="#i-plant"/></svg></div><div class="mono lime" style="font-size:17px;margin-top:26px">E08 · Comercio</div><div style="font-size:34px;font-weight:700;margin-top:10px;line-height:1.15">Guarda las cáscaras de huevo y las usa como abono en su jardín</div><p data-ev="u:A9-T49-1,A9-T49-2" title="Toca para leer y escuchar" class="evq quote" style="font-size:28px;margin-top:18px;color:var(--soft)">“Se la echo a las maticas, como abono.”</p></div>
     </div>
     <div class="so a" style="margin-top:40px">
       <div class="l">Qué significa · Insight</div>
@@ -636,10 +637,10 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="kicker k-sky a"><span class="n">09</span> Condiciones para participar</div>
     <h2 class="t1 a">Para participar piden pedagogía, líderes que respalden, recolección e incentivos</h2>
     <div class="cols" style="--n:2;margin-top:46px;gap:22px">
-      <div class="card a" data-ev="cond_pedagogia" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-mega"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Que se enseñe</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_pedagogia">5</span>/8</div></div><p class="quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Folleticos, pósteres… videos en TikTok.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Pedagogía corta y visual</div></div></div>
-      <div class="card a" data-ev="cond_lideres" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-users"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Entrar por los líderes</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_lideres">3</span>/8</div></div><p class="quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Hay asamblea en el salón comunal. Ahí se puede empezar.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Junta de Acción Comunal como aliada</div></div></div>
-      <div class="card a" data-ev="cond_recoleccion" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-truck"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Que alguien recoja</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_recoleccion">2</span>/8</div></div><p class="quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Si no hay una persona que recoja todos los días, es difícil.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Ruta propia y frecuente</div></div></div>
-      <div class="card a" data-ev="cond_incentivo" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-coin"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Incentivo o equipo gratis</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_incentivo">2</span>/8</div></div><p class="quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Si ya tú me la regalas, ya me motivo.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Equipo entregado, no vendido</div></div></div>
+      <div class="card a" data-ev="cond_pedagogia" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-mega"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Que se enseñe</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_pedagogia">5</span>/8</div></div><p data-ev="u:A5-T30-1,A5-T30-2" title="Toca para leer y escuchar" class="evq quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Folleticos, pósteres… videos en TikTok.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Pedagogía corta y visual</div></div></div>
+      <div class="card a" data-ev="cond_lideres" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-users"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Entrar por los líderes</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_lideres">3</span>/8</div></div><p data-ev="u:A3-T28-2,A3-T30-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Hay asamblea en el salón comunal. Ahí se puede empezar.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Junta de Acción Comunal como aliada</div></div></div>
+      <div class="card a" data-ev="cond_recoleccion" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-truck"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Que alguien recoja</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_recoleccion">2</span>/8</div></div><p data-ev="u:A3-T14-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Si no hay una persona que recoja todos los días, es difícil.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Ruta propia y frecuente</div></div></div>
+      <div class="card a" data-ev="cond_incentivo" style="display:flex;gap:26px"><div class="ic sky"><svg><use href="#i-coin"/></svg></div><div style="flex:1"><div class="row" style="justify-content:space-between"><div style="font-size:36px;font-weight:720">Incentivo o equipo gratis</div><div class="num sky" style="font-size:40px;font-weight:800"><span class="evn" data-np="cond_incentivo">2</span>/8</div></div><p data-ev="u:A5-T32-3" title="Toca para leer y escuchar" class="evq quote" style="font-size:27px;margin-top:10px;color:var(--soft)">“Si ya tú me la regalas, ya me motivo.”</p><div style="font-size:22px;color:var(--sky);margin-top:10px">→ Equipo entregado, no vendido</div></div></div>
     </div>
     <p class="a" style="font-size:24px;color:var(--mute);margin-top:30px;line-height:1.4">También: ver que funciona en otras partes (<span class="evn" data-ev="cond_ejemplo">2 personas</span>) y que sea práctico (<span class="evn" data-ev="cond_practico">2</span>). E01 acepta aportar tiempo o dinero a cambio del beneficio (<span class="evn" data-ev="cond_costo">ver</span>).</p>
   </div>
@@ -654,9 +655,9 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="kicker a"><span class="n">10</span> Relación con el campo</div>
     <h2 class="t1 a" style="max-width:1100px"><span class="evn" data-ev="agr" data-np="agr">4</span> de 8 relacionan las sobras con el abono y critican el uso de químicos</h2>
     <div class="a" style="margin-top:40px;display:grid;gap:20px;max-width:1000px">
-      <div style="display:flex;gap:22px;align-items:center"><div class="ic sm"><svg><use href="#i-flask"/></svg></div><p class="quote" style="font-size:36px">“Lo químico enferma a la gente.” <span class="who">E02</span></p></div>
-      <div style="display:flex;gap:22px;align-items:center"><div class="ic sm"><svg><use href="#i-coin"/></svg></div><p class="quote" style="font-size:36px">“El abono es carísimo… en Colombia se trae de otro país.” <span class="who">E05</span></p></div>
-      <div style="display:flex;gap:22px;align-items:center"><div class="ic sm"><svg><use href="#i-tractor"/></svg></div><p class="quote" style="font-size:36px">“Crecí en el campo. Nosotros ya recogíamos todo eso para echarle a las plantas.” <span class="who">E02</span></p></div>
+      <div style="display:flex;gap:22px;align-items:center"><div class="ic sm"><svg><use href="#i-flask"/></svg></div><p data-ev="u:A3-T20-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:36px">“Lo químico enferma a la gente.” <span class="who">E02</span></p></div>
+      <div style="display:flex;gap:22px;align-items:center"><div class="ic sm"><svg><use href="#i-coin"/></svg></div><p data-ev="u:A10-T02-1,A10-T04-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:36px">“El abono en Colombia se trae de otro país.” <span class="who">E05</span></p></div>
+      <div style="display:flex;gap:22px;align-items:center"><div class="ic sm"><svg><use href="#i-tractor"/></svg></div><p data-ev="u:A3-T16-1" title="Toca para leer y escuchar" class="evq quote" style="font-size:36px">“Crecí en el campo. Nosotros ya recogíamos todo eso para echarle a las plantas.” <span class="who">E02</span></p></div>
     </div>
     <div class="so a" style="margin-top:44px;max-width:1000px">
       <div class="l">Qué significa</div>
@@ -675,11 +676,10 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="divnum a">PARTE 2</div>
     <h2 class="h-hero a" style="margin-top:30px">Lo que vimos</h2>
     <p class="lead a" style="margin-top:36px;max-width:1200px">Observación directa del recorrido: 22 fotos y 4 videos analizados por aparte. Cada imagen solo prueba lo que muestra.</p>
-    <div class="cols a" style="--n:4;--pn:2;margin-top:56px;max-width:1300px">
+    <div class="cols a" style="--n:3;--pn:3;margin-top:56px;max-width:1100px">
       <div><div class="big num" style="font-size:110px">22</div><div class="statl">fotografías</div></div>
       <div><div class="big num" style="font-size:110px">4</div><div class="statl">videos cortos</div></div>
       <div><div class="big num lime" style="font-size:110px">6</div><div class="statl">hallazgos observacionales</div></div>
-      <div><div class="big num" style="font-size:110px">0</div><div class="statl">rostros de menores</div></div>
     </div>
   </div>
 </section>
@@ -706,18 +706,19 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 <section>
   <div class="pad">
     <div class="kicker k-amber a"><span class="n">O2</span> Fauna</div>
-    <h2 class="t1 a">Perros y palomas se alimentan de los residuos orgánicos expuestos</h2>
-    <div class="cols fill a" style="--n:3;--pn:1;margin-top:40px">
+    <h2 class="t1 a">Perros, palomas y ratas se alimentan de los residuos orgánicos expuestos</h2>
+    <div class="cols fill a" style="--n:4;--pn:1;margin-top:40px;grid-template-columns:1fr 1fr 1fr .8fr">
       <div class="photo" data-cap="Perro echado junto a una bolsa y un recipiente de icopor con restos de comida, en una zona verde."><img src="media/perro_icopor.jpg" alt="" style="object-position:40% 60%"><span class="tag">Perro comiendo de un icopor</span></div>
       <div class="photo hide-pt" data-cap="Perro buscando entre bolsas y costales en la ladera usada como botadero."><img src="media/perro_basura_ladera.jpg" alt="" style="object-position:55% 40%"><span class="tag">Perro entre bolsas en la ladera</span></div>
       <div class="photo hide-pt" data-cap="Punto de arrojo: una persona revisa residuos mientras perros y palomas buscan comida."><img src="media/botadero_reciclaje_1.jpg" alt="" style="object-position:30% 50%"><span class="tag">Palomas y perros en el botadero</span></div>
+      <div class="card" data-ev="ratas" style="display:flex;flex-direction:column;justify-content:center;gap:18px"><div class="ic amber"><svg><use href="#i-rat"/></svg></div><div style="font-size:36px;font-weight:720;letter-spacing:-.02em;line-height:1.1">Ratas y ratones</div><div class="num amber" style="font-size:64px;font-weight:800"><span class="evn" data-np="ratas">4</span><span class="mute" style="font-size:32px"> de 8</span></div><div style="font-size:22px;color:var(--mute);line-height:1.35">los mencionaron. No se fotografiaron: se mueven de noche y bajo la basura.</div><p class="evq quote" data-ev="ratas" style="font-size:26px;color:var(--soft)">“Los ratoncitos salen de debajo de la basura.”</p></div>
     </div>
     <div class="so amber a" style="margin-top:34px">
       <div class="l">Qué significa</div>
       <div class="t">Lo que atrae a los animales es la comida expuesta, no el plástico. Contener lo orgánico reduce el problema de fauna.</div>
     </div>
   </div>
-  <div class="foot"><span>Coincide con lo que dijeron 6 de 8 sobre perros y plagas</span><span class="pg"></span></div>
+  <div class="foot"><span>Coincide con lo que dijeron 6 de 8 sobre perros y plagas · ratas: solo relatado, no fotografiado</span><span class="pg"></span></div>
 </section>
 
 <!-- 21 O3 RECICLAJE INFORMAL -->
@@ -742,18 +743,17 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 <section>
   <div class="pad">
     <div class="kicker k-amber a"><span class="n">O4</span> Fuentes de orgánicos</div>
-    <h2 class="t1 a">Hay grandes generadores de orgánicos que no entrevistamos: vendedores ambulantes y fruvers</h2>
-    <div class="split vs2 fill a" style="margin-top:40px">
+    <h2 class="t1 a">Los vendedores ambulantes también generan orgánicos en la calle, y aún no los entrevistamos</h2>
+    <div class="split vs3 fill a" style="margin-top:40px">
       <div class="photo ph-l" style="height:100%;aspect-ratio:9/16;--pph:760px" data-cap="Video: vendedor ambulante de fruta; cáscaras en el suelo y un perro cerca." data-video="media/video_vendedor_cascaras.mp4"><video src="media/video_vendedor_cascaras.mp4" muted loop playsinline autoplay></video><span class="vbadge">VIDEO</span><span class="tag">Cáscaras en la calle</span></div>
-      <div class="photo hide-pt" style="height:100%" data-cap="Fruver del sector: canastas de papa, auyama y arracacha. Genera cáscaras y producto dañado a diario."><img src="media/fruver_producto.jpg" alt=""><span class="tag">Fruver del sector</span></div>
       <div class="so amber">
         <div class="l">Qué significa</div>
-        <div class="t">Un fruver o un vendedor genera en un día lo que un hogar genera en semanas.</div>
-        <div class="r">Para RECOEVO → <b>empezar por los comercios de alimentos da más kilos con menos puntos de recolección.</b> Se deben entrevistar en la fase 2.</div>
+        <div class="t">En el video se ven cáscaras de fruta tiradas junto al carro del vendedor, con un perro cerca. Los puntos de venta de alimentos concentran lo orgánico en un solo lugar.</div>
+        <div class="r">Para RECOEVO → <b>validar con vendedores y más fruvers si concentran volumen suficiente para una ruta.</b> Solo entrevistamos a un fruver (E04).</div>
       </div>
     </div>
   </div>
-  <div class="foot"><span>Hallazgo solo observacional: no surgió en las entrevistas</span><span class="pg"></span></div>
+  <div class="foot"><span>Hallazgo observacional · de fruvers solo hay una entrevista (E04)</span><span class="pg"></span></div>
 </section>
 
 <!-- 23 O5 TERRENO Y EQUIPAMIENTO -->
@@ -781,8 +781,8 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <h2 class="t1 a">Lo que contaron las personas coincide con lo que observamos en la calle</h2>
     <div class="cols fill a" style="--n:4;--pn:2;margin-top:40px">
       <div style="display:flex;flex-direction:column;gap:14px;min-height:0"><div class="photo" style="flex:1" data-cap="Bolsas en el andén."><img src="media/bolsas_anden.jpg" alt=""></div><p class="quote evn" data-ev="tri1" style="font-size:27px">“Una noche antes sacan la basura.”</p><p class="mono green" style="font-size:16px">✓ Visto · bolsas en el andén</p></div>
-      <div style="display:flex;flex-direction:column;gap:14px;min-height:0"><div class="photo" style="flex:1" data-cap="Llanta con cáscaras de banano y plásticos mezclados."><img src="media/llanta_cascaras.jpg" alt=""></div><p class="quote evn" data-ev="mez" style="font-size:27px">“Todo es un revoltijo.”</p><p class="mono green" style="font-size:16px">✓ Visto · cáscaras con plástico</p></div>
-      <div style="display:flex;flex-direction:column;gap:14px;min-height:0"><div class="photo" style="flex:1" data-cap="Perro entre residuos en la ladera."><img src="media/perro_basura_ladera.jpg" alt=""></div><p class="quote evn" data-ev="rom" style="font-size:27px">“Los perros se encargan de romper bolsas.”</p><p class="mono green" style="font-size:16px">✓ Visto · perro entre bolsas</p></div>
+      <div style="display:flex;flex-direction:column;gap:14px;min-height:0"><div class="photo" style="flex:1" data-cap="Llanta con cáscaras de banano y plásticos mezclados."><img src="media/llanta_cascaras.jpg" alt=""></div><p class="quote evn" data-ev="u:A1-T05-3" style="font-size:27px">“Todo es un revoltijo.”</p><p class="mono green" style="font-size:16px">✓ Visto · cáscaras con plástico</p></div>
+      <div style="display:flex;flex-direction:column;gap:14px;min-height:0"><div class="photo" style="flex:1" data-cap="Perro entre residuos en la ladera."><img src="media/perro_basura_ladera.jpg" alt=""></div><p class="quote evn" data-ev="u:A4-T04-4" style="font-size:27px">“Los perros se encargan de romper bolsas.”</p><p class="mono green" style="font-size:16px">✓ Visto · perro entre bolsas</p></div>
       <div style="display:flex;flex-direction:column;gap:14px;min-height:0"><div class="photo" style="flex:1" data-cap="Vía destapada con charcos."><img src="media/calle_barro.jpg" alt=""></div><p class="quote evn" data-ev="tri4" style="font-size:27px">“Cuando llueve se forma un pichal.”</p><p class="mono green" style="font-size:16px">✓ Visto · vía sin pavimentar</p></div>
     </div>
   </div>
@@ -806,9 +806,9 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="kicker k-sky a">Confiabilidad</div>
     <h2 class="t1 a">El análisis es confiable: los temas se saturaron, dos codificadores coinciden y el audio está verificado</h2>
     <div class="cols" style="--n:3;margin-top:46px">
-      <div class="card a"><div class="row"><div class="ic sky sm"><svg><use href="#i-loop"/></svg></div><div class="mono sky" style="font-size:18px">Saturación</div></div><svg id="satchart" viewBox="0 0 600 290" style="width:100%;margin-top:18px;overflow:visible"></svg><p style="font-size:25px;margin-top:12px;line-height:1.3">Desde la 4.ª entrevista <b class="sky">casi no aparecen temas nuevos</b> (97 %). Más entrevistas repetirían lo mismo.</p></div>
-      <div class="card a"><div class="row"><div class="ic sky sm"><svg><use href="#i-tag"/></svg></div><div class="mono sky" style="font-size:18px">Doble codificación</div></div><div class="num" style="font-size:108px;font-weight:820;letter-spacing:-.05em;margin-top:26px;white-space:nowrap"><span class="sky" id="kpo">96,9</span>%</div><p style="font-size:25px;margin-top:10px;line-height:1.3">de coincidencia entre el investigador y un modelo de IA local que codificó por separado. <span class="mute">κ = <span id="kk">0,70</span> (acuerdo sustancial).</span></p></div>
-      <div class="card a"><div class="row"><div class="ic sky sm"><svg><use href="#i-wave"/></svg></div><div class="mono sky" style="font-size:18px">Transcripción</div></div><div class="num" style="font-size:108px;font-weight:820;letter-spacing:-.05em;margin-top:26px"><span data-count="92" class="sky">92</span>%</div><p style="font-size:25px;margin-top:10px;line-height:1.3">de coincidencia entre los textos y el audio, verificado con Whisper. <span class="mute">Dos audios se corrigieron; 212 de 220 frases tienen su minuto exacto.</span></p></div>
+      <div class="card a"><div class="row"><div class="ic sky sm"><svg><use href="#i-loop"/></svg></div><div class="mono sky" style="font-size:18px">Saturación</div></div><svg id="satchart" viewBox="0 0 600 290" style="width:100%;margin-top:18px;overflow:visible"></svg><p style="font-size:25px;margin-top:12px;line-height:1.3">Desde la 4.ª entrevista <b class="sky">casi no aparecen temas nuevos</b> (97 %). <b class="sky">Las 8 entrevistas alcanzaron</b> para entender el problema en este sector.</p></div>
+      <div class="card a"><div class="row"><div class="ic sky sm"><svg><use href="#i-tag"/></svg></div><div class="mono sky" style="font-size:18px">Doble codificación</div></div><div class="num" style="font-size:108px;font-weight:820;letter-spacing:-.05em;margin-top:26px;white-space:nowrap"><span class="sky" id="kpo">96,9</span>%</div><p style="font-size:25px;margin-top:10px;line-height:1.3">de coincidencia entre el equipo y un programa de IA que clasificó las frases por separado. <b class="sky">Es un acuerdo alto: el resultado no depende de quién clasifica.</b> <span class="mute">κ = <span id="kk">0,70</span>.</span></p></div>
+      <div class="card a"><div class="row"><div class="ic sky sm"><svg><use href="#i-wave"/></svg></div><div class="mono sky" style="font-size:18px">Transcripción</div></div><div class="num" style="font-size:108px;font-weight:820;letter-spacing:-.05em;margin-top:26px"><span data-count="92" class="sky">92</span>%</div><p style="font-size:25px;margin-top:10px;line-height:1.3">de coincidencia entre los textos y el audio. <b class="sky">Las transcripciones son fieles</b>; dos audios se corrigieron y 212 de 220 frases tienen su minuto exacto para escucharlas.</p></div>
     </div>
   </div>
   <div class="foot"><span>Saturación: promedio de 1.000 órdenes aleatorios · κ de Cohen sobre 220 frases × 17 temas</span><span class="pg"></span></div>
@@ -859,15 +859,17 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 <section>
   <div class="pad">
     <div class="kicker a">Próximos pasos</div>
-    <h2 class="t1 a">Cuatro acciones para validar la solución y cerrar el ciclo del compost</h2>
-    <div class="cols" style="--n:4;--pn:1;margin-top:50px">
-      <div class="card a"><div class="row" style="justify-content:space-between"><div class="ic"><svg><use href="#i-tractor"/></svg></div><span class="mono lime" style="font-size:24px">01</span></div><div style="font-size:36px;font-weight:720;letter-spacing:-.03em;margin-top:30px;line-height:1.08">Salida rural con agricultores</div><p style="font-size:24px;color:var(--mute);margin-top:14px;line-height:1.32">Validar si usarían y pagarían por compost frente al abono químico.</p></div>
-      <div class="card a"><div class="row" style="justify-content:space-between"><div class="ic"><svg><use href="#i-store"/></svg></div><span class="mono lime" style="font-size:24px">02</span></div><div style="font-size:36px;font-weight:720;letter-spacing:-.03em;margin-top:30px;line-height:1.08">Entrevistar fruvers y vendedores</div><p style="font-size:24px;color:var(--mute);margin-top:14px;line-height:1.32">Son la fuente de orgánicos más grande que vimos (O4).</p></div>
-      <div class="card a"><div class="row" style="justify-content:space-between"><div class="ic"><svg><use href="#i-users"/></svg></div><span class="mono lime" style="font-size:24px">03</span></div><div style="font-size:36px;font-weight:720;letter-spacing:-.03em;margin-top:30px;line-height:1.08">Asamblea de la Junta de Villa Rosita</div><p style="font-size:24px;color:var(--mute);margin-top:14px;line-height:1.32">Devolver los resultados y sumar líderes como primeros usuarios.</p></div>
-      <div class="card a"><div class="row" style="justify-content:space-between"><div class="ic"><svg><use href="#i-bin"/></svg></div><span class="mono lime" style="font-size:24px">04</span></div><div style="font-size:36px;font-weight:720;letter-spacing:-.03em;margin-top:30px;line-height:1.08">Piloto con 10 hogares y 2 comercios</div><p style="font-size:24px;color:var(--mute);margin-top:14px;line-height:1.32">Equipo entregado, recolección semanal y registro en kilos, antes y después.</p></div>
+    <h2 class="t1 a">Antes de probar la solución hay que completar la investigación y aclarar dos datos que no coinciden</h2>
+    <div class="cols" style="--n:3;--pn:2;margin-top:40px;gap:20px">
+      <div class="card a" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm"><svg><use href="#i-tractor"/></svg></div><span class="mono lime" style="font-size:22px">01</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Salida rural con agricultores</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Cómo abonan hoy, cuánto les cuesta y si usarían compost en lugar de químicos.</p></div>
+      <div class="card a" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm"><svg><use href="#i-store"/></svg></div><span class="mono lime" style="font-size:22px">02</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Fruvers y vendedores de la calle</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Cuánto orgánico generan y qué hacen con él. Hasta ahora solo hay un fruver entrevistado.</p></div>
+      <div class="card a" data-ev="precio" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm coral"><svg><use href="#i-coin"/></svg></div><span class="mono coral" style="font-size:22px">03</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Verificar la tarifa de aseo</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Lo dicho va de $40.000 a $160.000 al mes. Revisar facturas reales de hogar y de comercio. <span class="evn" style="color:var(--ink)">Ver lo que dijeron</span></p></div>
+      <div class="card a" data-ev="rut" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm coral"><svg><use href="#i-truck"/></svg></div><span class="mono coral" style="font-size:22px">04</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Verificar el paso del carro</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Una persona dice que pasa día de por medio y otra que lleva 3 meses sin pasar. Pedir el horario oficial al operador y compararlo por cuadra. <span class="evn" style="color:var(--ink)">Ver</span></p></div>
+      <div class="card a" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm"><svg><use href="#i-scale"/></svg></div><span class="mono lime" style="font-size:22px">05</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Pesar lo orgánico durante una semana</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">En algunos hogares y comercios voluntarios, para saber si el cajón de 20 L alcanza y cada cuánto hay que recoger.</p></div>
+      <div class="card a" style="padding:28px 32px"><div class="row" style="justify-content:space-between"><div class="ic sm"><svg><use href="#i-users"/></svg></div><span class="mono lime" style="font-size:22px">06</span></div><div style="font-size:31px;font-weight:720;letter-spacing:-.02em;margin-top:18px;line-height:1.1">Asamblea de la Junta y encuesta con QR</div><p style="font-size:21px;color:var(--mute);margin-top:10px;line-height:1.32">Devolver los resultados y compartir un formulario corto que los vecinos escanean para sumar más respuestas.</p></div>
     </div>
   </div>
-  <div class="foot"><span>Lo único que se prometió en campo fue devolver los resultados</span><span class="pg"></span></div>
+  <div class="foot"><span>Toca las tarjetas 03 y 04 para ver las frases que no coinciden</span><span class="pg"></span></div>
 </section>
 
 <!-- 30 FICHA -->
@@ -876,18 +878,18 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
     <div class="kicker a">Ficha técnica</div>
     <h2 class="t1 a" style="font-size:58px">Estudio cualitativo exploratorio · Fase 1 urbana</h2>
     <dl class="ficha a">
-      <div><dt>Objetivo</dt><dd>Validar el problema de los residuos orgánicos en hogares y comercios antes de diseñar la solución.</dd></div>
-      <div><dt>Lugar</dt><dd>Barrio Villa Rosita (sector Tihuaque), Usme, Bogotá. 4.5009° N, 74.0859° O.</dd></div>
-      <div><dt>Fecha</dt><dd>Sábado 19 de septiembre de 2026. Entrevistas de 2:30 a 5:00 p. m.</dd></div>
-      <div><dt>Técnica</dt><dd>Entrevista semiestructurada cara a cara y observación no participante.</dd></div>
-      <div><dt>Muestra</dt><dd>8 personas (5 H, 3 M): 3 hogares, 3 comercios y 2 mixtos. Muestreo intencional.</dd></div>
-      <div><dt>Corpus</dt><dd>10 grabaciones (mp3, ogg, mp4) · 66 min · 22 fotos · 4 videos.</dd></div>
+      <div><dt>Objetivo</dt><dd>Comprobar si las sobras de comida son un problema real en hogares y comercios, antes de diseñar la solución.</dd></div>
+      <div><dt>Lugar y fecha</dt><dd>Barrio Villa Rosita (sector Tihuaque), Usme, Bogotá. Sábado 19 de septiembre de 2026, de 2:30 a 5:00 p. m.</dd></div>
+      <div><dt>Cómo se recogió</dt><dd>Entrevistas en la calle con preguntas abiertas (semiestructuradas), más recorrido de observación con registro de fotos y video.</dd></div>
+      <div><dt>A quién</dt><dd>8 personas: 3 hogares, 3 comercios y 2 que son hogar y comercio. Se entrevistó a quien aceptó hablar en la calle.</dd></div>
+      <div><dt>Material recolectado</dt><dd>10 grabaciones de audio (66 minutos en total), 22 fotos y 4 videos cortos.</dd></div>
       <div><dt>Equipo</dt><dd>Estudiantes: R. Beltrán, W. Fonseca, S. Medina, F. Ortiz y C. Riaño. Docente: I. Z. Sandoval Pérez. Campo: W. J. Ortiz Amador.</dd></div>
-      <div><dt>Transcripción</dt><dd>Validada con Whisper large-v3 local: 92 % de similitud media. Edición gramatical conservadora.</dd></div>
-      <div><dt>Análisis</dt><dd>Framework Method (Gale et al., 2013) · 220 frases · 17 temas en 5 dimensiones.</dd></div>
-      <div><dt>Escalas</dt><dd>Satisfacción con el barrio y disposición a participar, de 1 a 5, con criterios fijos y promedio por persona.</dd></div>
-      <div><dt>Confiabilidad</dt><dd>Doble codificación: κ = 0,70. Saturación: 97 % de los temas con 4 entrevistas.</dd></div>
-      <div><dt>Ética y límites</dt><dd>Autorización firmada y citas sin nombre. No es generalizable a todo el barrio. Reporte según COREQ.</dd></div>
+      <div><dt>Revisión de audios</dt><dd>Cada transcripción se comparó con el audio usando un programa de reconocimiento de voz: coinciden en un 92 %. Las frases se corrigieron solo en gramática; el texto literal se conserva.</dd></div>
+      <div><dt>Cómo se analizó</dt><dd>Cada respuesta se dividió en frases (220) y cada frase se clasificó en uno de 17 temas. Luego se contó cuántas personas mencionan cada tema.</dd></div>
+      <div><dt>Caritas 1 a 5</dt><dd>Cada opinión sobre el barrio se calificó de 1 (muy insatisfecho) a 5 (muy satisfecho), y cada opinión sobre participar, de 1 (no) a 5 (sí, con ganas). Se promedió por persona.</dd></div>
+      <div><dt>¿Es confiable?</dt><dd>Sí. Dos revisores clasificaron las frases por separado y coincidieron en el 97 % de los casos, un acuerdo alto. Desde la 4.ª entrevista casi no aparecieron temas nuevos.</dd></div>
+      <div><dt>Qué no dice</dt><dd>Describe a las 8 personas entrevistadas, no a todo el barrio. Faltan agricultores, vendedores de la calle y más comercios.</dd></div>
+      <div><dt>Ética</dt><dd>Todas las personas firmaron la autorización para grabar. Las citas no llevan nombre: cada persona tiene un código (E01 a E08).</dd></div>
     </dl>
   </div>
 </section>
@@ -983,7 +985,7 @@ const EV = {
   amb: ["Viento, olor, barro y salud", has("AMB"), "Efectos ambientales y de salud."],
   sat: ["Todas las frases calificadas en satisfacción", u => u.s != null, "Solo se califican las frases en que la persona evalúa la situación de residuos del barrio o el servicio. 1 = muy insatisfecho, 3 = neutral o ambivalente, 5 = muy satisfecho. La descripción de prácticas propias no se califica.", "s"],
   sat_neg: ["Frases de insatisfacción con el barrio (1 y 2)", u => u.s != null && u.s <= 2, "7 de 8 personas tienen un promedio de satisfacción menor a 2,5. La única excepción es E06 (2,8).", "s"],
-  e06: ["Caso distinto: E06", u => u.p === "E06" && u.s != null, "Adulta mayor que casi no sale de casa. Dice que el barrio ha mejorado y que para ella no es grave. Se reporta como caso discrepante.", "s"],
+  ratas: ["Ratas y ratones", u => /\brat(a|as|ón|ones|oncito|oncitos)\b/i.test(u.o), "Frases que mencionan ratas o ratones. No aparecen en las fotos."],
   dis: ["Todas las frases calificadas en disposición", u => u.d != null, "Solo se califican las opiniones sobre participar en una solución. 1 = rechazo, 2 = escéptico, 3 = condicionado, 4 = favorable, 5 = entusiasta o propone.", "d"],
   dis_fav_p: ["Personas a favor (promedio ≥ 3,5)", u => u.d != null && PS[u.p].d >= 3.5, "Frases de disposición de E01, E03, E04 y E07.", "d"],
   dis_cond_p: ["Personas que ponen condiciones (promedio entre 2,5 y 3,5)", u => u.d != null && PS[u.p].d < 3.5, "Frases de disposición de E02, E05 y E08.", "d"],
@@ -1005,6 +1007,7 @@ function evData(key) {
   if ((m = key.match(/^p:(E\d\d)$/))) return [`Todo lo que dijo ${m[1]}`, u => u.p === m[1], P[m[1]].detalle];
   if ((m = key.match(/^h:(E\d\d):(\w+)$/))) return [`${m[1]} · ${CODE[m[2]].nombre}`, u => u.p === m[1] && u.c.includes(m[2]), CODE[m[2]].def];
   if ((m = key.match(/^c:(\w+)$/))) return [CODE[m[1]].nombre, has(m[1]), CODE[m[1]].def];
+  if ((m = key.match(/^u:(.+)$/))) { const L = m[1].split(","), u0 = U.find(u => u.id === L[0]); return [u0 ? `Cita de ${u0.p} · ${P[u0.p].rol}` : "Cita", ids(L), "La frase completa de la entrevista. Toca ▶ Escuchar para oír el audio original en su minuto exacto."]; }
 }
 // ---------- rellenar cifras desde los datos ----------
 function fillNumbers() {
@@ -1268,7 +1271,7 @@ function animate(sec) {
   const fx = sec.dataset.fx; if (fx && FX[fx]) running.push(FX[fx](sec));
 }
 // ---------- Reveal ----------
-const startIdx = +(sessionStorage.getItem("recoevo_idx") || 0);
+const startIdx = sessionStorage.getItem("recoevo_rot") ? +(sessionStorage.getItem("recoevo_idx") || 0) : 0; sessionStorage.removeItem("recoevo_rot");
 Reveal.initialize({ width: PT ? PW : 1920, height: PT ? PH : 1080, margin: 0, minScale: .05, maxScale: 4, center: false, controls: PT, controlsTutorial: false,
   progress: true, hash: false, transition: PT ? "slide" : "fade", backgroundTransition: "fade", keyboard: true, overview: true, viewDistance: 3, touch: true, scrollActivationWidth: null, view: null })
   .then(() => { Reveal.configure({ keyboard: false }); if (startIdx) PT ? Reveal.slide(0, startIdx) : Reveal.slide(startIdx); preload(); });
@@ -1338,7 +1341,7 @@ function startShow(fs) {
   if (fs && document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(() => {});
   player.muted = true; player.play().catch(() => {}); player.pause(); player.muted = false;   // desbloquea el audio
   L.classList.add("off"); setTimeout(() => L.remove(), 900);
-  Reveal.configure({ keyboard: true }); lastSec = null; animate(Reveal.getCurrentSlide());
+  Reveal.configure({ keyboard: true }); if (!startIdx) Reveal.slide(0, 0); lastSec = null; animate(Reveal.getCurrentSlide());
 }
 document.getElementById("ldfs").onclick = () => startShow(true);
 document.getElementById("ldst").onclick = () => startShow(false);
@@ -1348,7 +1351,7 @@ addEventListener("keydown", function k(e) {
   if (["Enter", " ", "ArrowRight", "ArrowDown", "PageDown"].includes(e.key)) { e.preventDefault(); removeEventListener("keydown", k, true); startShow(e.key === "Enter"); }
 }, true);
 // al girar el dispositivo se cambia de formato conservando la lámina
-let lastPT = PT; addEventListener("resize", () => { const now = innerHeight > innerWidth; if (now !== lastPT) { sessionStorage.setItem("recoevo_idx", curIdx()); location.reload(); } });
+let lastPT = PT; addEventListener("resize", () => { const now = innerHeight > innerWidth; if (now !== lastPT) { sessionStorage.setItem("recoevo_idx", curIdx()); sessionStorage.setItem("recoevo_rot", "1"); location.reload(); } });
 </script>
 </body>
 </html>

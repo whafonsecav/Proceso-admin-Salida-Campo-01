@@ -44,7 +44,7 @@ def sheet(title, headers, rows, widths, table=True, first=False):
 # 1 · Resumen
 esc = R["escalas"]; ac = R["acuerdo"]
 res = [
-    ["Participantes únicos", 8, "5 hombres, 3 mujeres · 3 hogares, 3 comercios, 2 mixtos"],
+    ["Participantes únicos", 8, "3 hogares, 3 comercios, 2 hogar y comercio"],
     ["Grabaciones", 10, "Audio2+3 = E02; Audio6+10 = E05 (probable)"],
     ["Minutos de audio", round(sum(v["duracion_s"] for v in V) / 60, 1), "Suma de duraciones de archivo"],
     ["Unidades de significado", R["n_unidades"], "Turnos del participante divididos en frases ≤55 palabras"],
@@ -141,8 +141,8 @@ EV = [
 sheet("Evidencia visual", ["Archivo", "Qué se ve (solo lo visible)", "Códigos vinculados", "Relación con lo dicho", "¿En la presentación?"], [list(e) for e in EV], [40, 55, 16, 36, 26])
 
 # 10 · Participantes
-sheet("Participantes", ["Código", "Rol", "Perfil (anonimizado)", "Grabaciones", "Género"],
-      [[p, v["rol"], v["detalle"], " + ".join(v["audios"]), v["genero"]] for p, v in R["participantes"].items()], [10, 22, 55, 18, 8])
+sheet("Participantes", ["Código", "Rol", "Perfil (anonimizado)", "Grabaciones"],
+      [[p, v["rol"], v["detalle"], " + ".join(v["audios"])] for p, v in R["participantes"].items()], [10, 22, 55, 18])
 
 out = DB / "RECOEVO_Base_de_Datos_Campo.xlsx"
 wb.save(out); print("ok", out)

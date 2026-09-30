@@ -71,7 +71,7 @@ En la presentación, **cada cifra se calcula en el navegador a partir de las mis
   - κ = 0,70, acuerdo sustancial; coincidencia del 96,9 %.
   - Los códigos con menor acuerdo son "¿Y si los demás no?" y "Líderes y comunidad", que son los más interpretativos.
 - **Saturación** (promedio de 1.000 órdenes aleatorios): con 4 entrevistas ya aparece el 97 % de los temas.
-- **Caso discrepante:** E06, adulta mayor que casi no sale de casa, tiene satisfacción de 2,8. Se reporta como tal.
+- **Caso discrepante:** E06, adulto mayor que casi no sale de casa, tiene satisfacción de 2,8. Se reporta como tal.
 
 ## 7. Hallazgos
 

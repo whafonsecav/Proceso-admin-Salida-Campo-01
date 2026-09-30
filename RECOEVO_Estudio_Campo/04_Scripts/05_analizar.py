@@ -22,7 +22,7 @@ PERFIL = {
     "E03": {"rol": "Hogar · líder", "detalle": "Líder comunitario (50 años en el barrio)", "audios": ["Audio4"], "genero": "H"},
     "E04": {"rol": "Comercio de alimentos", "detalle": "Trabajador de fruver", "audios": ["Audio5"], "genero": "H"},
     "E05": {"rol": "Comercio + hogar", "detalle": "Comerciante arrendataria, 36 años en la zona, hogar de 4", "audios": ["Audio6", "Audio10"], "genero": "M"},
-    "E06": {"rol": "Hogar", "detalle": "Residente adulta mayor, vive con su hija", "audios": ["Audio7"], "genero": "M"},
+    "E06": {"rol": "Hogar", "detalle": "Residente adulto mayor, vive con su hija", "audios": ["Audio7"], "genero": "H"},
     "E07": {"rol": "Hogar + comercio", "detalle": "Residente joven (4 años), atiende un comercio", "audios": ["Audio8"], "genero": "M"},
     "E08": {"rol": "Comercio", "detalle": "Comerciante (5 años), vive en otra zona residencial", "audios": ["Audio9"], "genero": "H"},
 }

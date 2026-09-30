@@ -46,11 +46,11 @@
   },
   "E06": {
    "rol": "Hogar",
-   "detalle": "Residente adulta mayor, vive con su hija",
+   "detalle": "Residente adulto mayor, vive con su hija",
    "audios": [
     "Audio7"
    ],
-   "genero": "M"
+   "genero": "H"
   },
   "E07": {
    "rol": "Hogar + comercio",
