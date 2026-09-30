@@ -1019,6 +1019,8 @@ function fillNumbers() {
 // ---------- MODAL DE EVIDENCIA ----------
 const evm = document.getElementById("evm"), player = document.getElementById("player");
 let playing = null, stopT = null;
+player.addEventListener("timeupdate", () => { if (playing && !player.paused) playing.textContent = `■ Detener · ${mmss(player.currentTime)}`; });
+player.addEventListener("error", () => { if (playing) { playing.textContent = "⚠ Audio no disponible"; playing.classList.remove("on"); playing = null; } });
 function stopAudio() { player.pause(); clearTimeout(stopT); if (playing) playing.classList.remove("on"), playing.textContent = "▶ Escuchar"; playing = null; }
 function openEv(key) {
   const e = evData(key); if (!e) return;
