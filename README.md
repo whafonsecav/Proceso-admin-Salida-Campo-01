@@ -1,5 +1,8 @@
 # RECOEVO* · Salida de campo 01 — Villa Rosita, Usme
 
+## ▶ [Ver la presentación en línea](https://whafonsecav.github.io/Proceso-admin-Salida-Campo-01/)
+**https://whafonsecav.github.io/Proceso-admin-Salida-Campo-01/**
+
 **Percepciones, dinámicas y problemáticas frente al manejo de residuos orgánicos en las calles de Usme**
 
 Politécnico Grancolombiano · Proceso Administrativo · Docente: Ingrid Zoraida Sandoval Pérez
