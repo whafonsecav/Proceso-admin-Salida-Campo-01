@@ -1305,8 +1305,9 @@ async function preload() {
     prog("Cargando mapa satelital…");
     try {  // un solo paquete (pack.bin) con todas las teselas: mucho más rápido que miles de solicitudes
       const idx = await (await fetch("media/tiles/pack.json")).json(), r = await fetch("media/tiles/pack.bin");
-      const size = +r.headers.get("Content-Length") || 1, buf = new Uint8Array(size), rd = r.body.getReader(); let got = 0;
-      for (;;) { const { done: fin, value } = await rd.read(); if (fin) break; buf.set(value, got); got += value.length; done.t = Math.floor(tiles.length * got / size); set("ld-t", done.t, tiles.length); prog(); }
+      // tamaño real desde el índice (el servidor puede enviar el archivo comprimido y su Content-Length no sirve)
+      const size = Object.values(idx).reduce((m, [o, n]) => Math.max(m, o + n), 0), buf = new Uint8Array(size), rd = r.body.getReader(); let got = 0;
+      for (;;) { const { done: fin, value } = await rd.read(); if (fin) break; buf.set(value.subarray(0, Math.max(0, size - got)), got); got += value.length; done.t = Math.min(tiles.length, Math.floor(tiles.length * got / size)); set("ld-t", done.t, tiles.length); prog(); }
       for (const [k, [o, n]] of Object.entries(idx)) TILEMEM.set(k, buf.buffer.slice(o, o + n));
       done.t = tiles.length; set("ld-t", done.t, tiles.length); prog();
     } catch (e) {
