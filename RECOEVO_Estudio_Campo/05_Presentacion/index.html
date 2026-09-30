@@ -140,10 +140,13 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .v-mid{background:rgba(255,181,71,.12);color:var(--amber);border:1.5px solid rgba(255,181,71,.4)}
 .v-new{background:rgba(98,200,255,.12);color:var(--sky);border:1.5px solid rgba(98,200,255,.4)}
 /* ficha */
-.ficha{display:grid;grid-template-columns:repeat(4,1fr);gap:24px 36px;margin-top:36px}
+.ficha{display:grid;grid-template-columns:repeat(4,1fr);gap:22px 30px;margin-top:30px}
 .ficha div{border-top:1.5px solid var(--line);padding-top:16px}
 .ficha dt{font-family:var(--mono);font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:var(--lime);margin-bottom:10px}
-.ficha dd{margin:0;font-size:23px;line-height:1.3;color:#D6DDD8}
+.ficha dd{margin:0;font-size:20px;line-height:1.32;color:#D6DDD8}
+.ficha dd i{font-style:italic;color:var(--soft)}
+.ficha dd.simple{margin-top:10px;font-size:19px;color:var(--soft);padding:9px 12px;border-radius:10px;background:rgba(184,243,90,.07);border-left:3px solid var(--lime)}
+.ficha dd.simple b{color:var(--lime);font-weight:600}
 /* receipt */
 .receipt{width:500px;background:#F1F2EC;color:#0B1014;border-radius:22px 22px 0 0;padding:40px 44px 56px;box-shadow:0 60px 140px rgba(0,0,0,.6);transform:rotate(-3deg);position:relative;font-family:var(--mono);margin:0 auto}
 .receipt::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:22px;background:linear-gradient(-45deg,transparent 11px,#F1F2EC 0) 0 0/22px 22px,linear-gradient(45deg,transparent 11px,#F1F2EC 0) 0 0/22px 22px}
@@ -241,7 +244,7 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 .pt .heat .r{font-size:17px}.pt .heat .r small{display:none}
 .pt .hyp{grid-template-columns:70px 1fr;gap:20px}.pt .hyp .verdict{grid-column:2;justify-self:start}
 .pt .ficha{grid-template-columns:1fr 1fr;gap:26px 30px}
-.pt .ficha dd{font-size:24px}
+.pt .ficha dd{font-size:26px}.pt .ficha dd.simple{font-size:24px}.pt .ficha dt{font-size:19px}
 .pt .people{grid-template-columns:repeat(4,1fr);gap:26px 14px}
 .pt .proto{grid-template-columns:1fr;gap:30px}
 .pt .proto .pimg{height:440px!important;width:440px!important;margin:0 auto}
@@ -355,15 +358,15 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 
 <!-- 01 PORTADA -->
 <section class="cover">
-  <div class="kb" id="kb">
-    <img src="media/shut_prohibido.jpg" alt="" class="on" style="object-position:70% 50%">
+  <div class="kb">
+    <img src="media/shut_prohibido.jpg" alt="" style="object-position:70% 50%">
     <img src="media/perro_icopor.jpg" alt="" style="object-position:45% 60%">
     <img src="media/bolsas_anden.jpg" alt="" style="object-position:60% 60%">
     <img src="media/llanta_cascaras.jpg" alt="" style="object-position:50% 55%">
   </div>
   <div class="shade"></div>
   <div class="glow" style="width:900px;height:900px;left:-300px;top:-200px;background:var(--lime);opacity:.13"></div>
-  <div class="kbdots" id="kbdots"><i class="on"></i><i></i><i></i><i></i></div>
+  <div class="kbdots"><i class="on"></i><i></i><i></i><i></i></div>
   <div class="pad center">
     <img class="a cv-logo" src="media/logo_poli.png" alt="Politécnico Grancolombiano">
     <div class="kicker a" style="margin-top:34px">Proceso Administrativo · Informe de trabajo de campo</div>
@@ -900,32 +903,38 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 <section>
   <div class="pad" style="padding-top:84px">
     <div class="kicker a">Ficha técnica</div>
-    <h2 class="t1 a" style="font-size:58px">Estudio cualitativo exploratorio · Fase 1 urbana</h2>
+    <h2 class="t1 a" style="font-size:52px">Estudio cualitativo exploratorio · Fase 1 urbana</h2><p class="a" style="font-size:20px;color:var(--mute);margin-top:12px">Cada punto trae el dato técnico y, debajo, <b style="color:var(--lime)">en simple</b>, qué quiere decir.</p>
     <dl class="ficha a">
-      <div><dt>Objetivo</dt><dd>Comprobar si las sobras de comida son un problema real en hogares y comercios, antes de diseñar la solución.</dd></div>
-      <div><dt>Lugar y fecha</dt><dd>Barrio Villa Rosita (sector Tihuaque), Usme, Bogotá. Sábado 19 de septiembre de 2026, de 2:30 a 5:00 p. m.</dd></div>
-      <div><dt>Cómo se recogió</dt><dd>Entrevistas en la calle con preguntas abiertas (semiestructuradas), más recorrido de observación con registro de fotos y video.</dd></div>
-      <div><dt>A quién</dt><dd>8 personas: 3 hogares, 3 comercios y 2 que son hogar y comercio. Se entrevistó a quien aceptó hablar en la calle.</dd></div>
-      <div><dt>Material recolectado</dt><dd>10 grabaciones de audio (66 minutos en total), 22 fotos y 4 videos cortos.</dd></div>
+      <div><dt>Tipo de estudio</dt><dd>Cualitativo exploratorio con cuantificación descriptiva de temas (métodos mixtos, <i>quantitizing</i>: Sandelowski et al., 2009).</dd><dd class="simple"><b>En simple:</b> Escuchamos a la gente y luego contamos cuántos dijeron lo mismo.</dd></div>
+      <div><dt>Técnica</dt><dd>Entrevista semiestructurada cara a cara y observación directa con registro fotográfico y audiovisual.</dd><dd class="simple"><b>En simple:</b> Conversaciones con una guía de preguntas abiertas, más fotos y videos de la calle.</dd></div>
+      <div><dt>Lugar y fecha</dt><dd>Villa Rosita, sector Tihuaque, Usme (Bogotá) · 4.5009° N, 74.0859° O · 19-sep-2026, 2:30 a 5:00 p. m.</dd></div>
+      <div><dt>Muestra</dt><dd>8 participantes; muestreo no probabilístico por conveniencia: 3 hogares, 3 comercios, 2 mixtos.</dd><dd class="simple"><b>En simple:</b> Hablamos con quien aceptó en la calle. Por eso describe a esas 8 personas, no a todo el barrio.</dd></div>
+      <div><dt>Material recolectado</dt><dd>10 grabaciones (66 min), 22 fotografías y 4 videos.</dd></div>
+      <div><dt>Validación de transcripciones</dt><dd>Re-transcripción con Whisper large-v3 (reconocimiento de voz, ejecutado localmente) y comparación palabra por palabra: 92 % de similitud.</dd><dd class="simple"><b>En simple:</b> Un programa volvió a escuchar los audios para comprobar que los textos están bien.</dd></div>
+      <div><dt>Método de análisis</dt><dd>Framework Method (Gale et al., 2013): 220 unidades de significado, 17 códigos en 5 dimensiones y matriz caso × tema.</dd><dd class="simple"><b>En simple:</b> Dividimos lo que dijo cada persona en frases, le pusimos un tema a cada una y armamos una tabla de quién habló de qué.</dd></div>
+      <div><dt>Escalas</dt><dd>Escalas ordinales de 1 a 5 con anclas definidas: satisfacción con el barrio y disposición a participar; promedio por persona.</dd><dd class="simple"><b>En simple:</b> Cada opinión recibió una carita de 1 (muy mal) a 5 (muy bien).</dd></div>
+      <div><dt>Confiabilidad</dt><dd>Doble codificación independiente (equipo y modelo Qwen2.5 14B): κ de Cohen 0,70, acuerdo sustancial (Landis y Koch, 1977), 96,9 % de coincidencia. Saturación: 97 % de los temas a las 4 entrevistas (Guest et al., 2006).</dd><dd class="simple"><b>En simple:</b> Dos revisores clasificaron por separado y coincidieron casi siempre, y desde la 4.ª entrevista ya no salían temas nuevos. Es confiable.</dd></div>
+      <div><dt>Reporte y ética</dt><dd>Lista de verificación COREQ (Tong et al., 2007). Consentimiento informado firmado; citas anonimizadas (E01–E08).</dd><dd class="simple"><b>En simple:</b> Seguimos una guía internacional para reportar entrevistas. Todos firmaron y nadie aparece con su nombre.</dd></div>
+      <div><dt>Límites</dt><dd>Sin validez estadística poblacional. Faltan agricultores, vendedores informales y más comercios.</dd><dd class="simple"><b>En simple:</b> Es un primer diagnóstico: hay que completarlo antes de decidir.</dd></div>
       <div><dt>Equipo</dt><dd>Estudiantes: R. Beltrán, W. Fonseca, S. Medina, F. Ortiz y C. Riaño. Docente: I. Z. Sandoval Pérez. Campo: W. J. Ortiz Amador.</dd></div>
-      <div><dt>Revisión de audios</dt><dd>Cada transcripción se comparó con el audio usando un programa de reconocimiento de voz: coinciden en un 92 %. Las frases se corrigieron solo en gramática; el texto literal se conserva.</dd></div>
-      <div><dt>Cómo se analizó</dt><dd>Cada respuesta se dividió en frases (220) y cada frase se clasificó en uno de 17 temas. Luego se contó cuántas personas mencionan cada tema.</dd></div>
-      <div><dt>Caritas 1 a 5</dt><dd>Cada opinión sobre el barrio se calificó de 1 (muy insatisfecho) a 5 (muy satisfecho), y cada opinión sobre participar, de 1 (no) a 5 (sí, con ganas). Se promedió por persona.</dd></div>
-      <div><dt>¿Es confiable?</dt><dd>Sí. Dos revisores clasificaron las frases por separado y coincidieron en el 97 % de los casos, un acuerdo alto. Desde la 4.ª entrevista casi no aparecieron temas nuevos.</dd></div>
-      <div><dt>Qué no dice</dt><dd>Describe a las 8 personas entrevistadas, no a todo el barrio. Faltan agricultores, vendedores de la calle y más comercios.</dd></div>
-      <div><dt>Ética</dt><dd>Todas las personas firmaron la autorización para grabar. Las citas no llevan nombre: cada persona tiene un código (E01 a E08).</dd></div>
     </dl>
   </div>
 </section>
 
 <!-- 31 GRACIAS -->
 <section>
-  <div class="bg"><video src="media/video_vendedor_cascaras.mp4" muted loop playsinline autoplay style="width:100%;height:100%;object-fit:cover;filter:blur(14px) saturate(.9) brightness(.5);transform:scale(1.08)"></video></div>
-  <div class="shade-b"></div>
+  <div class="kb">
+    <img src="media/shut_prohibido.jpg" alt="" style="object-position:70% 50%">
+    <img src="media/perro_icopor.jpg" alt="" style="object-position:45% 60%">
+    <img src="media/bolsas_anden.jpg" alt="" style="object-position:60% 60%">
+    <img src="media/llanta_cascaras.jpg" alt="" style="object-position:50% 55%">
+  </div>
+  <div class="shade-b" style="background:radial-gradient(ellipse at 50% 45%,rgba(5,7,10,.72) 0%,rgba(5,7,10,.45) 55%,rgba(5,7,10,.2) 100%),linear-gradient(0deg,rgba(5,7,10,.85) 0%,rgba(5,7,10,0) 35%)"></div>
+  <div class="kbdots"><i class="on"></i><i></i><i></i><i></i></div>
   <div class="glow" style="width:1000px;height:1000px;left:50%;top:40%;transform:translate(-50%,-50%);background:var(--lime);opacity:.12"></div>
   <div class="pad center" style="align-items:center;text-align:center">
-    <h2 class="a" style="font-size:260px;font-weight:840;letter-spacing:-.065em;line-height:.85"><span class="grad">Gracias</span></h2>
-    <p class="lead a" style="margin-top:46px;text-align:center">A las vecinas y vecinos de Villa Rosita, por abrirnos la puerta.</p>
+    <h2 class="a" style="font-size:260px;font-weight:840;letter-spacing:-.065em;line-height:.85;filter:drop-shadow(0 6px 30px rgba(0,0,0,.6))"><span class="grad">Gracias</span></h2>
+    <p class="lead a" style="margin-top:46px;text-align:center;text-shadow:0 2px 18px rgba(0,0,0,.7)">A las vecinas y vecinos de Villa Rosita, por abrirnos la puerta.</p>
     <div class="kicker a" style="margin-top:56px">RECOEVO · Economía circular en Usme</div>
   </div>
 </section>
@@ -957,6 +966,14 @@ if (PT) {
   document.documentElement.classList.add("pt"); document.documentElement.style.setProperty("--ph", PH + "px"); document.documentElement.style.setProperty("--pw", PW + "px");
   const slides = document.querySelector(".slides"), stack = document.createElement("section");
   stack.className = "stack"; [...slides.children].forEach(s => stack.appendChild(s)); slides.appendChild(stack);
+  // en vertical la ficha técnica se divide en dos láminas para que se lea bien
+  const fs = [...stack.children].find(x => x.querySelector(".ficha"));
+  if (fs) {
+    const f2 = fs.cloneNode(true); fs.after(f2);
+    fs.querySelectorAll(".ficha > div").forEach((d, i) => { if (i >= 6) d.remove(); });
+    f2.querySelectorAll(".ficha > div").forEach((d, i) => { if (i < 6) d.remove(); });
+    fs.querySelector(".kicker").textContent = "Ficha técnica · 1 de 2"; f2.querySelector(".kicker").textContent = "Ficha técnica · 2 de 2";
+  }
 }
 </script>
 <script src="lib/reveal.js"></script>
@@ -1312,21 +1329,21 @@ document.querySelectorAll(".reveal .slides section:not(.stack)").forEach(sec => 
   if (sec.classList.contains("cover") || sec.dataset.fx === "map" || (!PT && sec.querySelector(".qr"))) return;
   const im = document.createElement("img"); im.className = "poli"; im.src = "media/logo_poli.png"; im.alt = "Politécnico Grancolombiano"; sec.appendChild(im);
 });
-(function () {
-  const imgs = [...document.querySelectorAll("#kb img")], dots = [...document.querySelectorAll("#kbdots i")]; let k = 0;
+document.querySelectorAll(".kb").forEach(kb => {
+  const imgs = [...kb.querySelectorAll("img")], dots = [...kb.parentElement.querySelectorAll(".kbdots i")]; let k = 0;
   const show = (i, first) => {
     const im = imgs[i]; gsap.killTweensOf(im); im.style.zIndex = 2;
     gsap.fromTo(im, { scale: 1.02, opacity: first ? 1 : 0 }, { scale: 1.14, duration: 6.5, ease: "none" });
     if (!first) gsap.to(im, { opacity: 1, duration: 1.8, ease: "power1.inOut" });
     dots.forEach((d, j) => d.classList.toggle("on", j === i));
   };
-  imgs.forEach(im => im.classList.remove("on")); show(0, true);
+  show(0, true);
   setInterval(() => {
     const prev = imgs[k]; prev.style.zIndex = 1;                                  // la anterior queda debajo, sigue su zoom
     k = (k + 1) % imgs.length; show(k, false);
     gsap.to(prev, { opacity: 0, duration: 1.8, delay: 1.8, ease: "none" });       // se apaga cuando la nueva ya cubre
   }, 4000);
-})();
+});
 // ---------- PRECARGA: todo a memoria antes de empezar ----------
 const MEDIA = new Map();
 async function preload() {
