@@ -254,10 +254,11 @@ html,body,.reveal-viewport{background:var(--bg)!important;margin:0}
 
 
 /* ===== portada: carrusel ===== */
-.kb{position:absolute;inset:0;overflow:hidden;background:#05070A}
-.kb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 1.6s ease;filter:saturate(.9) brightness(.7);transform:scale(1.04)}
-.kb img.on{opacity:1;animation:kenburns 9s ease-out forwards}
-@keyframes kenburns{from{transform:scale(1.04)}to{transform:scale(1.16)}}
+.kb{position:absolute;inset:0;overflow:hidden;background:#05070A;z-index:0;isolation:isolate}
+.kb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;filter:saturate(1) brightness(.9);will-change:transform,opacity;transform-origin:50% 50%}
+.cover .shade{background:linear-gradient(90deg,rgba(5,7,10,.9) 0%,rgba(5,7,10,.66) 38%,rgba(5,7,10,.18) 72%,rgba(5,7,10,.05) 100%),linear-gradient(0deg,rgba(5,7,10,.75) 0%,rgba(5,7,10,0) 32%)}
+.pt .cover .shade{background:linear-gradient(0deg,rgba(5,7,10,.92) 0%,rgba(5,7,10,.7) 55%,rgba(5,7,10,.25) 100%)}
+.cover .pad p,.cover .pad .cols div,.cover .pad .cv-team div{text-shadow:0 2px 18px rgba(0,0,0,.65)}.cover .pad h1{filter:drop-shadow(0 6px 26px rgba(0,0,0,.55))}
 .kbdots{position:absolute;right:130px;bottom:100px;display:flex;gap:10px;z-index:6}
 .kbdots i{width:34px;height:4px;border-radius:2px;background:rgba(255,255,255,.25);transition:background .6s}
 .kbdots i.on{background:var(--lime)}
@@ -1313,9 +1314,17 @@ document.querySelectorAll(".reveal .slides section:not(.stack)").forEach(sec => 
 });
 (function () {
   const imgs = [...document.querySelectorAll("#kb img")], dots = [...document.querySelectorAll("#kbdots i")]; let k = 0;
+  const show = (i, first) => {
+    const im = imgs[i]; gsap.killTweensOf(im); im.style.zIndex = 2;
+    gsap.fromTo(im, { scale: 1.02, opacity: first ? 1 : 0 }, { scale: 1.14, duration: 6.5, ease: "none" });
+    if (!first) gsap.to(im, { opacity: 1, duration: 1.8, ease: "power1.inOut" });
+    dots.forEach((d, j) => d.classList.toggle("on", j === i));
+  };
+  imgs.forEach(im => im.classList.remove("on")); show(0, true);
   setInterval(() => {
-    imgs[k].classList.remove("on"); dots[k].classList.remove("on"); k = (k + 1) % imgs.length;
-    void imgs[k].offsetWidth; imgs[k].classList.add("on"); dots[k].classList.add("on");
+    const prev = imgs[k]; prev.style.zIndex = 1;                                  // la anterior queda debajo, sigue su zoom
+    k = (k + 1) % imgs.length; show(k, false);
+    gsap.to(prev, { opacity: 0, duration: 1.8, delay: 1.8, ease: "none" });       // se apaga cuando la nueva ya cubre
   }, 4000);
 })();
 // ---------- PRECARGA: todo a memoria antes de empezar ----------
