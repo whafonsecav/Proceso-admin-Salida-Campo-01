@@ -1,0 +1,83 @@
+{
+ "file": "Audio2.mp3",
+ "duration": 26.1485625,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.56,
+   "text": "Don Álvaro, aunque usted ya no lo dijo, ¿cuánto lleva aquí en el sector?",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 5.88,
+   "end": 6.98,
+   "text": "36 años.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 7.16,
+   "end": 9.56,
+   "text": "Usted me dijo que fue uno de los primeros con local aquí.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 9.56,
+   "end": 10.64,
+   "text": "Juntador, sí señor.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 11.44,
+   "end": 13.3,
+   "text": "¿Y siempre ha visto el mismo problema de basuras?",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 13.7,
+   "end": 14.52,
+   "text": "Siempre ha visto.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 14.66,
+   "end": 16.1,
+   "text": "¿Ha mejorado o empeorado?",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 16.22,
+   "end": 21.96,
+   "text": "Antes, trató de mejorar cuando empezaron a recoger, porque antes nunca nos cobraban, pero no nos la recogían.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 22.96,
+   "end": 24.62,
+   "text": "¿Me das un helado, por favor?",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 24.64,
+   "end": 25.12,
+   "text": "Tranquilo.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  },
+  {
+   "start": 25.54,
+   "end": 26.02,
+   "text": "Qué pena.",
+   "avg_logprob": -0.237,
+   "no_speech_prob": 0.264
+  }
+ ]
+}

@@ -1,0 +1,852 @@
+{
+ "n_unidades": 220,
+ "n_sustantivas": 169,
+ "participantes": {
+  "E01": {
+   "rol": "Hogar",
+   "detalle": "Residente de la parte alta, saca la basura de su casa",
+   "audios": [
+    "Audio1"
+   ],
+   "genero": "H"
+  },
+  "E02": {
+   "rol": "Comercio · líder",
+   "detalle": "Comerciante fundador, líder comunal (36 años en el sector)",
+   "audios": [
+    "Audio2",
+    "Audio3"
+   ],
+   "genero": "H"
+  },
+  "E03": {
+   "rol": "Hogar · líder",
+   "detalle": "Líder comunitario (50 años en el barrio)",
+   "audios": [
+    "Audio4"
+   ],
+   "genero": "H"
+  },
+  "E04": {
+   "rol": "Comercio de alimentos",
+   "detalle": "Trabajador de fruver",
+   "audios": [
+    "Audio5"
+   ],
+   "genero": "H"
+  },
+  "E05": {
+   "rol": "Comercio + hogar",
+   "detalle": "Comerciante arrendataria, 36 años en la zona, hogar de 4",
+   "audios": [
+    "Audio6",
+    "Audio10"
+   ],
+   "genero": "M"
+  },
+  "E06": {
+   "rol": "Hogar",
+   "detalle": "Residente adulta mayor, vive con su hija",
+   "audios": [
+    "Audio7"
+   ],
+   "genero": "M"
+  },
+  "E07": {
+   "rol": "Hogar + comercio",
+   "detalle": "Residente joven (4 años), atiende un comercio",
+   "audios": [
+    "Audio8"
+   ],
+   "genero": "M"
+  },
+  "E08": {
+   "rol": "Comercio",
+   "detalle": "Comerciante (5 años), vive en otra zona residencial",
+   "audios": [
+    "Audio9"
+   ],
+   "genero": "H"
+  }
+ },
+ "frecuencias": {
+  "MEZ": {
+   "unidades": 11,
+   "participantes": [
+    "E01",
+    "E02",
+    "E06",
+    "E07",
+    "E08"
+   ],
+   "n_part": 5,
+   "pct_part": 62
+  },
+  "SEP": {
+   "unidades": 15,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E07",
+    "E08"
+   ],
+   "n_part": 6,
+   "pct_part": 75
+  },
+  "APR": {
+   "unidades": 10,
+   "participantes": [
+    "E04",
+    "E05",
+    "E08"
+   ],
+   "n_part": 3,
+   "pct_part": 38
+  },
+  "PUN": {
+   "unidades": 30,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08"
+   ],
+   "n_part": 8,
+   "pct_part": 100
+  },
+  "RUT": {
+   "unidades": 16,
+   "participantes": [
+    "E01",
+    "E02",
+    "E05",
+    "E06",
+    "E07",
+    "E08"
+   ],
+   "n_part": 6,
+   "pct_part": 75
+  },
+  "ROM": {
+   "unidades": 11,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E05",
+    "E07",
+    "E08"
+   ],
+   "n_part": 6,
+   "pct_part": 75
+  },
+  "FAU": {
+   "unidades": 17,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E05",
+    "E07",
+    "E08"
+   ],
+   "n_part": 6,
+   "pct_part": 75
+  },
+  "AMB": {
+   "unidades": 12,
+   "participantes": [
+    "E01",
+    "E02",
+    "E05",
+    "E07",
+    "E08"
+   ],
+   "n_part": 5,
+   "pct_part": 62
+  },
+  "SEG": {
+   "unidades": 4,
+   "participantes": [
+    "E03",
+    "E08"
+   ],
+   "n_part": 2,
+   "pct_part": 25
+  },
+  "CUL": {
+   "unidades": 19,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E07",
+    "E08"
+   ],
+   "n_part": 7,
+   "pct_part": 88
+  },
+  "EST": {
+   "unidades": 13,
+   "participantes": [
+    "E01",
+    "E02",
+    "E07",
+    "E08"
+   ],
+   "n_part": 4,
+   "pct_part": 50
+  },
+  "FRE": {
+   "unidades": 15,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E05",
+    "E08"
+   ],
+   "n_part": 5,
+   "pct_part": 62
+  },
+  "COM": {
+   "unidades": 19,
+   "participantes": [
+    "E02",
+    "E03",
+    "E08"
+   ],
+   "n_part": 3,
+   "pct_part": 38
+  },
+  "EDU": {
+   "unidades": 12,
+   "participantes": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E07"
+   ],
+   "n_part": 5,
+   "pct_part": 62
+  },
+  "ART": {
+   "unidades": 7,
+   "participantes": [
+    "E01",
+    "E02",
+    "E04"
+   ],
+   "n_part": 3,
+   "pct_part": 38
+  },
+  "INC": {
+   "unidades": 5,
+   "participantes": [
+    "E01",
+    "E04",
+    "E05"
+   ],
+   "n_part": 3,
+   "pct_part": 38
+  },
+  "AGR": {
+   "unidades": 12,
+   "participantes": [
+    "E02",
+    "E03",
+    "E05",
+    "E08"
+   ],
+   "n_part": 4,
+   "pct_part": 50
+  }
+ },
+ "dimensiones": {
+  "D1": {
+   "unidades": 32,
+   "n_part": 8,
+   "pct_unidades": 19
+  },
+  "D2": {
+   "unidades": 52,
+   "n_part": 8,
+   "pct_unidades": 31
+  },
+  "D3": {
+   "unidades": 30,
+   "n_part": 6,
+   "pct_unidades": 18
+  },
+  "D4": {
+   "unidades": 41,
+   "n_part": 7,
+   "pct_unidades": 24
+  },
+  "D5": {
+   "unidades": 49,
+   "n_part": 7,
+   "pct_unidades": 29
+  }
+ },
+ "matriz": {
+  "E01": {
+   "MEZ": 3,
+   "SEP": 1,
+   "APR": 0,
+   "PUN": 4,
+   "RUT": 1,
+   "ROM": 1,
+   "FAU": 4,
+   "AMB": 2,
+   "SEG": 0,
+   "CUL": 6,
+   "EST": 1,
+   "FRE": 2,
+   "COM": 0,
+   "EDU": 1,
+   "ART": 3,
+   "INC": 1,
+   "AGR": 0
+  },
+  "E02": {
+   "MEZ": 2,
+   "SEP": 2,
+   "APR": 0,
+   "PUN": 1,
+   "RUT": 1,
+   "ROM": 1,
+   "FAU": 4,
+   "AMB": 1,
+   "SEG": 0,
+   "CUL": 5,
+   "EST": 4,
+   "FRE": 3,
+   "COM": 4,
+   "EDU": 2,
+   "ART": 1,
+   "INC": 0,
+   "AGR": 4
+  },
+  "E03": {
+   "MEZ": 0,
+   "SEP": 2,
+   "APR": 0,
+   "PUN": 4,
+   "RUT": 0,
+   "ROM": 4,
+   "FAU": 2,
+   "AMB": 0,
+   "SEG": 1,
+   "CUL": 2,
+   "EST": 0,
+   "FRE": 5,
+   "COM": 13,
+   "EDU": 3,
+   "ART": 0,
+   "INC": 0,
+   "AGR": 2
+  },
+  "E04": {
+   "MEZ": 0,
+   "SEP": 1,
+   "APR": 5,
+   "PUN": 2,
+   "RUT": 0,
+   "ROM": 0,
+   "FAU": 0,
+   "AMB": 0,
+   "SEG": 0,
+   "CUL": 1,
+   "EST": 0,
+   "FRE": 0,
+   "COM": 0,
+   "EDU": 5,
+   "ART": 3,
+   "INC": 3,
+   "AGR": 0
+  },
+  "E05": {
+   "MEZ": 0,
+   "SEP": 0,
+   "APR": 3,
+   "PUN": 5,
+   "RUT": 4,
+   "ROM": 1,
+   "FAU": 1,
+   "AMB": 2,
+   "SEG": 0,
+   "CUL": 2,
+   "EST": 0,
+   "FRE": 1,
+   "COM": 0,
+   "EDU": 0,
+   "ART": 0,
+   "INC": 1,
+   "AGR": 3
+  },
+  "E06": {
+   "MEZ": 2,
+   "SEP": 0,
+   "APR": 0,
+   "PUN": 3,
+   "RUT": 1,
+   "ROM": 0,
+   "FAU": 0,
+   "AMB": 0,
+   "SEG": 0,
+   "CUL": 0,
+   "EST": 0,
+   "FRE": 0,
+   "COM": 0,
+   "EDU": 0,
+   "ART": 0,
+   "INC": 0,
+   "AGR": 0
+  },
+  "E07": {
+   "MEZ": 2,
+   "SEP": 4,
+   "APR": 0,
+   "PUN": 6,
+   "RUT": 1,
+   "ROM": 3,
+   "FAU": 3,
+   "AMB": 2,
+   "SEG": 0,
+   "CUL": 2,
+   "EST": 2,
+   "FRE": 0,
+   "COM": 0,
+   "EDU": 1,
+   "ART": 0,
+   "INC": 0,
+   "AGR": 0
+  },
+  "E08": {
+   "MEZ": 2,
+   "SEP": 5,
+   "APR": 2,
+   "PUN": 5,
+   "RUT": 8,
+   "ROM": 1,
+   "FAU": 3,
+   "AMB": 5,
+   "SEG": 3,
+   "CUL": 1,
+   "EST": 6,
+   "FRE": 4,
+   "COM": 2,
+   "EDU": 0,
+   "ART": 0,
+   "INC": 0,
+   "AGR": 3
+  }
+ },
+ "coocurrencias": [
+  {
+   "a": "CUL",
+   "b": "PUN",
+   "n": 7
+  },
+  {
+   "a": "FAU",
+   "b": "ROM",
+   "n": 5
+  },
+  {
+   "a": "MEZ",
+   "b": "SEP",
+   "n": 4
+  },
+  {
+   "a": "CUL",
+   "b": "FRE",
+   "n": 4
+  },
+  {
+   "a": "PUN",
+   "b": "ROM",
+   "n": 4
+  },
+  {
+   "a": "AMB",
+   "b": "FAU",
+   "n": 3
+  },
+  {
+   "a": "COM",
+   "b": "FRE",
+   "n": 3
+  },
+  {
+   "a": "AMB",
+   "b": "PUN",
+   "n": 3
+  },
+  {
+   "a": "COM",
+   "b": "EDU",
+   "n": 2
+  },
+  {
+   "a": "COM",
+   "b": "ROM",
+   "n": 2
+  },
+  {
+   "a": "AGR",
+   "b": "COM",
+   "n": 2
+  },
+  {
+   "a": "ART",
+   "b": "INC",
+   "n": 2
+  },
+  {
+   "a": "AMB",
+   "b": "ROM",
+   "n": 2
+  },
+  {
+   "a": "CUL",
+   "b": "MEZ",
+   "n": 1
+  },
+  {
+   "a": "ART",
+   "b": "FRE",
+   "n": 1
+  }
+ ],
+ "saturacion": [
+  {
+   "participante": "E01",
+   "nuevos": 13,
+   "acumulado": 13,
+   "codigos_nuevos": [
+    "AMB",
+    "ART",
+    "CUL",
+    "EDU",
+    "EST",
+    "FAU",
+    "FRE",
+    "INC",
+    "MEZ",
+    "PUN",
+    "ROM",
+    "RUT",
+    "SEP"
+   ]
+  },
+  {
+   "participante": "E02",
+   "nuevos": 2,
+   "acumulado": 15,
+   "codigos_nuevos": [
+    "AGR",
+    "COM"
+   ]
+  },
+  {
+   "participante": "E03",
+   "nuevos": 1,
+   "acumulado": 16,
+   "codigos_nuevos": [
+    "SEG"
+   ]
+  },
+  {
+   "participante": "E04",
+   "nuevos": 1,
+   "acumulado": 17,
+   "codigos_nuevos": [
+    "APR"
+   ]
+  },
+  {
+   "participante": "E05",
+   "nuevos": 0,
+   "acumulado": 17,
+   "codigos_nuevos": []
+  },
+  {
+   "participante": "E06",
+   "nuevos": 0,
+   "acumulado": 17,
+   "codigos_nuevos": []
+  },
+  {
+   "participante": "E07",
+   "nuevos": 0,
+   "acumulado": 17,
+   "codigos_nuevos": []
+  },
+  {
+   "participante": "E08",
+   "nuevos": 0,
+   "acumulado": 17,
+   "codigos_nuevos": []
+  }
+ ],
+ "saturacion_permutada": [
+  10.05,
+  14.0,
+  15.64,
+  16.42,
+  16.81,
+  16.96,
+  17.0,
+  17.0
+ ],
+ "entrevistas_para_80pct": 2,
+ "escalas": {
+  "satisfaccion": {
+   "n": 86,
+   "media": 1.76,
+   "dist": {
+    "1": 34,
+    "2": 44,
+    "3": 3,
+    "4": 5,
+    "5": 0
+   }
+  },
+  "disposicion": {
+   "n": 43,
+   "media": 3.7,
+   "dist": {
+    "1": 0,
+    "2": 4,
+    "3": 11,
+    "4": 22,
+    "5": 6
+   }
+  },
+  "por_participante": {
+   "E01": {
+    "satisfaccion": 1.5,
+    "disposicion": 3.83
+   },
+   "E02": {
+    "satisfaccion": 1.5,
+    "disposicion": 3.1
+   },
+   "E03": {
+    "satisfaccion": 1.62,
+    "disposicion": 4.0
+   },
+   "E04": {
+    "satisfaccion": 1.75,
+    "disposicion": 4.22
+   },
+   "E05": {
+    "satisfaccion": 1.7,
+    "disposicion": 2.5
+   },
+   "E06": {
+    "satisfaccion": 2.83,
+    "disposicion": null
+   },
+   "E07": {
+    "satisfaccion": 1.77,
+    "disposicion": 4.0
+   },
+   "E08": {
+    "satisfaccion": 1.76,
+    "disposicion": 3.33
+   }
+  },
+  "satisfaccion_por_codigo": {
+   "MEZ": 2.0,
+   "SEP": 1.5,
+   "APR": null,
+   "PUN": 1.63,
+   "RUT": 1.77,
+   "ROM": 1.36,
+   "FAU": 1.62,
+   "AMB": 1.75,
+   "SEG": 2.0,
+   "CUL": 1.4,
+   "EST": 1.36,
+   "FRE": 1.83,
+   "COM": 2.0,
+   "EDU": 2.0,
+   "ART": null,
+   "INC": null,
+   "AGR": null
+  }
+ },
+ "acuerdo": {
+  "n_unidades": 220,
+  "kappa_global": 0.695,
+  "acuerdo_global": 0.969,
+  "kappa_medio_por_codigo": 0.694,
+  "por_codigo": {
+   "MEZ": {
+    "kappa": 0.65,
+    "acuerdo": 0.968
+   },
+   "SEP": {
+    "kappa": 0.714,
+    "acuerdo": 0.964
+   },
+   "APR": {
+    "kappa": 0.694,
+    "acuerdo": 0.977
+   },
+   "PUN": {
+    "kappa": 0.593,
+    "acuerdo": 0.914
+   },
+   "RUT": {
+    "kappa": 0.714,
+    "acuerdo": 0.964
+   },
+   "ROM": {
+    "kappa": 0.725,
+    "acuerdo": 0.977
+   },
+   "FAU": {
+    "kappa": 0.902,
+    "acuerdo": 0.986
+   },
+   "AMB": {
+    "kappa": 0.912,
+    "acuerdo": 0.991
+   },
+   "SEG": {
+    "kappa": 0.745,
+    "acuerdo": 0.991
+   },
+   "CUL": {
+    "kappa": 0.725,
+    "acuerdo": 0.955
+   },
+   "EST": {
+    "kappa": 0.809,
+    "acuerdo": 0.982
+   },
+   "FRE": {
+    "kappa": 0.275,
+    "acuerdo": 0.936
+   },
+   "COM": {
+    "kappa": 0.395,
+    "acuerdo": 0.936
+   },
+   "EDU": {
+    "kappa": 0.616,
+    "acuerdo": 0.968
+   },
+   "ART": {
+    "kappa": 0.658,
+    "acuerdo": 0.982
+   },
+   "INC": {
+    "kappa": 0.829,
+    "acuerdo": 0.991
+   },
+   "AGR": {
+    "kappa": 0.85,
+    "acuerdo": 0.986
+   }
+  },
+  "kappa_pond_satisfaccion": 0.735,
+  "kappa_pond_disposicion": 0.68
+ },
+ "personas": {
+  "E01": {
+   "satisfaccion": 1.5,
+   "disposicion": 3.83,
+   "n_sat": 10,
+   "n_dis": 6
+  },
+  "E02": {
+   "satisfaccion": 1.5,
+   "disposicion": 3.1,
+   "n_sat": 10,
+   "n_dis": 10
+  },
+  "E03": {
+   "satisfaccion": 1.62,
+   "disposicion": 4.0,
+   "n_sat": 8,
+   "n_dis": 12
+  },
+  "E04": {
+   "satisfaccion": 1.75,
+   "disposicion": 4.22,
+   "n_sat": 4,
+   "n_dis": 9
+  },
+  "E05": {
+   "satisfaccion": 1.7,
+   "disposicion": 2.5,
+   "n_sat": 10,
+   "n_dis": 2
+  },
+  "E06": {
+   "satisfaccion": 2.83,
+   "disposicion": null,
+   "n_sat": 6,
+   "n_dis": 0
+  },
+  "E07": {
+   "satisfaccion": 1.77,
+   "disposicion": 4.0,
+   "n_sat": 13,
+   "n_dis": 1
+  },
+  "E08": {
+   "satisfaccion": 1.76,
+   "disposicion": 3.33,
+   "n_sat": 25,
+   "n_dis": 3
+  }
+ },
+ "condiciones": {
+  "recoleccion": [
+   "E01",
+   "E02"
+  ],
+  "practico": [
+   "E01",
+   "E03"
+  ],
+  "ejemplo": [
+   "E01",
+   "E04"
+  ],
+  "costo": [
+   "E01"
+  ],
+  "pedagogia": [
+   "E01",
+   "E02",
+   "E03",
+   "E04",
+   "E07"
+  ],
+  "lideres": [
+   "E02",
+   "E03",
+   "E08"
+  ],
+  "incentivo": [
+   "E04",
+   "E05"
+  ]
+ }
+}

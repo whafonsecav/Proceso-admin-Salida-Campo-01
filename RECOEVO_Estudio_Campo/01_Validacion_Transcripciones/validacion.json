@@ -1,0 +1,272 @@
+[
+ {
+  "audio": "Audio1",
+  "duracion_s": 458,
+  "palabras_audio": 1251,
+  "palabras_transcripcion": 1284,
+  "cobertura": 1.026,
+  "wer_aprox": 0.061,
+  "similitud": 0.961,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "willington javier ortiz profesor del politecnico grancolombiano don jose"
+   }
+  ]
+ },
+ {
+  "audio": "Audio2",
+  "duracion_s": 26,
+  "palabras_audio": 74,
+  "palabras_transcripcion": 84,
+  "cobertura": 1.135,
+  "wer_aprox": 0.189,
+  "similitud": 0.899,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador y don alvaro fundador del sector"
+   }
+  ]
+ },
+ {
+  "audio": "Audio3",
+  "duracion_s": 520,
+  "palabras_audio": 1139,
+  "palabras_transcripcion": 1160,
+  "cobertura": 1.018,
+  "wer_aprox": 0.079,
+  "similitud": 0.948,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador y don alvaro fundador y lider comunal del sector"
+   }
+  ]
+ },
+ {
+  "audio": "Audio4",
+  "duracion_s": 501,
+  "palabras_audio": 1204,
+  "palabras_transcripcion": 1214,
+  "cobertura": 1.008,
+  "wer_aprox": 0.12,
+  "similitud": 0.923,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador y don perez fundador y lider comunitario con 50 anos en el barrio"
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "unos cuantos anos mas o menos pero que es esto periquito",
+    "en_transcripcion": ""
+   }
+  ]
+ },
+ {
+  "audio": "Audio5",
+  "duracion_s": 360,
+  "palabras_audio": 885,
+  "palabras_transcripcion": 876,
+  "cobertura": 0.99,
+  "wer_aprox": 0.101,
+  "similitud": 0.939,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador y juan sebastian torres garcia trabajador de fruver"
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "a como son los juguitos de bananos a 3 mil 3 mil a 3 mil si esa es la pared",
+    "en_transcripcion": ""
+   }
+  ]
+ },
+ {
+  "audio": "Audio6",
+  "duracion_s": 387,
+  "palabras_audio": 956,
+  "palabras_transcripcion": 984,
+  "cobertura": 1.029,
+  "wer_aprox": 0.29,
+  "similitud": 0.825,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador y propietaria de local comercial 36 anos en la zona viste"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "todo va en la bolsa de red"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "o sea eso le echamos a los perritos cuando quieren comer ah las sobras de comida siempre a"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "esas se las molemos y se las echamos a las matas"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "cuanto queda el chux de ahi yo creo que"
+   },
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "recientes y recientes",
+    "en_transcripcion": "dos anos hace reciente si hace reciente si"
+   },
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "si nos vamos a preguntar vamos a la ultima parte",
+    "en_transcripcion": "pues que hago por fuera"
+   }
+  ]
+ },
+ {
+  "audio": "Audio7",
+  "duracion_s": 257,
+  "palabras_audio": 541,
+  "palabras_transcripcion": 540,
+  "cobertura": 0.998,
+  "wer_aprox": 0.279,
+  "similitud": 0.831,
+  "bloques_divergentes": [
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "debe ser que hay botas",
+    "en_transcripcion": "eso llega y se lo cae y bota"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "o la basura si no aca no o sea"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "porque nosotros cogemos la basura y la llevamos y la echamos a la comunidad"
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "no se los ninos quien sabe quien sabe nosotros no nosotros no como yo yo soy muy enfermo yo no salgo a caminar ni a comer yo no salgo ni a comer nada",
+    "en_transcripcion": ""
+   },
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "nada mi casa vive muy linda es importante creo que ya cuanto hay de tiempo 4 minutos si creo que",
+    "en_transcripcion": "ok 15 15"
+   }
+  ]
+ },
+ {
+  "audio": "Audio8",
+  "duracion_s": 568,
+  "palabras_audio": 1630,
+  "palabras_transcripcion": 1629,
+  "cobertura": 0.999,
+  "wer_aprox": 0.047,
+  "similitud": 0.971,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador william fonseca politecnico grancolomiano y valentina rodriguez residente y comerciante local"
+   }
+  ]
+ },
+ {
+  "audio": "Audio9",
+  "duracion_s": 798,
+  "palabras_audio": 2324,
+  "palabras_transcripcion": 2467,
+  "cobertura": 1.062,
+  "wer_aprox": 0.142,
+  "similitud": 0.911,
+  "bloques_divergentes": [
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "entrevistador william fonseca politecnico grancolombiano e isaac pardo comerciante y residente de la zona"
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "ya me sofoco un poquito pero no pasa nada",
+    "en_transcripcion": ""
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "si lime la misma la misma si si"
+   },
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "ha hecho las manitas como una o",
+    "en_transcripcion": "echo a"
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "con el problema de basuras que se tiene y problema de",
+    "en_transcripcion": ""
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "no si me entiende que como que o sea"
+   },
+   {
+    "tipo": "insert",
+    "en_audio_whisper": "",
+    "en_transcripcion": "asi que ya diran ah pues las cosas estan asi pues dejemoslas"
+   }
+  ]
+ },
+ {
+  "audio": "Audio10",
+  "duracion_s": 90,
+  "palabras_audio": 174,
+  "palabras_transcripcion": 155,
+  "cobertura": 0.891,
+  "wer_aprox": 0.443,
+  "similitud": 0.742,
+  "bloques_divergentes": [
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "palazno de nata",
+    "en_transcripcion": "paladino la taza para todo para todo si eso ya es completamente ah"
+   },
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "del audio si",
+    "en_transcripcion": "de la ultima entrevista no que hay"
+   },
+   {
+    "tipo": "replace",
+    "en_audio_whisper": "firmar",
+    "en_transcripcion": "nos regalas un reporte aca firma el"
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "creo que el formato quedo mal pues lo pongo aqui sin problema creo que hicimos el formato por error pero eso no sabe digale y nos regalo la fecha estamos a",
+    "en_transcripcion": ""
+   },
+   {
+    "tipo": "delete",
+    "en_audio_whisper": "19 de septiembre ya se sintio diciembre",
+    "en_transcripcion": ""
+   }
+  ]
+ }
+]

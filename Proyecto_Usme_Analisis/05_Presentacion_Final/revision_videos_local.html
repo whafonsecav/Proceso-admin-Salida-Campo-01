@@ -1,0 +1,13 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Revisión local de videos</title>
+<style>body{font:16px Arial;background:#0e1912;color:#f2f3e9;margin:28px}h1{font-size:28px}p{color:#c1cec2}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.clip{background:#17291d;padding:14px;border-radius:8px}.frames{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:10px}.frames figure{margin:0}.frames canvas{display:block;width:100%;background:#28362d;aspect-ratio:16/9;object-fit:cover}.frames figcaption{font-size:11px;color:#bdcbbf;margin-top:3px}.status{color:#c4ef7d}</style>
+<h1>Revisión privada de videos de campo</h1><p>Los archivos se reproducen desde la carpeta local. Se preparan tres fotogramas por clip; las fotos son vistas de inspección, no archivos derivados finales.</p><div class="grid" id="grid"></div>
+<script>
+const clips=[
+['WhatsApp Video 2026-09-20 at 11.12.59 AM.mp4','18 s'],
+['WhatsApp Video 2026-09-20 at 7.47.02 AM.mp4','13 s'],
+['WhatsApp Video 2026-09-20 at 7.47.11 AM.mp4','11 s'],
+['WhatsApp Video 2026-09-20 at 7.47.32 AM.mp4','10 s']
+];
+const grid=document.getElementById('grid');
+for(let i=0;i<clips.length;i++){let [file,dur]=clips[i],box=document.createElement('section');box.className='clip';box.innerHTML=`<b>Clip ${i+1} · ${dur}</b><div class="frames"></div><div class="status">Cargando fotogramas…</div>`;grid.appendChild(box);let video=document.createElement('video');video.preload='auto';video.muted=true;video.src='/Entrevistas/Evidencias/'+encodeURIComponent(file).replaceAll('%2F','/');video.addEventListener('loadedmetadata',async()=>{let times=[0.12,0.5,0.88].map(r=>Math.max(0,Math.min(video.duration-0.08,video.duration*r)));for(let j=0;j<times.length;j++){await new Promise(ok=>{video.onseeked=ok;video.currentTime=times[j]});let c=document.createElement('canvas');c.width=800;c.height=450;let g=c.getContext('2d');let ar=video.videoWidth/video.videoHeight,sw=video.videoWidth,sh=video.videoHeight,sx=0,sy=0;if(ar>16/9){sw=sh*16/9;sx=(video.videoWidth-sw)/2}else{sh=sw*9/16;sy=(video.videoHeight-sh)/2}g.drawImage(video,sx,sy,sw,sh,0,0,800,450);let f=document.createElement('figure');f.append(c);let cap=document.createElement('figcaption');cap.textContent='00:'+String(Math.round(times[j])).padStart(2,'0');f.append(cap);box.querySelector('.frames').append(f)}box.querySelector('.status').textContent=`Fotogramas listos · ${video.videoWidth}×${video.videoHeight}`;video.remove()},{once:true});video.addEventListener('error',()=>box.querySelector('.status').textContent='El navegador no pudo decodificar este clip.',{once:true})}
+</script></html>

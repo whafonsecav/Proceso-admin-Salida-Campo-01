@@ -1,0 +1,230 @@
+{
+ "file": "Audio10.ogg",
+ "duration": 89.7135,
+ "segments": [
+  {
+   "start": 0.16,
+   "end": 1.28,
+   "text": "¿Y el abono es carísimo?",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 1.48,
+   "end": 1.74,
+   "text": "Sí.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 2.04,
+   "end": 4.8,
+   "text": "¿El abono es carísimo y el abono natural 10 veces mejor?",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 4.86,
+   "end": 6.48,
+   "text": "Mejor que todos esos químicos que hay.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 6.48,
+   "end": 7.06,
+   "text": "¿Que todos esos químicos?",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 7.12,
+   "end": 7.28,
+   "text": "Sí.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 7.36,
+   "end": 8.6,
+   "text": "Porque el abono en Colombia se importa.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 9.0,
+   "end": 9.3,
+   "text": "Sí.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 9.62,
+   "end": 13.74,
+   "text": "El abono en Colombia se trae de otro país, entonces empezar desde abajo.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 14.0,
+   "end": 19.1,
+   "text": "Sí, porque en el campo, por ejemplo, yo cuando voy al campo a visitar a los familiares de mi esposo,",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 19.64,
+   "end": 20.94,
+   "text": "ellos todo reciclan.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 21.56,
+   "end": 26.14,
+   "text": "Lo que es los ollejos, todo eso lo cogen y lo...",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 26.14,
+   "end": 27.16,
+   "text": "El café, todo eso.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 27.52,
+   "end": 28.82,
+   "text": "Todo, el palazno de nata.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.211
+  },
+  {
+   "start": 28.82,
+   "end": 38.48,
+   "text": "Entonces, ¿tú autorizas que la grabación del audio, que utilicemos esa grabación del audio?",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 38.48,
+   "end": 42.44,
+   "text": "Sí, para que hagan la tarea",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 42.44,
+   "end": 55.65,
+   "text": "Firmar participante abajito",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 55.65,
+   "end": 56.65,
+   "text": "¿Aquí?",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 56.93,
+   "end": 58.21,
+   "text": "Sí, en esa línea sexta",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 58.21,
+   "end": 67.78,
+   "text": "Y abajo la cédula de ciudadana",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 67.78,
+   "end": 68.28,
+   "text": "¿La cédula?",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 68.46,
+   "end": 69.52,
+   "text": "No, pero aquí la fecha",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.469
+  },
+  {
+   "start": 69.52,
+   "end": 70.96,
+   "text": "creo que el formato",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 70.96,
+   "end": 73.2,
+   "text": "quedó mal, pues lo pongo aquí",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 73.2,
+   "end": 74.88,
+   "text": "sin problema",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 74.88,
+   "end": 76.78,
+   "text": "creo que hicimos el formato por error",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 76.78,
+   "end": 79.8,
+   "text": "pero eso no sabe",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 79.8,
+   "end": 80.9,
+   "text": "dígale",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 80.9,
+   "end": 84.84,
+   "text": "y nos regaló la fecha",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 84.84,
+   "end": 86.18,
+   "text": "estamos a 19",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 86.18,
+   "end": 87.68,
+   "text": "19 de septiembre",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  },
+  {
+   "start": 87.68,
+   "end": 89.58,
+   "text": "ya se sintió diciembre",
+   "avg_logprob": -0.347,
+   "no_speech_prob": 0.224
+  }
+ ]
+}

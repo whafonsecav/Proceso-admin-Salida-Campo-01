@@ -1,0 +1,678 @@
+{
+ "file": "Audio8.mp4",
+ "duration": 568.0426875,
+ "segments": [
+  {
+   "start": 0.8,
+   "end": 6.48,
+   "text": "Perfecto, buenas tardes, mi nombre es William Fonseca, del programa de marcada publicidad del Politécnico Gran Colombiano, ¿tu nombre es?",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 6.84,
+   "end": 7.94,
+   "text": "Valentina Rodríguez",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 7.94,
+   "end": 12.44,
+   "text": "Vale, Valentina, te explico súper breve, estamos en este momento haciendo un proyecto de investigación",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 12.44,
+   "end": 19.86,
+   "text": "para recibir toda la información posible relacionada con todo el tema de las basuras y precisamente de desechos orgánicos",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 19.86,
+   "end": 26.36,
+   "text": "no sé si tú sabías que los desechos orgánicos que son las cáscaras, los huevos, todo lo que es de alimentos",
+   "avg_logprob": -0.087,
+   "no_speech_prob": 0.015
+  },
+  {
+   "start": 26.36,
+   "end": 35.42,
+   "text": "es lo que principalmente hace que roedores, animales y muchos tipos de, digamos que de contaminación",
+   "avg_logprob": -0.113,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 35.42,
+   "end": 39.66,
+   "text": "y temas de salud se producen precisamente por todo este tema de estos desechos orgánicos.",
+   "avg_logprob": -0.113,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 40.08,
+   "end": 45.7,
+   "text": "Digamos que el plástico no atrae las ratas, el plástico no atrae a los perros, pero sí que es lo que lo atrae, precisamente los desechos orgánicos.",
+   "avg_logprob": -0.113,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 46.08,
+   "end": 50.42,
+   "text": "Entonces queremos hablar un poquito más en relación a este tema contigo, ¿perfecto?",
+   "avg_logprob": -0.113,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 50.84,
+   "end": 55.06,
+   "text": "Entonces, me gustaría primero saber tú hace cuánto vives en este sector.",
+   "avg_logprob": -0.113,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 55.06,
+   "end": 59.32,
+   "text": "Bueno, no mucho tiempo, llevo como cuatro años viviendo acá en este sector",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 59.32,
+   "end": 63.6,
+   "text": "Ok, cuatro años viviendo en el sector y durante esos cuatro años",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 63.6,
+   "end": 68.2,
+   "text": "¿Tú has percibido exactamente la misma problemática que has tenido acá en lo que has visto?",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 68.38,
+   "end": 69.7,
+   "text": "¿O eso es algo muy reciente?",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 70.96,
+   "end": 74.62,
+   "text": "Pues es algo que ya ha estado, pero pues con el tiempo ha avanzado un poco más",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 74.62,
+   "end": 77.14,
+   "text": "Entonces se ha visto como más involucra más",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 77.14,
+   "end": 82.48,
+   "text": "¿Y por qué crees que ha avanzado eso desde el inicio que tú llegaste hace cuatro años",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 82.48,
+   "end": 84.62,
+   "text": "Al día de hoy en donde lo ves como con más frecuencia?",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 85.06,
+   "end": 113.54,
+   "text": "Pues yo opino y pienso que primeramente es por falta de cultura, o sea las personas, no es basura entonces voy y lo echo allá, hay muchos que por ejemplo no ponen bolsas en sus canecas de basura y pues vienen y echan la basura, así no sería, entonces principalmente sería por ese factor y también diría que porque hay muchos habitantes de calle también, o sea no ayudan y lo que hacen es regar todo eso, los animalitos de la calle pues también rebuscan ahí,",
+   "avg_logprob": -0.123,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 113.54,
+   "end": 117.02,
+   "text": "y pues eso es un completo desorden y pues afecta a todos como tal.",
+   "avg_logprob": -0.107,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 117.34,
+   "end": 120.46,
+   "text": "Hay tres cosas que tú tocas interesantes, entonces voy a abordar la primera.",
+   "avg_logprob": -0.107,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 120.6,
+   "end": 125.9,
+   "text": "La primera tú dices falta de cultura, ¿recuerdas en estos cuatro años que has estado acá",
+   "avg_logprob": -0.107,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 125.9,
+   "end": 131.12,
+   "text": "que se hayan hecho campañas de concientización, de cultura con todos los habitantes del sector?",
+   "avg_logprob": -0.107,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 131.7,
+   "end": 138.12,
+   "text": "No, mira que no, no, o sea, no, ni la gente por sí misma toma conciencia, no es que es algo complicado,",
+   "avg_logprob": -0.107,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 138.12,
+   "end": 143.56,
+   "text": "complicado o por ejemplo pues ejemplo a mí pues en mi casa no hay como tal algo",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.079
+  },
+  {
+   "start": 143.56,
+   "end": 147.6,
+   "text": "de reciclaje pero pues sí con mis hermanos hemos planteado la idea y pues",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.079
+  },
+  {
+   "start": 147.6,
+   "end": 150.88,
+   "text": "lo hemos ido haciendo por ejemplo hojas que ya no necesitamos entonces como",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.079
+  },
+  {
+   "start": 150.88,
+   "end": 156.88,
+   "text": "hay bien vamos a llevarlo a algún lugar que si puedan aprovechar ese",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.079
+  },
+  {
+   "start": 158.18,
+   "end": 164.88,
+   "text": "material material ok tú mencionaste otra segunda cosa importante y que de hecho",
+   "avg_logprob": -0.187,
+   "no_speech_prob": 0.079
+  },
+  {
+   "start": 164.88,
+   "end": 170.4,
+   "text": "lo notamos cuando llegamos y fue la cantidad de perritos que hay, desde el momento que",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.103
+  },
+  {
+   "start": 170.4,
+   "end": 173.5,
+   "text": "tú llegaste hace cuatro años hasta el día de hoy, siempre ha sido ese comportamiento",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.103
+  },
+  {
+   "start": 173.5,
+   "end": 177.18,
+   "text": "a nivel de todos los animalitos y no solo perritos, ¿has visto otro tipo de animales",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.103
+  },
+  {
+   "start": 177.18,
+   "end": 179.98,
+   "text": "que han estado alrededor de todo este tema de desechos?",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.103
+  },
+  {
+   "start": 181.22,
+   "end": 186.32,
+   "text": "Pues sí, ha influenciado mucho más el abandono de animalitos, entonces, pues cuando yo llegué",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.103
+  },
+  {
+   "start": 186.32,
+   "end": 191.24,
+   "text": "sí se veía, pero no mucho, yo creo que con el paso del tiempo es cuando más va avanzando,",
+   "avg_logprob": -0.076,
+   "no_speech_prob": 0.103
+  },
+  {
+   "start": 191.24,
+   "end": 220.04,
+   "text": "Entonces, por ese lado, más animales distintos a los perritos, no, mira que gatos casi no, ellos sí son muy de casa, pero, bueno, ratas, pero eso es por la misma contaminación que sí se percibe, sí he visto, entonces, eso no se afecta muchísimo, tanto también el ambiente, que eso va a nuestro sistema respiratorio y todo eso, entonces, a mayor tiempo después nos puede afectar, pero entonces.",
+   "avg_logprob": -0.111,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 220.04,
+   "end": 227.1,
+   "text": "Y el tema de la indigencia que mencionas, que has visto bastante habitante en condición de calle",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 227.1,
+   "end": 231.82,
+   "text": "¿Cómo es el comportamiento de ellos en relación a este sector en particular?",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 231.82,
+   "end": 234.8,
+   "text": "Que vemos que tienes un gran problema de basuras aquí al lado",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 234.8,
+   "end": 240.32,
+   "text": "¿Exactamente cómo es su comportamiento que hace que afecte aún más el problema?",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 241.18,
+   "end": 248.08,
+   "text": "Bueno, pues principalmente ellos ingresan ahí al lugar y pues a esas, digamos las bolsas que ya están hechas",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.054
+  },
+  {
+   "start": 248.08,
+   "end": 254.26,
+   "text": "a desarmarlas y dejar un desorden por todo eso y a eso viene pues que van regando toda",
+   "avg_logprob": -0.101,
+   "no_speech_prob": 0.052
+  },
+  {
+   "start": 254.26,
+   "end": 257.86,
+   "text": "esa basura y se va expandiendo, o sea era solo la casita que se ve ahí pero ahora es",
+   "avg_logprob": -0.101,
+   "no_speech_prob": 0.052
+  },
+  {
+   "start": 257.86,
+   "end": 262.18,
+   "text": "todo por fuera, se puede observar la montañita, ya todo eso está lleno de basura, entonces",
+   "avg_logprob": -0.101,
+   "no_speech_prob": 0.052
+  },
+  {
+   "start": 262.18,
+   "end": 269.1,
+   "text": "eso influye en que ellos pues por buscar algo de comer para ellos, realizan ese tipo de cosas.",
+   "avg_logprob": -0.101,
+   "no_speech_prob": 0.052
+  },
+  {
+   "start": 269.82,
+   "end": 277.58,
+   "text": "¿Tú recuerdas si alguien conocido o tú o acá la persona encargada de este comercio",
+   "avg_logprob": -0.101,
+   "no_speech_prob": 0.052
+  },
+  {
+   "start": 277.58,
+   "end": 285.0,
+   "text": "haya puesto algún tipo de denuncia, algún derecho de petición o algo ante los entes reguladores",
+   "avg_logprob": -0.115,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 285.0,
+   "end": 287.6,
+   "text": "o el mismo distrito con el problema que ustedes tienen?",
+   "avg_logprob": -0.115,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 288.14,
+   "end": 294.12,
+   "text": "Sí, claro, sí, varias personas ya lo han hecho la petición, pero aún así no se ha sido escuchado de manera",
+   "avg_logprob": -0.115,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 294.12,
+   "end": 299.16,
+   "text": "como deberíamos ser escuchados, como quisiéramos, entonces, pues sí se han hecho,",
+   "avg_logprob": -0.115,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 299.16,
+   "end": 303.18,
+   "text": "pero pues no se ha actuado de manera que nosotros nos gustaría que actuara.",
+   "avg_logprob": -0.115,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 303.76,
+   "end": 305.9,
+   "text": "¿A ti cómo te gustaría que se solucionara el problema?",
+   "avg_logprob": -0.115,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 305.9,
+   "end": 313.12,
+   "text": "Si tú tuvieses la oportunidad de proponer una solución y decir, uff, esto lo deberían hacer, ¿qué crees que debería ser la solución?",
+   "avg_logprob": -0.103,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 313.92,
+   "end": 321.12,
+   "text": "Primordial, pues una campaña, sería súper importante concientizar, porque pues primero empieza desde nosotros, desde casa puede empezar,",
+   "avg_logprob": -0.103,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 321.56,
+   "end": 333.26,
+   "text": "y pues así mismo en la regular, pues las basuras, ejemplo, pues hay mucho tema que no es basura, pero sí se puede utilizar, reutilizar,",
+   "avg_logprob": -0.103,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 333.26,
+   "end": 337.68,
+   "text": "Entonces, eso sería un buen mecanismo para plantear.",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 338.32,
+   "end": 346.42,
+   "text": "Ok. Desde la casa, tú mencionabas que estabas o con tus hermanos hacías un poco de iniciativas a nivel de reciclaje.",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 346.7,
+   "end": 355.36,
+   "text": "Si nos vamos exactamente al tema de los desechos orgánicos en la cocina, en tu hogar, ¿cómo hacen ustedes el manejo de lo típico?",
+   "avg_logprob": -0.089,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 355.36,
+   "end": 360.78,
+   "text": "con la cáscara de huevo que queda después de hacer el desayuno, la cáscara de banano",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 360.78,
+   "end": 364.64,
+   "text": "y todo este tipo de desechos orgánicos incluso que quedan en el plato después,",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 365.24,
+   "end": 367.36,
+   "text": "¿qué pasa con eso a nivel del hogar?",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 368.04,
+   "end": 373.12,
+   "text": "Bueno, pues eso sí, o lo consideramos o quizás no tengamos el conocimiento,",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 373.12,
+   "end": 379.08,
+   "text": "pues sí es algo orgánico, pero entonces sí lo botamos, sí lo desperdiciamos y pues va a la basura.",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 379.82,
+   "end": 385.26,
+   "text": "¿Tienen un mismo chute de basura para todo o se separan?",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 386.16,
+   "end": 392.96,
+   "text": "Separamos lo que digamos es plástico y hojas y ya lo orgánico de cocina pues queda solo en la cocina, en la basura de la cocina.",
+   "avg_logprob": -0.132,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 393.52,
+   "end": 403.7,
+   "text": "Lo orgánico de cocina va junto con, no sé, con más basura aparte del plástico, el plástico y el papel lo separan, pero todo lo demás va en el mismo chute?",
+   "avg_logprob": -0.132,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 405.56,
+   "end": 411.7,
+   "text": "Diría pues lo orgánico, porque por ejemplo esos plastiquitos de dulces o cosas así va con lo plástico y papel pues que ya mencioné anteriormente.",
+   "avg_logprob": -0.132,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 411.7,
+   "end": 415.52,
+   "text": "¿Cada cuánto pasa acá la basura?",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.155
+  },
+  {
+   "start": 416.76,
+   "end": 423.38,
+   "text": "Cada día, día y por medio pasa, o sea no es muy demorada tampoco",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.155
+  },
+  {
+   "start": 423.38,
+   "end": 430.58,
+   "text": "Y el comportamiento que tienes tú, incluso que has visto tus vecinos en relación al paso de la basura",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.155
+  },
+  {
+   "start": 430.58,
+   "end": 436.86,
+   "text": "¿La dejan en qué lugar o cómo hacen para dejar los desechos, específicamente los desechos orgánicos?",
+   "avg_logprob": -0.167,
+   "no_speech_prob": 0.155
+  },
+  {
+   "start": 436.86,
+   "end": 441.52,
+   "text": "los mantienen en su hogar mientras llega la basura, los sacan después de que llegue la basura",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 441.52,
+   "end": 448.18,
+   "text": "en el momento que llega la basura o cómo funciona ese tema del camino desde la cocina hasta ese carro",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 448.18,
+   "end": 453.22,
+   "text": "Bueno pues he evidenciado varias veces que es mucho antes, una noche antes sacan la basura",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 453.22,
+   "end": 458.34,
+   "text": "entonces se ve mucho el reguero de basura y ahí es donde aprovechan los animalitos a hacer su desorden",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 458.34,
+   "end": 464.82,
+   "text": "entonces al día siguiente se ve mucho desorden, aunque pues las personas que son encargadas de recoger la basura",
+   "avg_logprob": -0.086,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 464.82,
+   "end": 472.52,
+   "text": "intentan limpiar y pues dejar eso lo más prudente, pero pues aún así no es suficiente porque pues también aquí un factor es el viento,",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 472.68,
+   "end": 481.3,
+   "text": "entonces eso corre muchísimo la basura, entonces eso llega hasta nuestras caras que es algo pues incómodo y ya.",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 482.06,
+   "end": 490.68,
+   "text": "Ok, una última pregunta ya para finalizar y es el tema del espacio en este sector a nivel de los hogares,",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 490.68,
+   "end": 518.9,
+   "text": "Entonces, el tipo de elemento que utilizan para recoger este tipo de desechos orgánicos es qué tipo de caja o qué tipo de, ¿cómo se llamaría esto? ¿Chut? ¿Cierto? Como qué tipo de, sí, no sé cómo decirle, como dónde se deposita, o sea, qué tipo de elemento utilizan, la bolsa ahí en el piso, utilizan una caneca, más o menos de qué tamaño suelen utilizar todo este tipo de cosas para ustedes.",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 518.9,
+   "end": 521.02,
+   "text": "tanto en el comercio como también",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 521.02,
+   "end": 523.28,
+   "text": "en tu hogar. Hay bolsitas de basura",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 523.28,
+   "end": 524.1,
+   "text": "bien cerradas",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 524.1,
+   "end": 526.68,
+   "text": "y se deja ahí pues, o sea",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 526.68,
+   "end": 529.12,
+   "text": "es que hay puntos específicos",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 529.12,
+   "end": 530.86,
+   "text": "donde se puede dejar la basura que son como",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 530.86,
+   "end": 533.06,
+   "text": "una casita así donde se ve, pues acá",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 533.06,
+   "end": 535.08,
+   "text": "hay uno y en la parte de arriba, bien arriba",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 535.08,
+   "end": 536.86,
+   "text": "hay otro, pero entonces todas estas",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 536.86,
+   "end": 539.4,
+   "text": "personas de esquinas las dejan ahí en la esquina",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 539.4,
+   "end": 541.06,
+   "text": "entonces pues eso no está bien porque ahí",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 541.06,
+   "end": 543.04,
+   "text": "es por donde se empieza, entonces si no",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 543.04,
+   "end": 544.9,
+   "text": "deberían llevar la apuesta a los puntos que ya",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 544.9,
+   "end": 546.48,
+   "text": "integrados, entonces",
+   "avg_logprob": -0.128,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 546.48,
+   "end": 560.12,
+   "text": "Entonces, sí, la mayoría de veces solo es en bolsitas bien cerradas y ya, y pues como ya dije principalmente, pues a veces hay personas también que ni siquiera bolsan, entonces solo llevan la caneca de su basura, la echan y ya, porque si lo he evidenciado y pues si lo he visto.",
+   "avg_logprob": -0.105,
+   "no_speech_prob": 0.005
+  },
+  {
+   "start": 561.96,
+   "end": 567.96,
+   "text": "Perfecto, entonces damos por finalizada la entrevista, mil mil gracias y acá paró la grabación.",
+   "avg_logprob": -0.105,
+   "no_speech_prob": 0.005
+  }
+ ]
+}

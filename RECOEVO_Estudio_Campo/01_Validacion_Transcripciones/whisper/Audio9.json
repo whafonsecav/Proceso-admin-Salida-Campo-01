@@ -1,0 +1,1434 @@
+{
+ "file": "Audio9.mp4",
+ "duration": 798.1013125,
+ "segments": [
+  {
+   "start": 1.07,
+   "end": 7.03,
+   "text": "Entonces, primero me presento, soy William Fonseca, estudiante del programa de Mercado de Publicidad",
+   "avg_logprob": -0.1,
+   "no_speech_prob": 0.198
+  },
+  {
+   "start": 7.03,
+   "end": 9.61,
+   "text": "Politécnico Gran Colombiano, ¿con quién tengo el gusto?",
+   "avg_logprob": -0.1,
+   "no_speech_prob": 0.198
+  },
+  {
+   "start": 9.79,
+   "end": 10.85,
+   "text": "Con Isaac, perdón",
+   "avg_logprob": -0.1,
+   "no_speech_prob": 0.198
+  },
+  {
+   "start": 10.85,
+   "end": 17.33,
+   "text": "Isaac, como te comenté hace un momento, estamos haciendo un estudio de todo el tema del sector",
+   "avg_logprob": -0.1,
+   "no_speech_prob": 0.198
+  },
+  {
+   "start": 17.33,
+   "end": 23.39,
+   "text": "y a nivel de desechos orgánicos específicamente, que es lo que provoca, digamos que los malos olores",
+   "avg_logprob": -0.1,
+   "no_speech_prob": 0.198
+  },
+  {
+   "start": 23.39,
+   "end": 29.45,
+   "text": "infecciones, contaminación, todo el tema de roedores y también de los mismos perritos",
+   "avg_logprob": -0.1,
+   "no_speech_prob": 0.198
+  },
+  {
+   "start": 29.45,
+   "end": 35.01,
+   "text": "que destapan bolsas y todo este tema. Entonces vamos a conocer un poquito más tu opinión sobre eso en particular.",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 35.53,
+   "end": 41.19,
+   "text": "Lo primero es conocerte un poco. ¿Hace cuánto estás en este barrio, en este sector?",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 41.69,
+   "end": 48.49,
+   "text": "Bueno, pues la verdad, o sea, hace ¿qué? Como cinco años más o menos, pero yo no vivo acá.",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 51.95,
+   "end": 57.77,
+   "text": "Ok, hace cinco años tienes el local acá, por decir algo bueno, o trabajas por este sector.",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 57.77,
+   "end": 62.71,
+   "text": "Ok, ¿qué percibes tú en este sector a diferencia de donde tú sueles vivir?",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 64.09,
+   "end": 65.81,
+   "text": "O sea, ¿qué percibo como en qué sentido?",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 66.01,
+   "end": 70.17,
+   "text": "En el sentido de todo el tema de contaminación y desechos orgánicos",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 70.17,
+   "end": 76.29,
+   "text": "Pues la verdad, por ejemplo, saca la basura, pasa, pero pasa es como, o sea, como le diría yo, pasa es de afán",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 76.29,
+   "end": 77.81,
+   "text": "¿Sí?",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 78.81,
+   "end": 86.45,
+   "text": "Sí, en sí, en sí, no, por ejemplo, digamos, no paran en cierto lugar, que pronto digan, bueno, mire, que pasó el carro, toca sacar la basura",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 86.45,
+   "end": 88.31,
+   "text": "No, si no pasan este afán",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 88.31,
+   "end": 89.71,
+   "text": "Eso por un lado",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 89.71,
+   "end": 92.79,
+   "text": "Por el otro, pues como a tres cuadras más o menos",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 92.79,
+   "end": 97.73,
+   "text": "Pues hay un sitio donde se puede dejar la basura",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 97.73,
+   "end": 99.91,
+   "text": "Pero de igual está la misma vaina",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 99.91,
+   "end": 102.95,
+   "text": "Porque, o sea, de allá pues vienen, si me entiende",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 102.95,
+   "end": 106.55,
+   "text": "Pues digamos así, la gente y escarban",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 106.55,
+   "end": 108.45,
+   "text": "Y bueno, y si me entiende, sacan papeles",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 108.45,
+   "end": 110.17,
+   "text": "Que salen al viento, los perros",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 110.17,
+   "end": 112.67,
+   "text": "Entonces todo eso lo traen otra vez para, si me entiende",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 112.67,
+   "end": 114.41,
+   "text": "Para la zona",
+   "avg_logprob": -0.138,
+   "no_speech_prob": 0.248
+  },
+  {
+   "start": 114.41,
+   "end": 121.53,
+   "text": "entonces pues de igual pues o sea está como si es bueno es es pero al mismo tiempo pues no porque no",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.026
+  },
+  {
+   "start": 121.53,
+   "end": 130.37,
+   "text": "no no no no se benefició no hay nada y si llegan a los olores de unos animales los animalitos ratas",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.026
+  },
+  {
+   "start": 130.37,
+   "end": 136.07,
+   "text": "buenos y de todo lo que sea cuando tú llegaste a este sector hace cinco años al día de hoy la",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.026
+  },
+  {
+   "start": 136.07,
+   "end": 142.31,
+   "text": "situación cambió o siempre ha sido así siempre ha sido así siempre ha sido así no cambia para",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.026
+  },
+  {
+   "start": 142.31,
+   "end": 155.29,
+   "text": "Tú hablabas algo interesante y es en relación a que acá el sistema de aseo y todo el tema de las basuras pasa cuando se le dé la gana, ¿o has notado que tiene cierta periosidad?",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 155.97,
+   "end": 166.79,
+   "text": "No, pues más que todo se supone que, digamos, tiene que pasar los lunes, los miércoles y los sábados. Hoy, por ejemplo, es sábado y no he visto ni siquiera el carro por ahí.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 167.91,
+   "end": 169.49,
+   "text": "Si me entienden, entonces pues no.",
+   "avg_logprob": -0.161,
+   "no_speech_prob": 0.086
+  },
+  {
+   "start": 169.49,
+   "end": 174.67,
+   "text": "¿Cómo funciona la recolección de todo el tema de desechos orgánicos en un local como este?",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 175.05,
+   "end": 182.57,
+   "text": "¿Cuál es el protocolo? ¿Cómo la Secretaría de Educación exige algo en particular a nivel de manejo de desechos orgánicos en un local como este?",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 182.57,
+   "end": 186.55,
+   "text": "Sí, claro, sí señor, si ellos le dicen a uno, por ejemplo, digamos, miren, hay canecas ahí",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 186.55,
+   "end": 194.33,
+   "text": "y uno tiene una caneca allá y por ejemplo, digamos, bota uno lo que es así basura, digamos, papeles, bueno, así, cositas así",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 194.33,
+   "end": 204.45,
+   "text": "Y tiene una otra caneca donde, por ejemplo, digamos, recicla, digamos, todo lo que sea de plástico, digámoslo así.",
+   "avg_logprob": -0.095,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 205.27,
+   "end": 212.13,
+   "text": "Ok, y a nivel de orgánico, ¿qué es? ¿Cáscaras de huevo? No sé, el almuerzo, cuando uno termina de almorzar,",
+   "avg_logprob": -0.095,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 212.23,
+   "end": 217.53,
+   "text": "¿qué le quedó? ¿Los frijolitos ahí pegados? ¿El pedacito de ensalada? ¿Todo eso? ¿A dónde va?",
+   "avg_logprob": -0.095,
+   "no_speech_prob": 0.012
+  },
+  {
+   "start": 218.05,
+   "end": 221.49,
+   "text": "Bueno, pues de igual, o sea, yo en particular, o sea, yo no almorzo acá.",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 222.01,
+   "end": 228.31,
+   "text": "O sea, yo digamos, yo cierro y me tomo mi media hora o mis 45 minutos, voy a almorzar y después vuelvo otra vez.",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 228.71,
+   "end": 229.11,
+   "text": "Ok.",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 229.39,
+   "end": 230.35,
+   "text": "O sea, de igual, sí, o sea.",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 230.91,
+   "end": 231.65,
+   "text": "Perfecto, ok.",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 231.65,
+   "end": 239.37,
+   "text": "En relación a lo que mencionaba de los desechos y de este tema de los chutes que tienes tanto adentro como afuera,",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 240.41,
+   "end": 247.41,
+   "text": "¿este en particular lo manejas exclusivamente para todos los clientes que ingresan o cómo funciona la recolección de este en particular?",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 248.09,
+   "end": 250.37,
+   "text": "Sí, pues más que todo, por ejemplo, digamos, pues no falta el que diga,",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 250.39,
+   "end": 254.83,
+   "text": "ay, vecino, voy a botar esa botellita acá, o vecino, voy a botar tal cosa acá, ¿sí?",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 255.13,
+   "end": 255.73,
+   "text": "De igual a sí.",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 255.85,
+   "end": 259.43,
+   "text": "¿No importaría, por ejemplo, llegar con una cáscara de banano y botarla ahí?",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 260.13,
+   "end": 263.23,
+   "text": "No, o sea, por ejemplo, digamos, sí, o sea, si llegan y la botan ahí, pues la botan ahí,",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 263.31,
+   "end": 267.45,
+   "text": "pero de igual, o sea, por ejemplo, igual uno, pues, o sea, nosotros tenemos una chica acá,",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 267.97,
+   "end": 272.39,
+   "text": "y ella la que hace el aseo y tal, entonces uno le dice, bueno, si de pronto hay allá frascos o algo,",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 272.87,
+   "end": 276.39,
+   "text": "échelos acá y el resto, lo que es basura, pues déjelo allá.",
+   "avg_logprob": -0.149,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 276.39,
+   "end": 284.79,
+   "text": "Perfecto, ¿cómo ve el sector a nivel de qué tanto le afecta, por ejemplo, el hecho de todos los animalitos que están en el sector?",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 285.39,
+   "end": 290.23,
+   "text": "Hemos visto muchísimo perrito por toda la calle, ¿a qué cree que se debe eso particularmente?",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 290.91,
+   "end": 296.83,
+   "text": "Pues hoy en día prácticamente la gente tiene que elegir a John, como más prioridad con los perros, digámoslo así",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 296.83,
+   "end": 301.99,
+   "text": "que una persona, entonces pues hay muchas personas que tienen esos perros",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 301.99,
+   "end": 305.59,
+   "text": "o sea los tienen y al mismo tiempo no los tienen porque los tienen abandonados",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.077
+  },
+  {
+   "start": 305.59,
+   "end": 307.73,
+   "text": "Entonces igual uno si ve mucho perro en la calle",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 307.73,
+   "end": 311.27,
+   "text": "Bastante, hemos logrado ver bastante perrito en la calle",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 311.27,
+   "end": 316.43,
+   "text": "Ahora bien, esos perritos en particular adicional a otros tipos de animales",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 316.43,
+   "end": 324.69,
+   "text": "¿Qué opinión usted tiene en relación a cómo se ve afectado el tema de las basuras en relación a todos estos animalitos?",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 325.19,
+   "end": 328.29,
+   "text": "¿Son atraídos, no son atraídos o cómo funciona?",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 328.43,
+   "end": 329.97,
+   "text": "Ay perdón, sí, dale tranquilo",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 329.97,
+   "end": 333.81,
+   "text": "Dale, ya me sofocó un poquito pero no pasa nada",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 333.81,
+   "end": 339.47,
+   "text": "Tú mencionaste algo en relación al problema que tenía este sector con los chutes que quedan aquí a pocas cuadras.",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 339.61,
+   "end": 347.45,
+   "text": "De hecho, en relación a ese problema, ¿recuerdas durante estos cinco años que se haya hecho alguna solicitud oficial,",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 347.81,
+   "end": 353.05,
+   "text": "que hayan venido, que hayan hecho alguna campaña o algo en relación para solucionar?",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 353.17,
+   "end": 354.59,
+   "text": "¿Han propuesto alguna solución?",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 354.93,
+   "end": 355.59,
+   "text": "No, no, señor.",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 356.47,
+   "end": 357.69,
+   "text": "Hasta donde yo sepa, no.",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 358.37,
+   "end": 362.53,
+   "text": "¿Y recuerda que de pronto la comunidad se haya unido para hacer solicitudes?",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 362.53,
+   "end": 363.59,
+   "text": "No, tampoco.",
+   "avg_logprob": -0.127,
+   "no_speech_prob": 0.023
+  },
+  {
+   "start": 363.81,
+   "end": 382.41,
+   "text": "Ok, hasta este momento, ese problema que ustedes están presentando en el sector, ¿no ha habido como una conciliación con toda la comunidad, tanto de comercios como de viviendas, para decir, pasemos esto a la superintendencia, no sé, o al tema de alcantarillado o al ente regulado?",
+   "avg_logprob": -0.094,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 382.65,
+   "end": 383.39,
+   "text": "No, no señor.",
+   "avg_logprob": -0.094,
+   "no_speech_prob": 0.021
+  },
+  {
+   "start": 383.39,
+   "end": 390.87,
+   "text": "Perfecto, ahora mencionabas algo relacionado con el paso a las basuras y me voy a devolver un poquito nuevamente a ese tema",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.053
+  },
+  {
+   "start": 390.87,
+   "end": 397.33,
+   "text": "Y es que, ¿cuál es la diferencia entre el paso a las basuras en este sector en relación al sector donde tú vives?",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.053
+  },
+  {
+   "start": 398.03,
+   "end": 401.81,
+   "text": "Bueno, lo que pasa es que digamos acá donde tiene uno el negocio pues es comercial",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.053
+  },
+  {
+   "start": 401.81,
+   "end": 409.03,
+   "text": "Y pues donde yo vivo pues es residencial, allá sí pasa la basura",
+   "avg_logprob": -0.109,
+   "no_speech_prob": 0.053
+  },
+  {
+   "start": 409.03,
+   "end": 416.39,
+   "text": "Eso sí, por ejemplo, digamos, pasa lo que es el lunes, el miércoles y el viernes",
+   "avg_logprob": -0.119,
+   "no_speech_prob": 0.17
+  },
+  {
+   "start": 416.39,
+   "end": 418.51,
+   "text": "Esos tres días sí pasa, ¿para qué?",
+   "avg_logprob": -0.119,
+   "no_speech_prob": 0.17
+  },
+  {
+   "start": 418.91,
+   "end": 420.11,
+   "text": "Y pasa cumplido",
+   "avg_logprob": -0.119,
+   "no_speech_prob": 0.17
+  },
+  {
+   "start": 420.11,
+   "end": 424.25,
+   "text": "Y pasa cumplido, y hasta pitan y todo, o sea, como tiene que ser, digámoslo así",
+   "avg_logprob": -0.119,
+   "no_speech_prob": 0.17
+  },
+  {
+   "start": 424.25,
+   "end": 429.15,
+   "text": "Pero acá no, y se supone que acá es comercio, pues es donde antes con más verano",
+   "avg_logprob": -0.119,
+   "no_speech_prob": 0.17
+  },
+  {
+   "start": 429.15,
+   "end": 435.03,
+   "text": "Pero eso sí, llega Navidad, entonces ahí sí pasan los que supuestamente barren por ahí",
+   "avg_logprob": -0.119,
+   "no_speech_prob": 0.17
+  },
+  {
+   "start": 435.03,
+   "end": 438.79,
+   "text": "hay vecinos que la navidad que no sé qué prácticamente no como les va a la navidad",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.037
+  },
+  {
+   "start": 438.79,
+   "end": 447.01,
+   "text": "si no se lo han ganado y como lo ha sido ok la empresa que recoge la basura acá es la misma o",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.037
+  },
+  {
+   "start": 447.01,
+   "end": 450.53,
+   "text": "sea esa basura que empresa o recuerdas el nombre de la empresa que la recoge",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.037
+  },
+  {
+   "start": 450.53,
+   "end": 460.79,
+   "text": "porque esa como es toda la zona cuarta ok dale perfecto ahora otra pregunta en tu casa cómo",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.037
+  },
+  {
+   "start": 460.79,
+   "end": 466.11,
+   "text": "funciona el tema de la recolección de basura cuando terminas de desayunar o todo el tema",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.117
+  },
+  {
+   "start": 466.11,
+   "end": 471.35,
+   "text": "de cáscaras y cosas así tú tienes un chute especial para votar eso o en lo mismo con",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.117
+  },
+  {
+   "start": 471.35,
+   "end": 478.41,
+   "text": "la verdad en la casa pues como en mi casa tengo un jardín en la parte de atrás entonces qué es",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.117
+  },
+  {
+   "start": 478.41,
+   "end": 483.11,
+   "text": "lo que pasa que pues digamos las las vainitas de los huevos y tres arena pues yo la recolecto",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.117
+  },
+  {
+   "start": 483.11,
+   "end": 488.21,
+   "text": "que las dejan una bolsita y cuando ya tenga ciertas entonces llegó y las cojo con los así",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.117
+  },
+  {
+   "start": 488.21,
+   "end": 492.85,
+   "text": "con las manos de agua así y se la ha hecho las manitas como una o las maticas como una ola",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 493.97,
+   "end": 500.67,
+   "text": "y el resto de desechos así que se tomen una gaseosa o bueno así que voten los fracos del",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 500.67,
+   "end": 506.45,
+   "text": "aceite bueno así eso sí lo deja uno en una bolsa aparte y cuando pasa la basura entonces ahí ese",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 506.45,
+   "end": 511.79,
+   "text": "talego es donde está todo lo que es de plástico y ya el resto ya en bolsa ya pues lo que son",
+   "avg_logprob": -0.256,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 511.79,
+   "end": 514.69,
+   "text": "en papeles del baño, lo que es de la cocina, etcétera, etcétera.",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 515.45,
+   "end": 515.93,
+   "text": "Perfecto.",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 518.75,
+   "end": 521.81,
+   "text": "Hablabas de tu huerta, de lo que tienes ahí en tu patio.",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 523.51,
+   "end": 528.93,
+   "text": "¿Sueles utilizar algún tipo de abono o cosas para poder que las matas crezcan mejor,",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 529.21,
+   "end": 534.37,
+   "text": "para que todo tu jardín sea mejor o compras por aparte tipo de abono, fertilizante",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 534.37,
+   "end": 535.79,
+   "text": "o cómo funciona el tema de tu huerta?",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 536.25,
+   "end": 541.41,
+   "text": "No, pues yo sí compro fertilizantes y les echo las maticas.",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 541.79,
+   "end": 544.25,
+   "text": "¿Fertilizantes de alguna marca en especial?",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 544.49,
+   "end": 545.27,
+   "text": "¿Algo que tienes en mente?",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 545.51,
+   "end": 548.77,
+   "text": "No, eso es como para que les dé como vida",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 548.77,
+   "end": 550.75,
+   "text": "Como que se pongan más bonitas",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 550.75,
+   "end": 552.35,
+   "text": "¿Sí? Algo así",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 552.35,
+   "end": 555.33,
+   "text": "Listo, ahora otra duda ya para finalizar",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 555.33,
+   "end": 557.25,
+   "text": "Con el problema de basuras que se tiene",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 557.25,
+   "end": 561.04,
+   "text": "Y problema de...",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 561.04,
+   "end": 564.02,
+   "text": "Con el problema de basuras que se tiene",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 564.02,
+   "end": 566.06,
+   "text": "Si yo te preguntara",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 566.06,
+   "end": 569.28,
+   "text": "¿Qué idea o qué solución a ti se te ocurriría",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 569.28,
+   "end": 570.84,
+   "text": "Como para solucionar ese tema?",
+   "avg_logprob": -0.176,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 570.84,
+   "end": 574.86,
+   "text": "o de tu experiencia estos cinco años que has tenido acá en el sector,",
+   "avg_logprob": -0.135,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 575.28,
+   "end": 578.32,
+   "text": "¿cuál crees que sea una solución viable que pueda unir a la comunidad?",
+   "avg_logprob": -0.135,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 579.48,
+   "end": 585.72,
+   "text": "Pues yo digo que para mí deberían ser como, pues más que todo esto es como la alcaldía,",
+   "avg_logprob": -0.135,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 586.3,
+   "end": 592.04,
+   "text": "que pongan su mano en el corazón y digan, bueno, hombre,",
+   "avg_logprob": -0.135,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 592.04,
+   "end": 595.82,
+   "text": "¿qué es lo que está pasando en los barrios? Vamos a mirar a ver qué vamos a hacer.",
+   "avg_logprob": -0.135,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 596.38,
+   "end": 599.2,
+   "text": "Sí, y hacer como una asamblea, como llamar a la gente, como decirles, bueno,",
+   "avg_logprob": -0.135,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 599.2,
+   "end": 602.26,
+   "text": "Vamos a hacer esto, vamos a hacer aquello",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 602.26,
+   "end": 604.22,
+   "text": "Ustedes qué opinan, si están de acuerdo",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 604.22,
+   "end": 605.02,
+   "text": "No están de acuerdo",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 605.02,
+   "end": 607.6,
+   "text": "Qué necesitan",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 607.6,
+   "end": 609.68,
+   "text": "Qué podemos hacer por ustedes",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 609.68,
+   "end": 611.0,
+   "text": "Algo así, sí",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 611.0,
+   "end": 612.98,
+   "text": "Pero no, o sea, no",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 612.98,
+   "end": 614.76,
+   "text": "O sea, el tiempo que yo llevo acá, no",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 614.76,
+   "end": 617.96,
+   "text": "¿Y hay algún líder entre los vecinos, entre el sector",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 617.96,
+   "end": 620.46,
+   "text": "Que usted conozca, que tú conozcas?",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 621.18,
+   "end": 622.06,
+   "text": "No, la verdad no",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 622.06,
+   "end": 623.92,
+   "text": "No, así que pronto alguien que uno diga",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 623.92,
+   "end": 625.96,
+   "text": "De pronto alguien así, un líder",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 625.96,
+   "end": 627.68,
+   "text": "O de pronto digamos que un concejal",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 627.68,
+   "end": 629.52,
+   "text": "o un edil, algo así",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 629.52,
+   "end": 630.56,
+   "text": "digámoslo así, no",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 630.56,
+   "end": 633.58,
+   "text": "ok, y el sector de la esquina",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 633.58,
+   "end": 635.58,
+   "text": "¿alguna vez lo has visto medianamente",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 635.58,
+   "end": 635.92,
+   "text": "limpio?",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 637.06,
+   "end": 638.92,
+   "text": "o sea, en el reto, o sea, en el",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 638.92,
+   "end": 641.54,
+   "text": "en todo este sector y más que",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 641.54,
+   "end": 643.88,
+   "text": "todo en el chute de la esquina",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 643.88,
+   "end": 645.8,
+   "text": "¿alguna vez has visto",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 645.8,
+   "end": 647.6,
+   "text": "menos basura ahí o siempre está?",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 647.68,
+   "end": 649.0,
+   "text": "siempre, siempre es lo mismo",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 649.0,
+   "end": 651.46,
+   "text": "y en cuanto a cuando pliega más, así que esté lloviendo",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 651.46,
+   "end": 653.24,
+   "text": "o que esté haciendo mucho viento, entonces",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 653.24,
+   "end": 655.06,
+   "text": "todos los papeles vienen para acá",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 655.06,
+   "end": 657.66,
+   "text": "¿y cómo te afecta el olor? ¿llega hasta acá el olor?",
+   "avg_logprob": -0.182,
+   "no_speech_prob": 0.056
+  },
+  {
+   "start": 658.3,
+   "end": 661.04,
+   "text": "No, pues, o sea, digamos que llegue olor, olor, no.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 661.46,
+   "end": 664.52,
+   "text": "O sea, más que todo es fastidioso porque, por ejemplo, llegan todos los papeles",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 664.52,
+   "end": 667.48,
+   "text": "y hace un remolino y se meten todos los papeles.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 668.14,
+   "end": 670.56,
+   "text": "Y sí, le ensucian las neveras, bueno, en fin.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 671.28,
+   "end": 672.42,
+   "text": "Eso es lo feo.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 673.22,
+   "end": 673.84,
+   "text": "Eso por un lado.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 673.96,
+   "end": 678.96,
+   "text": "Por el otro, cuando llueve, se forma, si me entiende, o sea, como pichal.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 679.5,
+   "end": 680.04,
+   "text": "Digámoslo así.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 680.56,
+   "end": 681.9,
+   "text": "Eso es como, por ejemplo, digamos, ahí al frente.",
+   "avg_logprob": -0.159,
+   "no_speech_prob": 0.367
+  },
+  {
+   "start": 681.9,
+   "end": 683.64,
+   "text": "Si usted se pone a mirar de acá",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 683.64,
+   "end": 685.24,
+   "text": "Al otro lado",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 685.24,
+   "end": 688.16,
+   "text": "Todo está destapado, todo está en tierra",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 688.16,
+   "end": 689.78,
+   "text": "¿Sí me entiende?",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 689.9,
+   "end": 692.2,
+   "text": "Y no, o sea, nadie tampoco dice nada",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 692.2,
+   "end": 693.68,
+   "text": "Nadie hace nada, de pronto decir",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 693.68,
+   "end": 695.36,
+   "text": "Bueno, hombre, que al menos que nos echen",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 695.36,
+   "end": 697.04,
+   "text": "Un asfalto ahí",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 697.04,
+   "end": 699.5,
+   "text": "Como para que sí me entiende, nada, pero no",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 699.5,
+   "end": 701.94,
+   "text": "¿Ya usted cree que los vecinos",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 701.94,
+   "end": 703.96,
+   "text": "Ya normalizaron ese lugar",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 703.96,
+   "end": 705.4,
+   "text": "Y viven tranquilos con eso?",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 705.6,
+   "end": 707.52,
+   "text": "No, pues yo digo que pronto no",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 707.52,
+   "end": 709.24,
+   "text": "O sea, pues, de que vivan felices, no",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 709.24,
+   "end": 711.66,
+   "text": "Yo creo que ya como que se acostumbran, más bien, digámoslo así",
+   "avg_logprob": -0.122,
+   "no_speech_prob": 0.031
+  },
+  {
+   "start": 711.66,
+   "end": 719.28,
+   "text": "y no le ha afectado en absolutamente nada o si le ha afectado un poco el tema del objetivo de",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.046
+  },
+  {
+   "start": 719.28,
+   "end": 724.38,
+   "text": "su comercio del local en relación a estas basuras es decir bajas ventas más aumentas",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.046
+  },
+  {
+   "start": 724.38,
+   "end": 730.02,
+   "text": "o comportamiento de los no porque gracias a dios pues ya uno o sea digamos yo publicamos",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.046
+  },
+  {
+   "start": 730.02,
+   "end": 735.54,
+   "text": "hasta en este momento que yo tengo cinco años de estar acá o sea yo sí pero pues aplicamos",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.046
+  },
+  {
+   "start": 735.54,
+   "end": 741.26,
+   "text": "es mi sobrino, o sea, él sí ya lleva acá como 13 años acá, ¿sí me entiende?",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 742.7,
+   "end": 750.26,
+   "text": "Una última pregunta ya para finalizar y es, la basura, ¿usted cree que tiene alguna relación",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 750.26,
+   "end": 752.4,
+   "text": "o percepción con la seguridad del sector?",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 754.92,
+   "end": 761.36,
+   "text": "Pues de pronto pues yo digo que no, no tiene ninguna seguridad porque digamos que pronto",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 761.36,
+   "end": 765.52,
+   "text": "pues viene de pronto, qué sé yo, pues como saben que hay un chudo allá y la gente todo",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 765.52,
+   "end": 767.64,
+   "text": "todo lo vota ya, pues pueden venir",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 767.64,
+   "end": 768.88,
+   "text": "gente de otros lados",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 768.88,
+   "end": 771.82,
+   "text": "si me entienden, y pueden venir ahí a escarbar",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 771.82,
+   "end": 773.42,
+   "text": "pero entonces, pueden que escarben",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 773.42,
+   "end": 774.8,
+   "text": "pero entonces están también mirando",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 774.8,
+   "end": 776.56,
+   "text": "o sea, digamos",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 776.56,
+   "end": 779.34,
+   "text": "las tiendas, para decir",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 779.34,
+   "end": 781.28,
+   "text": "bueno, de pronto en X parte",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 781.28,
+   "end": 783.4,
+   "text": "dejan solo, pues porque no hacemos",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 783.4,
+   "end": 785.34,
+   "text": "tal cosa, entonces se puede prestar también",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 785.34,
+   "end": 786.14,
+   "text": "para muchas cosas",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 786.14,
+   "end": 789.12,
+   "text": "ok, entonces si es también como una atracción a nivel",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 789.12,
+   "end": 790.52,
+   "text": "de delincuencia",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 790.52,
+   "end": 793.58,
+   "text": "ok, perfecto",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 793.58,
+   "end": 795.22,
+   "text": "creo que por ahora tenemos la",
+   "avg_logprob": -0.153,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 795.22,
+   "end": 799.8,
+   "text": "información que necesitábamos mil mil gracias",
+   "avg_logprob": -0.354,
+   "no_speech_prob": 0.029
+  }
+ ]
+}

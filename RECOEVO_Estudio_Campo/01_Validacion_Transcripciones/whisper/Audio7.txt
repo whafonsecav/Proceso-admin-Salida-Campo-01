@@ -1,0 +1,75 @@
+[0000.00] ¿Su marce vive solo o vive acompañado?
+[0010.00] Dos hijos, una hija.
+[0012.00] ¿Quién se encarga de la cocina normalmente? ¿De preparar la comida, lavar la losa?
+[0020.00] Por ahí, de eso yo me toca tal vez preparar, preparar mi comida, si quiero tomar un tinto, hacerlo, porque ella trabaja también, entonces...
+[0033.66] Claro, entonces usted también hace parte de la cocina, de los labores de la cocina.
+[0037.14] Usted también hace parte de los labores de la cocina.
+[0039.96] Claro, labores de la cocina, lavar las losas, regar...
+[0043.92] Ah, súper bien, perfecto.
+[0045.24] Sí, todavía pues me puedo mover.
+[0047.90] Claro, no. Uno con salud hace esto.
+[0051.76] De salud estoy muy mal. Estoy muy mal de salud. Hace como cuatro años, tres años y medio o cuatro años, me pusieron un médico, me puso una sangre que no era mi equipo de sangre y me envenenó la sangre y estoy muy mal de los pies.
+[0073.50] Ah, fue madre grave, sí.
+[0075.56] Estoy muy mal.
+[0076.50] Bueno, y venga, yo le pregunto, los residuos de la basura, la basura de su casa, todos en una misma bolsa, ¿cierto?
+[0083.06] Todo, todo, todo, todo, se paga por la casa, se paga como 160, 130 mil pesos.
+[0094.10] ¿De residuos de...?
+[0095.32] De basura, de basura.
+[0097.38] Sí, caro.
+[0097.68] Cada piso tiene su adhesivo y llega a su adhesivo.
+[0104.00] El piso de aquí, el pie, eso es comercial, todo comercial.
+[0111.96] Pasa, pasa todo. Entiendo.
+[0114.48] Bueno, y usted que lleva tantos años viviendo acá,
+[0116.88] ¿ese problema de las basuras siempre ha estado desde que usted está?
+[0120.24] Eso, eso es el problema, las basuras le botan ahí.
+[0123.62] eso es suerte al diario
+[0126.54] que botan la basura
+[0127.62] ¿pero desde que usted está aquí en el barrio siempre ha pasado eso?
+[0131.24] claro
+[0131.66] eso todo casi la gente
+[0134.00] debe ser que hay botas
+[0136.38] pero su mercediría
+[0138.42] ¿ha mejorado o ha empeorado a lo largo de los años?
+[0141.14] ¿cómo?
+[0141.72] ¿ha mejorado o ha empeorado?
+[0143.46] ¿hay menos basura ahorita o había mucha más?
+[0146.30] no, era que primero
+[0147.74] iban aquí por las calles
+[0149.98] ahora no
+[0150.68] más organizado
+[0153.06] importante eso
+[0154.82] una pregunta
+[0159.24] su merced
+[0160.48] el tema de los manejos de
+[0163.12] digamos que quedó el arroz del día anterior
+[0165.28] que quedó, no sé, la cáscara
+[0167.48] de papas, toda esa basura
+[0168.80] ustedes la acumulan normalmente en la misma bolsa
+[0171.28] si, todo va en la misma bolsa
+[0173.48] todo va en la misma bolsa de papas
+[0175.64] para basurizar
+[0177.92] el tema animales
+[0179.16] el tema perros
+[0180.50] ¿molesta mucho la basura?
+[0182.62] los perros no rompen las bolsas ni nada de eso por el chute
+[0189.18] no nada, todo es allá al botadero
+[0191.78] las bolsas las sacan de allá al botadero
+[0195.10] un señor
+[0197.88] usted cree que es un problema
+[0202.82] de los más graves el tema de las basuras
+[0204.96] los olores, el desorden
+[0206.96] es un problema muy grave o simplemente hay igual
+[0209.72] para nosotros no
+[0212.08] Y para la comunidad, no sé, los niños.
+[0219.94] ¿Quién sabe? ¿Quién sabe? Nosotros no, nosotros no, como yo, yo soy muy enfermo, yo no salgo a caminar ni a comer, yo no salgo ni a comer nada.
+[0234.06] ¿Ustedes han presentado problemáticas dentro de su casa de roedores, de ratones?
+[0240.06] no nos han presentado
+[0243.10] carachas
+[0245.06] no han tenido ese problema
+[0246.06] nada, nada, nada
+[0247.64] mi casa vive muy linda
+[0249.64] es importante
+[0250.98] creo que ya
+[0253.12] ¿cuánto hay de tiempo?
+[0255.52] 4 minutos
+[0256.04] sí, creo que

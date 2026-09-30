@@ -1,0 +1,1434 @@
+{
+ "file": "Audio4.mp3",
+ "duration": 501.2114375,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.22,
+   "text": "Señor Pérez, buenas tardes. ¿Usted cuánto tiempo lleva viviendo acá en Antigüedad?",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 4.24,
+   "end": 6.24,
+   "text": "Yo aquí, unos cuantos años más o menos.",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 11.55,
+   "end": 12.55,
+   "text": "¿Pero qué es esto? ¿Periquito?",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 13.19,
+   "end": 16.55,
+   "text": "No, vecino, yo acabé de almorzar. ¿Se quiere sentadito?",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 16.95,
+   "end": 22.37,
+   "text": "Yo le gasto. Yo sí no, pero si usted lo quiere, yo lo gasto.",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 23.37,
+   "end": 24.23,
+   "text": "No, tranquilo.",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 26.67,
+   "end": 27.11,
+   "text": "Digamos.",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 28.29,
+   "end": 30.61,
+   "text": "Su hombre se me comentaba que llevaba 50 años acá en Antigüedad.",
+   "avg_logprob": -0.329,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 30.61,
+   "end": 33.95,
+   "text": "Yo tengo ya 50 años de estar aquí en el barrio.",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.142
+  },
+  {
+   "start": 34.45,
+   "end": 41.71,
+   "text": "Yo tengo fotografías de todo esto cuando era potrero,",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.142
+  },
+  {
+   "start": 41.85,
+   "end": 46.51,
+   "text": "todo esto de aquí para allá, de la iglesia cuando empezó a ser.",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.142
+  },
+  {
+   "start": 47.19,
+   "end": 52.81,
+   "text": "Tenemos tres libros hechos por la madre Esther de la comunidad",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.142
+  },
+  {
+   "start": 52.81,
+   "end": 56.77,
+   "text": "y varias cosas que se han hecho en el barrio.",
+   "avg_logprob": -0.238,
+   "no_speech_prob": 0.142
+  },
+  {
+   "start": 56.77,
+   "end": 61.23,
+   "text": "de los mismos tiempos que tengo yo aquí",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 61.23,
+   "end": 62.83,
+   "text": "a la parte de aquí abajo",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 62.83,
+   "end": 64.67,
+   "text": "tenemos hecho varias casas",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 64.67,
+   "end": 66.53,
+   "text": "que construimos con compañeros",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 66.53,
+   "end": 68.91,
+   "text": "hicimos varias casas",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 68.91,
+   "end": 70.09,
+   "text": "a la madre ser",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 70.09,
+   "end": 73.13,
+   "text": "y fuera de lo que le hemos hecho",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 73.13,
+   "end": 73.99,
+   "text": "aquí al barrio",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 73.99,
+   "end": 75.55,
+   "text": "la iglesia",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 75.55,
+   "end": 78.63,
+   "text": "el comedor comunitario",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 78.63,
+   "end": 79.89,
+   "text": "allá al mar",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 79.89,
+   "end": 81.37,
+   "text": "al de mar",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 81.37,
+   "end": 85.07,
+   "text": "con el tema del comedor comunitario",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 85.07,
+   "end": 86.75,
+   "text": "usted cree, hablando de",
+   "avg_logprob": -0.23,
+   "no_speech_prob": 0.368
+  },
+  {
+   "start": 86.75,
+   "end": 89.33,
+   "text": "orgánicos y basuras, que es lo que genera",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 89.33,
+   "end": 91.27,
+   "text": "como tal, pues los comedores",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 91.27,
+   "end": 93.27,
+   "text": "todo lo que es comercio, las personas",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 93.27,
+   "end": 94.59,
+   "text": "¿usted considera que",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 94.59,
+   "end": 96.29,
+   "text": "ha habido una buena gestión de basuras?",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 97.49,
+   "end": 97.85,
+   "text": "No",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 97.85,
+   "end": 100.87,
+   "text": "siempre se ha luchado",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 100.87,
+   "end": 102.49,
+   "text": "contra el asunto de las basuras",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 102.49,
+   "end": 104.91,
+   "text": "sobre todo esos porteros así",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 104.91,
+   "end": 106.87,
+   "text": "incluso yo hace poco",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 106.87,
+   "end": 108.53,
+   "text": "limpiaron ese pedazo ahí",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 108.53,
+   "end": 111.15,
+   "text": "y yo puse esa imagen de la Virgen del Carmen",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 111.15,
+   "end": 113.43,
+   "text": "a ver si lo respetaban como aquel otro punto",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 113.43,
+   "end": 115.05,
+   "text": "que ese otro punto",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 115.05,
+   "end": 116.35,
+   "text": "también lo hice yo",
+   "avg_logprob": -0.152,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 116.35,
+   "end": 118.59,
+   "text": "con la intolerancia de la gente",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 118.59,
+   "end": 120.43,
+   "text": "que mataba a la gente sin necesidad",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 120.43,
+   "end": 122.67,
+   "text": "los niños",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 122.67,
+   "end": 123.39,
+   "text": "las mujeres",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 123.39,
+   "end": 126.91,
+   "text": "muchas cosas que hubieron habido aquí en el barrio",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 126.91,
+   "end": 127.49,
+   "text": "¿me entiendes?",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 127.93,
+   "end": 130.53,
+   "text": "pero en el asunto de las basuras",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 130.53,
+   "end": 131.93,
+   "text": "ha sido duro",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 131.93,
+   "end": 134.73,
+   "text": "¿por qué? porque la misma comunidad",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 134.73,
+   "end": 135.73,
+   "text": "no se presta",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 135.73,
+   "end": 138.31,
+   "text": "la misma comunidad no coge un sitio",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 138.31,
+   "end": 139.79,
+   "text": "también es cierto",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 139.79,
+   "end": 142.13,
+   "text": "es que ese es el detalle",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 142.13,
+   "end": 144.61,
+   "text": "que si hubiera un sitio exclusivo para botar",
+   "avg_logprob": -0.125,
+   "no_speech_prob": 0.19
+  },
+  {
+   "start": 144.61,
+   "end": 150.63,
+   "text": "la basura, la gente la botaría. Pero la gente muchas veces es perezosa. O vienen de la casa",
+   "avg_logprob": -0.116,
+   "no_speech_prob": 0.533
+  },
+  {
+   "start": 150.63,
+   "end": 155.55,
+   "text": "con la bolsa y quedan por las esquinas. En cualquier parte van descargando la basura.",
+   "avg_logprob": -0.116,
+   "no_speech_prob": 0.533
+  },
+  {
+   "start": 156.43,
+   "end": 162.13,
+   "text": "El asunto es que la basura se extiende y se riega en el barrio del sencillo por los perros.",
+   "avg_logprob": -0.116,
+   "no_speech_prob": 0.533
+  },
+  {
+   "start": 163.33,
+   "end": 168.11,
+   "text": "Los perros se encargan de romper bolsas. Hoy en día, ¿saben qué dice cada perro? Ya",
+   "avg_logprob": -0.116,
+   "no_speech_prob": 0.533
+  },
+  {
+   "start": 168.11,
+   "end": 173.55,
+   "text": "no pelean en el mismo puesto donde está la basura. Cada uno coge una bolsa y se abre",
+   "avg_logprob": -0.116,
+   "no_speech_prob": 0.533
+  },
+  {
+   "start": 173.55,
+   "end": 175.35,
+   "text": "para un lugar",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 175.35,
+   "end": 179.43,
+   "text": "¿Usted cree que ese comportamiento",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 179.43,
+   "end": 180.15,
+   "text": "de la gente",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 180.15,
+   "end": 182.59,
+   "text": "de dejar la basura en cualquier lugar",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 182.59,
+   "end": 184.75,
+   "text": "puede cambiar? ¿Se puede mejorar?",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 184.85,
+   "end": 185.05,
+   "text": "Sí",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 185.05,
+   "end": 186.01,
+   "text": "¿Cómo?",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 189.01,
+   "end": 190.93,
+   "text": "Aquí yo tengo varios compañeros",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 190.93,
+   "end": 192.43,
+   "text": "que hemos hablado sobre ese asunto",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 192.43,
+   "end": 194.85,
+   "text": "para enseñarle a la gente",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 194.85,
+   "end": 196.53,
+   "text": "y enseñarle a reciclar",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 196.53,
+   "end": 198.67,
+   "text": "pero es que la gente aquí no",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 198.67,
+   "end": 201.49,
+   "text": "aquí los que reciclan son los viciosos",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 201.49,
+   "end": 203.47,
+   "text": "¿Por qué?",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.451
+  },
+  {
+   "start": 203.55,
+   "end": 207.53,
+   "text": "porque ellos necesitan para su bicha, para su traba, para lo de ellos.",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 208.41,
+   "end": 212.83,
+   "text": "Pero no, muchas veces nosotros les decimos, no rompan las bolsas, compadre.",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 213.19,
+   "end": 216.27,
+   "text": "Abran las bolsas, analicen y dejen eso ahí quieto para no regalas.",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 216.97,
+   "end": 220.69,
+   "text": "Ellos a veces llevan la idea, comprenden sobre las cosas,",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 220.69,
+   "end": 224.87,
+   "text": "porque aquí hay hartos muchachos que se rebuscan con el reclaje.",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 225.23,
+   "end": 230.47,
+   "text": "No muchachos, ancianos, señoras mayores.",
+   "avg_logprob": -0.151,
+   "no_speech_prob": 0.153
+  },
+  {
+   "start": 230.47,
+   "end": 234.19,
+   "text": "¿Para usted qué cree que es una buena solución respecto al tema de basuras?",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 235.83,
+   "end": 241.35,
+   "text": "Sobre una solución sobre ese tema de basuras tocaría hacer una buena campaña",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 241.35,
+   "end": 246.79,
+   "text": "para poner y cotizar la gente, concientizar la gente",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 246.79,
+   "end": 250.63,
+   "text": "para que no hagamos esos regueros que tenemos que se den en el barrio.",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 251.33,
+   "end": 259.27,
+   "text": "Es como allí están haciendo el monumento ese para hacer el aviso de bienvenida al barrio JJ Rondón, Tihuac.",
+   "avg_logprob": -0.141,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 259.27,
+   "end": 261.67,
+   "text": "que es ese aviso que está allá",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 261.67,
+   "end": 265.47,
+   "text": "es más",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 265.47,
+   "end": 267.49,
+   "text": "yo he pensado en encuadrar y quitar",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 267.49,
+   "end": 268.77,
+   "text": "esa imagen de ahí",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 268.77,
+   "end": 271.97,
+   "text": "porque ya siempre la han respetado",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 271.97,
+   "end": 273.79,
+   "text": "y sin embargo yo me pongo",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 273.79,
+   "end": 275.93,
+   "text": "de raco por el botadero",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 275.93,
+   "end": 277.69,
+   "text": "de basura, porque es que la gente",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 277.69,
+   "end": 278.51,
+   "text": "es incociente",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 278.51,
+   "end": 281.95,
+   "text": "Su merced, ¿cómo administra",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 281.95,
+   "end": 283.75,
+   "text": "su basura? O sea, ¿usted la",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 283.75,
+   "end": 285.91,
+   "text": "separa o cómo usted",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 285.91,
+   "end": 287.27,
+   "text": "opera? Bueno, sí",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.159
+  },
+  {
+   "start": 287.27,
+   "end": 289.37,
+   "text": "yo recojo por lo menos",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 289.37,
+   "end": 291.49,
+   "text": "yo recojo lo que son las botellas",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 291.49,
+   "end": 293.15,
+   "text": "y muchas veces",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 293.15,
+   "end": 295.19,
+   "text": "le pasa medio bulto",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 295.19,
+   "end": 297.17,
+   "text": "o las que tengan en el momento",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 297.17,
+   "end": 298.71,
+   "text": "cuando pasen los chinos",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 298.71,
+   "end": 300.43,
+   "text": "o cuando pasen las señoras",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 300.43,
+   "end": 302.05,
+   "text": "que muchas veces reciclan",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 302.05,
+   "end": 304.99,
+   "text": "eso es para las personas mayores",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 304.99,
+   "end": 306.85,
+   "text": "personas adultas",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 306.85,
+   "end": 308.11,
+   "text": "que están reciclando",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 308.11,
+   "end": 310.37,
+   "text": "entonces ellos reciclan eso",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 310.37,
+   "end": 311.45,
+   "text": "uno les pasa la botella",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 311.45,
+   "end": 313.45,
+   "text": "yo para qué guardo botellas",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 313.45,
+   "end": 314.99,
+   "text": "si yo no reciclo",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.41
+  },
+  {
+   "start": 314.99,
+   "end": 318.07,
+   "text": "tengo mi casa, vivo bien, bendito sea mi Dios",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 318.07,
+   "end": 320.09,
+   "text": "pero si he estado en el barrio",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 320.09,
+   "end": 320.93,
+   "text": "en muchas cosas",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 320.93,
+   "end": 323.19,
+   "text": "muchas cosas",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 323.19,
+   "end": 325.01,
+   "text": "he estado con",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 325.01,
+   "end": 327.93,
+   "text": "he estado con varias",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 327.93,
+   "end": 329.35,
+   "text": "aquí sobre el barrio",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 329.35,
+   "end": 331.53,
+   "text": "no me he metido de presidente de la junta aquí",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 331.53,
+   "end": 333.87,
+   "text": "porque es que hay mucha gente egoísta",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 333.87,
+   "end": 335.67,
+   "text": "yo era",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 335.67,
+   "end": 337.13,
+   "text": "una de las personas de que",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 337.13,
+   "end": 339.75,
+   "text": "colaboraba y me iba para las empresas",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 339.75,
+   "end": 341.63,
+   "text": "una empresa",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 341.63,
+   "end": 343.59,
+   "text": "y alma bendita con las demás",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.343
+  },
+  {
+   "start": 343.59,
+   "end": 346.41,
+   "text": "conseguíamos lo que eran los regalos",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 346.41,
+   "end": 346.99,
+   "text": "de los niños",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 346.99,
+   "end": 349.59,
+   "text": "los mercados para la gente pobre",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 349.59,
+   "end": 350.67,
+   "text": "yo tengo un amigo",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 350.67,
+   "end": 353.81,
+   "text": "que incluso piensa poner una fundación",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 353.81,
+   "end": 355.45,
+   "text": "sobre eso",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 355.45,
+   "end": 357.85,
+   "text": "tenemos incluso un poco de ropa",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 357.85,
+   "end": 359.41,
+   "text": "para regalarle a los niños pobres",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 359.41,
+   "end": 361.77,
+   "text": "pero no sabemos si regalarla",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 361.77,
+   "end": 363.53,
+   "text": "para este tiempo, la guardamos",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 363.53,
+   "end": 366.47,
+   "text": "para repartir a los niños",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 366.47,
+   "end": 367.13,
+   "text": "y las mujeres",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 367.13,
+   "end": 369.45,
+   "text": "porque hay ropa de hombre",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 369.45,
+   "end": 371.29,
+   "text": "el amigo lo pensaba mandar",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.495
+  },
+  {
+   "start": 371.29,
+   "end": 372.65,
+   "text": "esa ropa la mandaban",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 372.65,
+   "end": 374.95,
+   "text": "para manizales, para pereza",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 374.95,
+   "end": 376.77,
+   "text": "porque es por allá donde más se necesita",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 376.77,
+   "end": 378.97,
+   "text": "pero hay que ir a la Cruz Roja",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 378.97,
+   "end": 380.37,
+   "text": "y hay que hacer un poco de vueltas",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 380.37,
+   "end": 382.63,
+   "text": "¿Usted cree que sería posible",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 382.63,
+   "end": 384.81,
+   "text": "buscar una solución rápida",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 384.81,
+   "end": 387.41,
+   "text": "al tema de basuras o cree que se demoraría?",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 388.13,
+   "end": 389.21,
+   "text": "Se demoraría",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 389.21,
+   "end": 390.43,
+   "text": "un poco, yo sigo",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 390.43,
+   "end": 392.11,
+   "text": "¿Qué pasa compadre?",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 393.11,
+   "end": 394.77,
+   "text": "Aquí viene uno de los amigos",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 394.77,
+   "end": 397.17,
+   "text": "¿Cómo está?",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 397.17,
+   "end": 398.71,
+   "text": "Un amigo le presentó a su amistad",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 398.71,
+   "end": 399.65,
+   "text": "¿Qué más dijo?",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.139
+  },
+  {
+   "start": 399.65,
+   "end": 401.77,
+   "text": "viene a encamellarla",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 401.77,
+   "end": 405.01,
+   "text": "ah listo listo",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 405.01,
+   "end": 405.65,
+   "text": "que seamos bien",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 405.65,
+   "end": 408.37,
+   "text": "viene a encamellar",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 408.37,
+   "end": 410.89,
+   "text": "trabaja con mármol y esa vaina",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 410.89,
+   "end": 413.11,
+   "text": "con ese nos hemos puesto",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 413.11,
+   "end": 414.81,
+   "text": "hay otro que tengo dos, tres",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 414.81,
+   "end": 416.81,
+   "text": "que hemos estado a ver como hacemos",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 416.81,
+   "end": 418.95,
+   "text": "como le enseñamos a la gente",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 418.95,
+   "end": 420.75,
+   "text": "a reciclar",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 420.75,
+   "end": 422.05,
+   "text": "es más",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 422.05,
+   "end": 424.33,
+   "text": "hemos pensado en tener",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 424.33,
+   "end": 425.81,
+   "text": "asuntos de corrales",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 425.81,
+   "end": 428.75,
+   "text": "de meter unas gallinas, de meter pollos",
+   "avg_logprob": -0.198,
+   "no_speech_prob": 0.35
+  },
+  {
+   "start": 428.75,
+   "end": 430.95,
+   "text": "meter de esto, ¿por qué? porque lo que sobra",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 430.95,
+   "end": 432.17,
+   "text": "de las ollas es lo que va a sobrar",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 432.17,
+   "end": 434.41,
+   "text": "sobre eso queremos hacerle una pregunta",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 434.41,
+   "end": 436.89,
+   "text": "nosotros tenemos un proyecto, ¿qué opina",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 436.89,
+   "end": 439.01,
+   "text": "usted de ese proyecto? y es darle",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 439.01,
+   "end": 440.59,
+   "text": "aquí a las personas",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 440.59,
+   "end": 442.19,
+   "text": "una caneca especial",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 442.19,
+   "end": 445.17,
+   "text": "solo para los residuos",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 445.17,
+   "end": 446.83,
+   "text": "de la cocina, lo que se llama",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 446.83,
+   "end": 449.35,
+   "text": "residuo orgánico",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 449.35,
+   "end": 450.87,
+   "text": "porque eso sirve",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 450.87,
+   "end": 452.57,
+   "text": "justamente para hacer",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 452.57,
+   "end": 454.73,
+   "text": "compost, de hecho para muchos de los",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 454.73,
+   "end": 456.87,
+   "text": "cultivos de por aquí cerca, ¿está de acuerdo?",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 457.01,
+   "end": 457.67,
+   "text": "¿qué opina de esa idea?",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.189
+  },
+  {
+   "start": 457.67,
+   "end": 459.51,
+   "text": "a esa es la otra",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 459.51,
+   "end": 460.93,
+   "text": "que yo también he jodido con",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 460.93,
+   "end": 463.55,
+   "text": "lo que son las siembras",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 463.55,
+   "end": 465.39,
+   "text": "yo",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 465.39,
+   "end": 467.19,
+   "text": "los niños, todo eso",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 467.19,
+   "end": 468.67,
+   "text": "los he enseñado como sembrar",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 468.67,
+   "end": 470.89,
+   "text": "he tenido aquí incluso",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 470.89,
+   "end": 472.35,
+   "text": "yo personalmente he tenido",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 472.35,
+   "end": 474.13,
+   "text": "colegios",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 474.13,
+   "end": 477.17,
+   "text": "colegios aquí que los vienen",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 477.17,
+   "end": 479.27,
+   "text": "y les enseñan como se siembra una mata",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 479.27,
+   "end": 481.03,
+   "text": "para que sirve esta mata, que es esto",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 481.03,
+   "end": 483.17,
+   "text": "la lechuga, repollo, acelga",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 483.17,
+   "end": 484.27,
+   "text": "espinaca, todo eso",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 484.27,
+   "end": 487.03,
+   "text": "tuve mi sembrado ahí pero entonces",
+   "avg_logprob": -0.14,
+   "no_speech_prob": 0.512
+  },
+  {
+   "start": 487.03,
+   "end": 492.15,
+   "text": "Muchas veces hay gente que, ay, hermano, eso, entonces echa uno al suelo.",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.082
+  },
+  {
+   "start": 492.69,
+   "end": 494.53,
+   "text": "¿Por qué? Porque no hay un empuje.",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.082
+  },
+  {
+   "start": 495.63,
+   "end": 500.47,
+   "text": "Si no hay un empuje, pues, ti, ti, ti, ti, venga, hagamos esto, hagamos lo otro.",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.082
+  }
+ ]
+}

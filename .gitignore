@@ -1,0 +1,11 @@
+# configuración local de Claude Code y temporales
+.claude/
+~$*
+*.tmp
+desktop.ini
+Thumbs.db
+__pycache__/
+# teselas sueltas del mapa: la presentación usa el paquete único pack.bin (+ pack.json / manifest.json)
+RECOEVO_Estudio_Campo/05_Presentacion/media/tiles/*/
+node_modules/
+*.ndjson

@@ -1,0 +1,2249 @@
+[
+ {
+  "audio": "Audio1",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Willington Javier Ortiz (Profesor del Politécnico Grancolombiano)",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 2,
+  "rol": "entrevistador",
+  "texto": "Listo. Don José, muy buenas tardes. Mi nombre es Willington Javier Ortiz, soy profesor del Politécnico Grancolombiano y quiero hacerle unas preguntas frente a la forma como usted y su familia están haciendo disposición de la comida. Normalmente a eso lo llamamos los residuos orgánicos. Nosotros nos hemos dado cuenta de que en esta zona, y prácticamente en gran parte de Bogotá, el manejo de las basuras se convirtió en un problema. Y esto no es un problema de ahora, es un problema de hace mucho tiempo. ¿Qué opina usted de eso?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 3,
+  "rol": "participante",
+  "texto": "Claro que sí, señor. Buenas tardes. Sí, lo que está diciendo usted es totalmente real: el problema de las basuras es crónico y, entre más días, como que se va poniendo peor el asunto. El manejo que nosotros le damos a las basuras es lo más normal. De pronto tampoco soy de las personas que vamos a aportar diciendo, o en esta entrevista voy a decir: \"No, es que nosotros lo hacemos, lo seleccionamos\", porque eso es una cosa totalmente falsa en mi caso. Entonces, sí, sería bueno que hubiera como un poquitico más de cultura en esa situación y que fuéramos un poquito más dejuiciosos para beneficio de nosotros y de la gran mayoría de personas que de pronto seamos perjudicados con el tema de las basuras, sí señor.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 4,
+  "rol": "entrevistador",
+  "texto": "Usted habla de una palabra clave, y es la cultura. La cultura es lo que nos hace hacer lo que siempre hacemos. ¿Cómo cree usted que debe cambiar esa cultura, o cómo podemos hacer para que cambie esa cultura para mejorar un poco esa forma de manejar los residuos, sobre todo los residuos de alimentos?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 5,
+  "rol": "participante",
+  "texto": "Sí, de pronto diría yo que se me ocurre criticar capacitaciones, pero como la gran mayoría de personas, hablando aquí del sector del sur de Bogotá, somos personas que mantenemos esas las carreras. Entonces uno de pronto no va a decir: \"No, yo sí voy a seleccionar\", porque sería muy bueno, sería muy bueno, sería chévere que uno tomara esa buena costumbre como uno cepillarse los dientes o hacer tantas cosas que son básicas, que meterlo uno en el menú también de lo básico, poder uno hacer eso. Pero como generalmente mantenemos esas las carreras, entonces uno que la cáscara de la papa a la misma bolsa, que el cartón, que esto, que las cáscaras de huevo, todo es un revoltijo. Pero sí, la pregunta está buena y me parece mágico que existiera algo donde uno pudiera depositar todo y que la misma máquina como que seleccionara y dijera uno: \"Puedo botar esto tranquilo\", o vienen y le recogen acá y se acabó el problema. Y lo práctico para uno también sería chévere.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 6,
+  "rol": "entrevistador",
+  "texto": "Don José, ¿quién en su casa es el que saca la basura?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 7,
+  "rol": "participante",
+  "texto": "El que hago lo mandado yo. Sí, señor. En la casa sí, yo soy el que asiste.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 8,
+  "rol": "entrevistador",
+  "texto": "¿Y quién cocina?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 9,
+  "rol": "participante",
+  "texto": "Yo. No, ahoritica sí me está tocando a mí ayudarle a mi esposa con la cuestión de la cocina, sí. Entonces ahí nos compartimos los oficios. El único que no hace nada es un muchacho que vive con nosotros.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 10,
+  "rol": "entrevistador",
+  "texto": "Ah, sí, esos normalmente son así.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 11,
+  "rol": "participante",
+  "texto": "Los consentidos.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 12,
+  "rol": "entrevistador",
+  "texto": "Pregunta: ¿Usted tiene un bote de basura exclusivo en la cocina o hay uno para todos?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 13,
+  "rol": "participante",
+  "texto": "No, hay uno en la cocina y en los baños hay especialmente para ellos. Sino que al sacarlo, como todo, en la bolsa negra todo se amarra y...",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 14,
+  "rol": "entrevistador",
+  "texto": "Usted prácticamente ya sugirió una solución, una solución que creo que fue comentada por su propio hijo. Entonces, en ese sentido, ¿usted cree que la gente de este sector sí estaría dispuesta a hacer uso eficiente de ese artefacto para manejar exclusivamente los residuos de alimentos?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 15,
+  "rol": "participante",
+  "texto": "Pues yo pienso que la persona que nos interese el medio ambiente, uno se compromete. Se compromete uno y de pronto al ver que está funcionando en algunas otras partes, de pronto del sector, pienso yo que con seguridad la gente puede hacer ese gran aporte. Sería práctico, sería muy bueno, sería buenísimo eso. Entonces yo creo que sí.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 16,
+  "rol": "entrevistador",
+  "texto": "¿Y usted haría eso, es decir, disponer los residuos de alimentos en esa caneca sin nada a cambio?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 17,
+  "rol": "participante",
+  "texto": "Yo creo que no hay nada que no tenga uno que ofrecer algo, bien sea la disponibilidad de tiempo o que tenga un costo económico. Entonces sí tiene que haber algún costo o algo que se deba hacer para poder adquirir ese tipo de beneficio.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 18,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que usted y los de su comunidad están sufriendo realmente por el tema de las basuras?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 19,
+  "rol": "participante",
+  "texto": "Uy, totalmente, totalmente. Aquí, afortunadamente, nosotros yo vivo en la parte de arriba del sector, que allá la gran mayoría de personas sí tiene la facilidad de bajar las basuras aquí al Chuck. Pero resulta que aquí en el Chuck hay un desorden tenaz porque de pronto mandan los niños o personas que como nosotros los colombianos somos tan cómodos, nos parece gracia aguolearla así y que se riegue y salgo corriendo y me subo en el bus y chao. No nos importa que de pronto el vecino salga, un niño pise una cáscara de papa, de banano y se caiga, no nos importa. O sea, eso es tan sencillo como eso. También sería bueno que existiera un poquitico de concientización en cuanto a hacer el depósito de la basura en el sitio adecuado el día adecuado, o si no es el día adecuado, por algo llama Chuck, está disponible para tirarlo allá. Pero entonces con la de la manera que corresponde.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 20,
+  "rol": "entrevistador",
+  "texto": "Muy bien.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 21,
+  "rol": "participante",
+  "texto": "Es correcto, sí señor.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 22,
+  "rol": "entrevistador",
+  "texto": "En algunas partes sucede que después de que la gente saca la basura para que el camión la recoja, entre ese tiempo de disponer la basura y que el camión la recoja, normalmente pasan recicladores que riegan absolutamente todo. ¿Aquí pasa también eso?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 23,
+  "rol": "participante",
+  "texto": "Uy, aquí es donde hay menos control. Al menos por allá en ciertas partes de Bogotá, más hacia el norte, al menos el guarda de seguridad está pendiente de sacar la basura precisamente cuando el camión va a pasar. Acá no, acá es al contrario, porque si uno le dice a algún vecino: \"¿Qué está haciendo ahí, hermano? Le encargo\", lo tratan a uno a lo colombiano.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 24,
+  "rol": "entrevistador",
+  "texto": "¿El camión pasa los días y a la hora que debe pasar?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 25,
+  "rol": "participante",
+  "texto": "Mire que acá más bien descontroladito la hora de la pasada del camión. Hay veces pasa por la mañana, pero él pasa haciendo bulla, él pasa pitando. Pero sí es bastante descontroladito el horario del paso del carro recolector de basuras.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 26,
+  "rol": "entrevistador",
+  "texto": "Veo muchos perros. Cuando hay acumulación de basura, yo me imagino que los perros a todo momento están tratando de escarbar también esa basura.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 27,
+  "rol": "participante",
+  "texto": "Sí, sí, incluso suena gracioso lo que le voy a decir, pero incluso los perros lo ven a uno bajar con la basura y ellos se quedan como mirando: \"¿Le trae algo ahí?\", y se le tiran a uno como a tirar encima, a raparle la bolsita. Entonces, pues imagínese usted ya el desorden que hay.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 28,
+  "rol": "entrevistador",
+  "texto": "Aparte de perros, ¿plagas asociadas a eso?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 29,
+  "rol": "participante",
+  "texto": "Hay ratas y hay ratones también. Lo dije en doble sentido.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 30,
+  "rol": "entrevistador",
+  "texto": "¿Ratas o más?",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 31,
+  "rol": "participante",
+  "texto": "Sí, sí, sí, esos son los de más cuidado. Sí, mucha plaga, zancudito, cuando hace así como solecito se levanta mucho zancudito, mucha los ratoncitos salen también a tomar el sol, salen de ahí de debajo de la basura.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 32,
+  "rol": "entrevistador",
+  "texto": "Muy bien. Listo, don José, yo creo que por ahora esta es la entrevista. Muchas gracias.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 33,
+  "rol": "participante",
+  "texto": "Claro que sí.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 34,
+  "rol": "entrevistador",
+  "texto": "Ya le voy a pasar el documento para que por favor nos lo ayude a firmar.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 35,
+  "rol": "participante",
+  "texto": "Con mucho gusto.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio1",
+  "turno": 36,
+  "rol": "entrevistador",
+  "texto": "Muchas gracias. Sí, señor, con mucho gusto.",
+  "fuente": "Audio1.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Don Álvaro, aunque usted ya no lo dijo, ¿cuánto lleva aquí en el sector?",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "36 años.",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Usted me dijo que fue uno de los primeros con local aquí.",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "Fundador, sí señor.",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "¿Y siempre ha visto el mismo problema de basuras?",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Siempre ha visto.",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Ha mejorado o empeorado?",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "Trató de mejorar cuando empezaron a recoger, porque antes nunca nos cobraban, pero no nos la recogían. Sí, sí, ahí anda. ¿Me das un helado, por favor?",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio2",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "Tranquilo. ¿Qué pide?",
+  "fuente": "Audio2.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Bueno, entonces seguimos hablando del tema de las basuras. Usted dijo que llevó aquí desde 1990 y...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "Dos.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "91.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "91, muy bien. O sea, yo empecé al otro lado, donde está la otra droguería, empecé en el 91 y para acá hice local en el 93.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "Ah, ok, perfecto. Hablemos de las basuras, pero no de todas las basuras, sino las que se llaman residuos orgánicos, las que salen de la cocina. La gente normalmente...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "No, nadie las separa. Nadie las separa, botan ahí y los perros vuelven a eso. Nosotros teníamos con puertas ahí y los muchachos que reciclar, ellos vienen... Cuando está con candado rompen la puerta, abren y empiezan a... Sacan las bolsas, riegan la basura, se llevan la bolsa y se llevan lo que es reciclado. En sí lo orgánico nadie, es que ni nosotros lo hacemos.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que si la gente comenzara a separar lo orgánico del resto de basuras, eso podría mejorar un poco?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "Es una cultura que se puede demorar 100 años, porque la gente es... Es que la gente está, esa vaina ahí, se vienen por la mañana, yo a las 3 de la mañana ya estoy por la ventana echando chisme y se vienen, suben con la bolsa y ven el bus y no alcanzan a llegar allá, la botan ahí, mandan a un niño con unas bolsas ni las berrejas que no la pueden ni cargar, la traen arrastrándose, la rompen por el camino y ahí queda. La tejan por ahí. La cultura es difícil.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "¿Habrá algo para cambiar esa cultura? ¿O ya nos fuimos así?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 10,
+  "rol": "participante",
+  "texto": "Pues la vaina es que colocan ese... Que dice que hay que multa, no sé cuántos salarios mínimos, pero ¿quién vigila eso? Nadie. Ni policía hay por ahí vigilando.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 11,
+  "rol": "entrevistador",
+  "texto": "¿Ah?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 12,
+  "rol": "participante",
+  "texto": "Ni policía por ahí vigilando. No, ellos vienen a las ollas a cobrar el impuesto. Eso no sirve para nada. Yo no los puedo ver.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 13,
+  "rol": "entrevistador",
+  "texto": "¿Qué pasaría si uno le dijera a varias familias: le doy una caneca especial solo para la basura que sale de la cocina (residuos orgánicos), con el ánimo de que no los mezcle con papeles de baño y otro tipo de basuras?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 14,
+  "rol": "participante",
+  "texto": "Se puede hacer, pero es que la cultura es difícil si no hay una persona que recoja todos los días esa basura es difícil porque ellos la revuelven y si la hubiera...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "Pues ya si hay el carro que va a pasar todos los días recogiendo la basura. Porque usted sabe que esa basura que sale de la cocina, es decir, los residuos orgánicos, sirven para hacer compost en los cultivos.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "Claro. Díganmelo a mí, crecí en el campo. Nosotros ya recogíamos todo eso para echarle a las plantas.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 17,
+  "rol": "entrevistador",
+  "texto": "Porque nosotros, usted que sabe del campo, nosotros hemos identificado otro problema... ¿Qué vale? 10, 15. ¿Y aquí hay cultivos en el campo?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 18,
+  "rol": "participante",
+  "texto": "Sí, claro. Pero usted sabe que cada vez se necesita más abono agroquímicos para que...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 19,
+  "rol": "entrevistador",
+  "texto": "¿Los cultivos de...?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 20,
+  "rol": "participante",
+  "texto": "Sí, la vaina es esa. Lo químico. Le dicen lo químico y eso enferma a la gente.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 21,
+  "rol": "entrevistador",
+  "texto": "Total. Usted sabe que lo químico es químico. Nosotros nos criaron con el abono que nos echamos a las plantas. Era la caca de la vaca.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 22,
+  "rol": "participante",
+  "texto": "De acuerdo. Seca, la desboronamos con la mano y se la echamos a las plantas. Esos eran cultivos de la verraquera. Siga su versión. Perdón.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 23,
+  "rol": "entrevistador",
+  "texto": "Tranquilo.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 24,
+  "rol": "participante",
+  "texto": "Perdón que la sacaron de ahí. Pero aquí, como le digo, culturizar a la gente...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 25,
+  "rol": "entrevistador",
+  "texto": "Nosotros tenemos una idea y es organizar una comunidad para que la mayor cantidad de personas seleccionen los residuos de la cocina, lo que es orgánico, recogerlo y justamente con eso hacer compost. Con eso evitamos que mucha gente que siembra no utilice químicos. Porque eso a la larga nos está afectando. ¿Qué opinan ustedes de esa idea?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 26,
+  "rol": "participante",
+  "texto": "Pues la idea es, esa idea es, pero... Es difícil para mí, es difícil por un lado, las juntas de acción comunal es una cosa casi móvil. Yo no sé qué pasa.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 27,
+  "rol": "entrevistador",
+  "texto": "¿Aquí hay juntas de acción comunal?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 28,
+  "rol": "participante",
+  "texto": "Claro, yo fui líder comunal, he sido líder comunal desde que estoy aquí hace 36 años. Yo estuve directamente en las juntas, ya soy líder comunal, pero por lo que sé, por lo que conozco, pero entonces es difícil. Eso que es, si lo piensan hacer, es... Cada barrio tiene su junta de acción comunal, cada barrio tiene su salón comunal. Les tocaría hacer una jornada, venir y en una asamblea. Por ejemplo, mañana, a la una de la tarde de todos, aquí hay asamblea en el salón comunal de Villarrocita. Mañana. Ahí es donde se vive.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 29,
+  "rol": "entrevistador",
+  "texto": "Sí, mañana puede...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 30,
+  "rol": "participante",
+  "texto": "le pide permiso a la presidenta, le dice que necesita hablarle algo a la gente y usted lo habla. Ahí se puede empezar, al menos por la de Villarrocita. Que la gente empiece a...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 31,
+  "rol": "entrevistador",
+  "texto": "Si yo le explico a su merced esta idea, ¿usted sería capaz de recoger todos los residuos de la cocina, la comida, solo y exclusivamente solo, para poder activar este programa? ¿Y usted cree que sus vecinas lo harían?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 32,
+  "rol": "participante",
+  "texto": "Pues toca hablarles, irles hablando y la idea es que ustedes pasen también porque si uno dice ¡ay, se viene loco! eso es lo que van a decir ¡ay, el vecino se volvió loco! la idea es que sí traigan volanticos y empiecen a llamar la atención de la gente porque aquí sí, ella hace su bolsita de lo de la cocina pero como se amarra y se echa dentro de la otra bolsa y se va para allá... Entonces por el olor de la cocina, los perros, hay más perros que gente acá en el sector.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 33,
+  "rol": "entrevistador",
+  "texto": "¿Qué otra plaga hay? Aparte, o sea, que ratas...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 34,
+  "rol": "participante",
+  "texto": "Horarios viciosos, pero muy poco. No, no, no, pero animales. Cucarachas se ve. Pues donde hay desaseo, ratón. Pero así, cucaracha. Hace muchos años sufrimos por las pulgas. Pero ahora no sé, no volvieron. O sea, yo, que aquí en la casa bastante sufrimos con los animales y ya, de un momento a otro, ni más. Creo que nos picaron y se murieron todas.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 35,
+  "rol": "entrevistador",
+  "texto": "Señor Álvaro, una última pregunta. ¿Usted cree que sí es posible llegar a hacer este cambio en esta localidad en especial?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 36,
+  "rol": "participante",
+  "texto": "Pues, no es en la localidad, porque... Nosotros somos la localidad quinta de Usme. Grande, ¿no? Aproximadamente 200 barrios. La idea es que nosotros aquí de pronto se puede, por lo que estamos abandonados por la alcaldía. Aquí es muy poco lo que llegan cosas de la alcaldía. Ellos trabajan allá, para los barrios de allá. Los políticos que hay allá, ellos ya tienen sus barrios donde todo el mundo vota por ellos, por el tamal y no les interesan los otros.",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 37,
+  "rol": "entrevistador",
+  "texto": "¿Le puedo tomar una foto con el estudiante?",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio3",
+  "turno": 38,
+  "rol": "participante",
+  "texto": "Claro, desde que salga en el periódico del barrio. Ah, perdón. No lo va a tomar serio, sonríe. De pronto hay un...",
+  "fuente": "Audio3.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Señor Pérez, buenas tardes. ¿Usted cuánto tiempo lleva viviendo aquí en el barrio?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "Yo aquí... No, vecino, yo acabé de almorzar. ¿Se quiere sentadito? Yo le gasto. Yo sí no, pero si usted lo quiere, si usted lo quiere, yo lo gasto. No, tranquilo. Digamos... Su merced me comentaba que llevaba 50 años acá en el antiguo barrio. Yo tengo ya 50 años de estar aquí en el barrio. Yo tengo fotografías de todo esto cuando era potrero, todo esto de aquí para allá. De la iglesia cuando empezó a ser. Tenemos tres libros hechos por la madre Esther de la comunidad. y varias cosas que se han hecho en el barrio. Otra de los vivos tiempos que tengo yo aquí, a la parte de aquí abajo, tenemos hecho varias casas que construimos con compañeros. Hicimos varias casas para la madre Esther. Y fuera de lo que le hemos hecho aquí al barrio, la iglesia, el comedor comunitario...",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Señor Álvaro [Pérez], con el tema del comedor comunitario, usted cree, hablando de orgánicos y basuras, que es lo que genera como tal los comedores, todo lo que es comercio, las personas, ¿usted considera que ha habido una buena gestión de basuras?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "No. Siempre se ha luchado contra el asunto de las basuras, sobre todo de esos botaderos así. Incluso yo hace poco limpiaron ese pedazo ahí y yo puse esa imagen de la Virgen del Carmen a ver si lo respetaban como aquel otro punto. que es otro punto también, lo hice yo con la intolerancia de la gente, que mataba a la gente sin necesidad, los niños, las mujeres, muchas cosas que hubieron, han habido aquí en el barrio, ¿me entiendes? Pero en el asunto de las basuras ha sido duro. ¿Por qué? Porque la misma comunidad no se presta, la misma comunidad no coge en un sitio. También es cierto que si hubiera, es que ese es el detalle, que si hubiera un sitio exclusivo para botar la basura, la gente la botaría, pero la gente muchas veces es perezosa. o vienen de la casa con la bolsa y la riegan por ahí en las esquinas. En cualquier parte van descargando la basura. El asunto es que la basura se extiende y se riega en el barrio sencillamente por los perros. Los perros se encargan de romper bolsas. Hoy en día, ¿saben qué? Cada perro ya no pelea en el mismo puesto donde está la basura. Cada uno coge una bolsa y se abre para un punto.",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que ese comportamiento de la gente de dejar la basura en cualquier lugar puede cambiar, se puede mejorar?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Sí.",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Cómo?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "Aquí yo tengo varios compañeros que hemos hablado sobre ese asunto para enseñarle a la gente y enseñarle a reciclar. Pero es que la gente aquí no, aquí los que reciclan son los viciosos. ¿Por qué? Porque ellos necesitan para su bicha, para su traba, para lo de ellos. Pero no, muchas veces nosotros les decimos: \"No rompan las bolsas, compadre. Abran las bolsas, analicen y dejen eso ahí quieto para no regarlas\". Ellos a veces llevan la idea, comprenden sobre las cosas, porque aquí hay hartos muchachos que se rebuscan con el reciclaje. No muchachos, ancianos. Señoras mayores.",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "¿Qué cree que es una buena solución respecto al tema de basuras?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 10,
+  "rol": "participante",
+  "texto": "Sobre una solución sobre ese tema de basuras tocaría hacer una buena campaña para poner y concientizar a la gente, concientizar a la gente para que no hagamos esos regueros que tenemos que hacer en el barrio. Es como allí están haciendo el monumento ese para hacer el aviso de bienvenida al barrio, que es ese aviso que está allá. Es más, yo he pensado en encuadrar y quitar esa imagen de ahí, porque siempre la han respetado y sin embargo yo me pongo a rabiar por el botadero de basura, porque es que la gente es inconsciente.",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 11,
+  "rol": "entrevistador",
+  "texto": "Una pregunta, ¿su merced cómo administra su basura? ¿Usted la separa o cómo usted opera?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 12,
+  "rol": "participante",
+  "texto": "Bueno, sí, yo recojo lo que son las botellas y muchas veces le pasa medio bulto o las que tengan en el momento cuando pasen los chinos o cuando pasen las señoras que muchas veces reciclan. Eso es para las personas mayores así, personas adultas tienen que estar reciclando, entonces ellos reciclan eso y uno les pasa la botella. ¿Yo para qué guardo botellas ahí? ¿Para qué, si yo no reciclo? Tengo mi casa, vivo bien, bendito sea mi Dios. Pero sí he estado en el barrio en muchas cosas, muchas cosas. He estado con Dipron, he estado con varias aquí sobre el barrio. No me he metido de presidente de la Junta aquí porque es que hay mucha gente egoísta. Yo era una de las personas que colaboraba y me iba para las empresas. Una empresa y alma bendita con las demás, conseguíamos lo que eran los regalos de los niños, los mercados para la gente pobre. Yo tengo un amigo que incluso empieza a poner una fundación, tenemos incluso un poco de ropa para regalar a los niños pobres, pero no sabemos si regalarla para este tiempo o la guardamos y la dejamos para repartir a los niños y las mujeres, porque hay ropa de hombres. El amigo lo pensaba mandar, esa ropa la mandaba para Manizales, para Pereira, porque es por allá donde más se necesita, pero hay que ir a la Cruz Roja y hay que hacer un poco de vueltas.",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 13,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que sería posible buscar una solución rápida al tema de basuras? ¿O cree que se demoraría?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 14,
+  "rol": "participante",
+  "texto": "Se demoraría un poco. Yo sigo... Aquí viene uno de los amigos. Le presento a su amistad. ¿Qué más, viejo? Viene a encamellarla. Listo, listo. Él es otro de esos. Viene a encamellar. Trabaja con mármol y esa vaina. Con ese nos hemos puesto, hay otros que tengo dos, tres que hemos estado a ver cómo hacemos, cómo le enseñamos a la gente a reciclar lo que es... Es más, hemos pensado en tener el asunto de corrales, de meter unas gallinas, de meter pollos, meter eso, ¿por qué? Porque lo que sobra de la comida es lo que va a sobrar...",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "Pues sobre eso queremos hacerle una pregunta. Nosotros tenemos un proyecto, ¿qué opina usted de ese proyecto? y es darle aquí a las personas una caneca especial solo para los residuos de la cocina, lo que se llama residuo orgánico, porque eso sirve justamente para hacer compost, de hecho para muchos de los cultivos de por aquí cerca. ¿Está de acuerdo? ¿Qué opina de esa idea?",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio4",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "Esa es la otra, que yo también he jodido con lo que son las siembras. Yo a los niños, a todo eso los he enseñado cómo sembrar. He tenido aquí, incluso yo personalmente he tenido colegios aquí que vienen y les enseñan cómo se siembra una mata, para qué sirve esta mata, qué es esto, la lechuga, repollo, acelga, espinaca, todo eso. Tuve mi sembrado ahí, pero entonces muchas veces hay gente que, ay hermano, eso... Entonces echa uno al suelo. ¿Por qué? Porque no hay un empuje. Si le dieren un empuje y vuelven: \"Ti, ti, ti, ti, venga, hagamos esto, hagamos lo otro\"...",
+  "fuente": "Audio4.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Muy bien, ¿cómo es su nombre?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "Mi nombre es Juan Sebastián Torres García.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Y está trabajando en un fruver, ¿cierto? Juan Sebastián, uno podría creer que el manejo de residuos orgánicos en el fruver es alto, ¿no?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "Sí, claro. Bien, mi papá.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "¿Qué hacen ustedes o cómo están manejando justamente lo que se considera ya residuo, lo que es ya no de uso? Basura, basura pero orgánica.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Nosotros cogemos unas canecas y lo que hacemos es que hay varias gentes...",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Hay picadito?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "No. Viene gente y así se las lleva, por ejemplo, para los conejos, para los pollos. Entonces les guardan una canequita y ellos traen la de ellos o una bolsita y se las llevan. O sea, a la larga eso no se pierde.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "No, no, no.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 10,
+  "rol": "participante",
+  "texto": "Hay un otro uso. No, la desperdicia no va directamente a Chux, sino viene personas y se las llevan.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 11,
+  "rol": "entrevistador",
+  "texto": "¿Hay alguna reglamentación que los obliga por alguna razón a ustedes los fruveros a hacer eso, digamos que a no botarla en cualquier parte, sino a disponerla con un tercero, o eso no existe?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 12,
+  "rol": "participante",
+  "texto": "No, no, pero es como más como va... como es como manejo ya de la conciencia de uno, porque sabiendo que le sirve a otra persona, entonces uno no, es como si yo no me como un pan duro, pero de pronto un indigente sí viene y le da el pancito y se lo come con un pintico, entonces eso ya... es como decisión de uno.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 13,
+  "rol": "entrevistador",
+  "texto": "¿Hay problemas de basura aquí en el barrio?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 14,
+  "rol": "participante",
+  "texto": "Sí, claro que sí.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "¿Por qué cree usted que se da esos problemas?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "No, porque la gente no cuida, la gente es muy desorganizada, la gente no cuida, simplemente no cuida y allá hay un chux y tiran la basura ahí.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 17,
+  "rol": "entrevistador",
+  "texto": "¿Por fuera?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 18,
+  "rol": "participante",
+  "texto": "Por fuera del chux.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 19,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que eso puede cambiar? ¿Qué tendríamos que hacer para que la gente cambie la forma?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 20,
+  "rol": "participante",
+  "texto": "Primeramente cambiar uno y hacerle como entender a la gente que el cambio empieza por uno y si la gente ve que uno bota la basura por dentro de ellos, pues me imagino que hará lo mismo como para que sientan conciencia de ellos de que eso está bien.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 21,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que la gente separa diferentes tipos de residuos o la mezcla toda y la va a usar como llega?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 22,
+  "rol": "participante",
+  "texto": "No, así como llega, así como la botan, ellos no separan.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 23,
+  "rol": "entrevistador",
+  "texto": "¿Usted que trabaja con frutas y verduras cree que la gente debería separar lo orgánico de lo inorgánico? ¿Cómo haríamos para que la gente separe lo que sale de la cocina, lo orgánico, las cáscaras de papa, de plátano, todo lo orgánico, los restos de comida, pero... separarlo del resto de la basura? Pero, ¿cómo así? O sea... O sea, ¿que yo les diga? No, no, no, ¿cómo cree usted que la gente podría hacer eso?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 24,
+  "rol": "participante",
+  "texto": "De pronto una campaña o hacer una campaña o con proyectos que, ¿cómo se dice eso? Que inculque el...",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 25,
+  "rol": "entrevistador",
+  "texto": "Una campaña de sensibilización.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 26,
+  "rol": "participante",
+  "texto": "Eso, eso. Para que la gente sepa y aprenda cómo tiene que hacer las separaciones de residuos.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 27,
+  "rol": "entrevistador",
+  "texto": "Muy bien. Nosotros con los de la universidad tenemos un proyecto. El proyecto consiste en tratar de que la gente separe lo orgánico para que con esos residuos orgánicos se forme compost y ese compost le sirve para los cultivos. Porque si se mezcla con el resto de la basura, vienen los perros, no sirve para nada. ¿Cree que ese proyecto es viable aquí en el barrio?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 28,
+  "rol": "participante",
+  "texto": "Sí, claro, aquí en toda la parte del mundo, podría decir yo.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 29,
+  "rol": "entrevistador",
+  "texto": "¿Qué nos recomienda? ¿Cuál debería ser el primer paso que nosotros deberíamos dar para empezar ese proyecto?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 30,
+  "rol": "participante",
+  "texto": "No sé, pues, como de pronto hacer unos folleticos y para unos folleticos, unos, ¿cómo llaman eso?, pósteres, y que muestre cómo hacer las separaciones de residuos orgánicos e inorgánicos, o sea, como educar más a la gente, y ya, pues eso sería como lo primero. Y no sé, de pronto hacer canales en YouTube, videos, en TikTok ahorita que está bastante visto, entonces más que todo por ese lado.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 31,
+  "rol": "entrevistador",
+  "texto": "¿Alguna pregunta adicional? ¿Usted cree que sería una buena solución para en especial la gente de Tihuac proponer esa caneca especial? ¿Cree que sí lo harían? Por ejemplo, si yo le doy una caneca especial a la gente para que solo ahí bote lo de la cocina.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 32,
+  "rol": "participante",
+  "texto": "Ah, sí, claro. Sería espectacular. Porque mucha gente... ¿Qué me pagas, reina? ¿Cuántos? Ah, lo del paquetito. Sí. Ah, sí, claro. Es que... gracias. Eso es como... Eso es como si tú le regalaras a una persona un par de zapatos. Yo no tengo para comprar un par de zapatos, pero si yo a ti te regalo un par de zapatos, obviamente tú te los vas a poner. Entonces es como... mucha gente de pronto no dice: \"Ah, qué pereza comprar una caneca\", o \"Ah, qué pereza comprar una caneca para hacer ese proceso, para echar los residuos\", pero si de pronto ya tú me las regalas, porque ya con unas cosas muy diferentes que le regalen a uno, ya me motivo de pronto para separar los residuos.",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio5",
+  "turno": 33,
+  "rol": "entrevistador",
+  "texto": "Listo, hermano, muy amable, ¿le podemos pedir un último favor?",
+  "fuente": "Audio5.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "¿Viste? Bueno, ¿cuánto tiempo llevas viviendo acá en la zona del sector?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "36 años.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Uf, más. Bueno, ¿el local es tuyo?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "No, en arriendo.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "Ah, es en arriendo.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Sí, señor.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Siempre has vivido en el mismo lugar acá o has tenido lugar más arriba?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "No, yo he vivido más allá.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "Ah, perfecto. En la casa, ¿cuántos viven? ¿Cuántas personas salen a comer?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 10,
+  "rol": "participante",
+  "texto": "En mi familia, ahorita somos tres. O sea, tu cocina es normalmente para tres personas... Sí, o sea, está mi sobrina, mi esposo y mi hijo y yo, pues somos cuatro, o sea, contándome yo, cuatro.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 11,
+  "rol": "entrevistador",
+  "texto": "Cuatro los que hacen las comidas, ah listo. ¿Cuándo fueron las últimas que comieron juntos todos? ¿Almuerzo, cena?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 12,
+  "rol": "participante",
+  "texto": "No, complicado, como 15 días.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 13,
+  "rol": "entrevistador",
+  "texto": "Ok, listo. Normalmente, ¿qué hacen con los desechos de la papa, lo que sobra en el plato? ¿Todo va en la bolsa de red o tienen algún tipo de receta especial?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 14,
+  "rol": "participante",
+  "texto": "No, se lo echamos a... O sea, eso le echamos a los perritos cuando quieren comer.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "Ah, las sobras de comida siempre a los perritos.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "A los perritos, sí.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 17,
+  "rol": "entrevistador",
+  "texto": "Ah, ok, súper bien. En el caso, digamos, de las cáscaras de huevo, ¿tienen algún tipo de manejo?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 18,
+  "rol": "participante",
+  "texto": "Esas se las molemos y se las echamos a las matas, a las materas.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 19,
+  "rol": "entrevistador",
+  "texto": "Ok, perfecto. Bueno, tienen un manejo más adecuado de los residuos.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 20,
+  "rol": "participante",
+  "texto": "Sí, sí.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 21,
+  "rol": "entrevistador",
+  "texto": "Y bueno, ¿consideran que este tema del chux de las basuras, si eso ha mejorado la concentración de basura, hace que sea menos el desorden?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 22,
+  "rol": "participante",
+  "texto": "No, la gente es muy cochina. Sí, hablando lo que es, la gente es muy cochina. Porque no lo echan dentro del chux, porque el chux tenía puerta, tenía eso, pero la gente...",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 23,
+  "rol": "entrevistador",
+  "texto": "¿Hace cuánto queda el chux de ahí?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 24,
+  "rol": "participante",
+  "texto": "Yo creo que como dos años.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 25,
+  "rol": "entrevistador",
+  "texto": "¿Dos años? ¿Hace reciente?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 26,
+  "rol": "participante",
+  "texto": "Sí, hace reciente, sí.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 27,
+  "rol": "entrevistador",
+  "texto": "¿Y antes qué hacían cuando no había chux con las basuras?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 28,
+  "rol": "participante",
+  "texto": "En las esquinas, pero las esquinas mantienen llenas de basura. Por ejemplo, usted se va por esta cuadra y en la esquina de allá, usted se asoma y ahí le toma una foto y ve un basurero, pero una cosa impresionante, porque la basura no entra a esa cuadra, o sea, ya no recoge basura, entonces la gente viene y la bota ahí donde no pasa el carro.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 29,
+  "rol": "entrevistador",
+  "texto": "Eso te iba a preguntar, conforme al carro de basura, ¿es puntual, pasa los días que son?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 30,
+  "rol": "participante",
+  "texto": "Hace tres meses el carro no pasa por ahí. Por acá no pasa. Y sí toca pagar, carísimo, porque nos cobran 40 mil por la basura.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 31,
+  "rol": "entrevistador",
+  "texto": "Perdón, te pregunto, ¿este cobro viene del recibo de la luz o del agua?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 32,
+  "rol": "participante",
+  "texto": "De la luz.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 33,
+  "rol": "entrevistador",
+  "texto": "Ok, es mensual.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 34,
+  "rol": "participante",
+  "texto": "Mensualmente, sí. Y vale 40, según como esto lo están cobrando o no. Pero no pasa el carro, porque yo decía que el carro pite y uno lo saca, el de la casa saca la basura, pero ni pasa, ni pasa, ni pasa, ni pasa.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 35,
+  "rol": "entrevistador",
+  "texto": "¿Mencionas este cobro porque se aumenta, porque la zona es comercial, cierto?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 36,
+  "rol": "participante",
+  "texto": "Sí.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 37,
+  "rol": "entrevistador",
+  "texto": "Te iba a preguntar, este tema de los residuos de la comida, ¿han visto problemática con el tema de los animales? ¿Los animales rompen mucho las bolsas?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 38,
+  "rol": "participante",
+  "texto": "Rompen, sí, y la gente, los que reciclar. Ellos rompen las bolsas y todo el reguero queda ahí.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 39,
+  "rol": "entrevistador",
+  "texto": "¿Crees que si se hiciera un manejo correcto de este tema de los alimentos —ya pues no podemos hacer mucho con las botellas y eso, porque estas personas se las llevan y las solucionan, lo más que ellos no recogen como tal las cáscaras de plátano, las cáscaras de papa— crees que si desde la casa, desde cada uno de nuestros hogares, manejaramos mejor ese residuo que son los alimentos que ya se desperdiciaron, crees que se mejoraría el tema de la basura? ¿No habría tanto perro, no habría tanto olor?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 40,
+  "rol": "participante",
+  "texto": "Sí, no habría tanto perro, sí, con eso sí, pero la gente no lo va a hacer, porque la gente es muy... o sea, hay mucha gente que es muy ignorante en ese sentido, ¿sí me entiendes? No todo el mundo. Pero, ¿qué hacemos con tres o cuatro que hagamos si diez no lo hace?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 41,
+  "rol": "entrevistador",
+  "texto": "Correcto. Si existiera una remuneración por hacerlo, ¿usted considera que las demás personas, o bueno, todo el mundo lo haría?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 42,
+  "rol": "participante",
+  "texto": "Yo creo que sí. Sería más factible a que no, si no la hay. Que hubiera una compensación por recoger su alimento, yo creo que sí, la gente lo haría porque... pues sabes que todo el mundo es... digamos, el tuyo que es papelería, pues no generas tanto, si no generas literalmente residuos orgánicos. En el caso digamos de un restaurante, ¿consideras que ellos deberían tener un poco más de conciencia con esa parte?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 43,
+  "rol": "participante",
+  "texto": "Sí, el resto de los restaurantes es una parte como grande y la reciben también, sí, claro, se nota bastante.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 44,
+  "rol": "entrevistador",
+  "texto": "No sé si tú sabes, o bueno, ¿tienes algún conocimiento de si los restaurantes botan la basura ahí mismo?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 45,
+  "rol": "participante",
+  "texto": "No tengo ni idea, pues yo me imagino que sí, ¿no? Porque para estar el chux ahí, está para todo, pues, ¿qué hago por fuera?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 46,
+  "rol": "entrevistador",
+  "texto": "El tema de los olores, ¿es muy fuerte o es normal?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 47,
+  "rol": "participante",
+  "texto": "Del tema del chux, por ejemplo, si huele mucho, pues con lo que hace tanto aire pues no se concentra, se lo lleva todo el frío y todo.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 48,
+  "rol": "entrevistador",
+  "texto": "¿Ayuda?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 49,
+  "rol": "participante",
+  "texto": "Sí ayuda a no oler tanto, no es una problemática tan principal, pues el olor no.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 50,
+  "rol": "entrevistador",
+  "texto": "¿Y el tema plagas, consideras que se ve?",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 51,
+  "rol": "participante",
+  "texto": "Sí, porque hay muchas ratas y ratones, ya sean ratas, ratones... ¿Cucarachas? No, pues bueno, yo en mi casa no tengo cucarachas, no, parecen roedores sí, pero como pues hay gatitos, pues el gato los soluciona, antes me los trae, los trae como cena.",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio6",
+  "turno": 52,
+  "rol": "entrevistador",
+  "texto": "Como cena, sí. Ok. Yo creo que sí, ya estamos bie",
+  "fuente": "Audio6.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Listo, bueno, ¿su merced vive solo? ¿O vive acompañada?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "No, sí, una hija.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Ah, una hija. ¿Quién se encarga de la cocina normalmente? ¿De preparar la comida? ¿Lavar la loza?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "Por ahí, de eso yo me toca tal vez preparar, preparar mi comida, si quiero tomar un tinto, hacerlo, porque ella trabaja también, entonces, por ahí.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "¿Usted también hace parte de las labores de la cocina?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Claro, las labores de la cocina, lavar la loza, regar. Sí, todavía pues me puedo mover. De salud estoy muy mal. Estoy muy mal de salud. Hace como cuatro años, tres años y medio o cuatro años, me pusieron un médico, me puso una sangre que no era mi equipo de sangre, y me envenenó la sangre, y estoy muy mal de los pies.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "Bueno, y venga, yo le pregunto, ¿los residuos de la basura? La basura de su casa, ¿todo va en una misma bolsa siempre?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "Todo, todo, todo, todo, todo. Se paga por la casa, se paga como ciento sesenta, ciento treinta mil pesos. De basura, de basura. Sí, caro. Cada piso tiene su recibo, llega su recibo. Es comercial, todo comercial. Pasa, pasa, todo.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "Bueno, y usted que lleva tantos años viviendo acá, ¿ese problema de las basuras siempre ha estado desde que usted está?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 10,
+  "rol": "participante",
+  "texto": "Eso, el problema de las basuras, venga, le botan ahí. Eso es fuerte al diario, que botan la basura ahí.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 11,
+  "rol": "entrevistador",
+  "texto": "Pero desde que usted está aquí en el barrio, ¿siempre ha pasado eso?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 12,
+  "rol": "participante",
+  "texto": "Claro, eso casi toda la gente, llega acá y bota.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 13,
+  "rol": "entrevistador",
+  "texto": "Pero, su merced, ¿ha mejorado o ha empeorado a lo largo de los años? ¿Hay menos basura ahorita o había mucha más?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 14,
+  "rol": "participante",
+  "texto": "Ay, no, era que primero, o sea, aquí por las calles… mejora, ¿no? Más organizado.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "Su merced, el tema de los manejos de, digamos, el arroz del día anterior, la cáscara de papa, toda esa basura, ¿ustedes la acumulan normalmente en la misma bolsa?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "Sí, todo. Todo va en la misma bolsa, para basura y eso.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 17,
+  "rol": "entrevistador",
+  "texto": "El tema animales, el tema perros, ¿molesta mucho la basura? ¿Los perros no rompen las bolsas ni nada de eso por el chute?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 18,
+  "rol": "participante",
+  "texto": "No, acá no. No, nada, todo es allá, al botadero. Las bolsas las sacan de ahí al botadero.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 19,
+  "rol": "entrevistador",
+  "texto": "¿Usted cree que es un problema de los más graves el tema de las basuras? Los olores, el desorden. ¿Es un problema muy grave o simplemente da igual?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 20,
+  "rol": "participante",
+  "texto": "No, pues para nosotros no, porque nosotros cogemos la basura y la llevamos y la echamos allá. Y para la comunidad, no sé, los niños… ¿Quién sabe? Nosotros no. Como yo, yo soy muy enfermo, yo no salgo a nada de aquí.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 21,
+  "rol": "entrevistador",
+  "texto": "¿Ustedes han presentado problemáticas dentro de su casa de roedores, de ratones? ¿Cucarachas?",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio7",
+  "turno": 22,
+  "rol": "participante",
+  "texto": "Nada, nada, nada. Mi casa vive muy limpia.",
+  "fuente": "Audio7_revisada.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Perfecto, buenas tardes, mi nombre es William Fonseca, del programa de mercado y publicidad del Politécnico Grancolombiano, ¿tu nombre es?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "Valentina Rodríguez.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Vale, Valentina, te explico súper breve, estamos en este momento haciendo un proyecto de investigación para recibir toda la información posible relacionada con todo el tema de las basuras y precisamente de desechos orgánicos. No sé si tú sabías que los desechos orgánicos, que son las cáscaras, los huevos, todo lo que es de alimentos, es lo que principalmente hace que roedores, animales y muchos tipos de contaminación y temas de salud se produzcan precisamente por todo este tema de estos desechos orgánicos. Digamos que el plástico no atrae las ratas, el plástico no atrae a los perros, pero sí que lo que lo atrae precisamente son los desechos orgánicos. Entonces queremos hablar un poquito más en relación a ese tema contigo. ¿Perfecto? Entonces, me gustaría primero saber tú hace cuánto vives en este sector.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "Bueno, no mucho tiempo, llevo como cuatro años viviendo acá en este sector.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "Ok, cuatro años viviendo en el sector y durante esos cuatro años tú has percibido exactamente la misma problemática que has tenido acá, lo que has visto, o eso es algo muy reciente.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Pues es algo que ya ha estado, pero pues con el tiempo ha avanzado un poco más, entonces se ha visto como más involucra más.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Y por qué crees que ha avanzado eso desde el inicio que tú llegaste hace cuatro años al día de hoy en donde lo ves como con más frecuencia?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "Pues yo pienso que primeramente es por falta de cultura, o sea las personas, es \"no es basura, entonces voy y lo echo allá\". Hay muchos que, ejemplo, pues no ponen bolsas en sus canecas de basura y pues vienen y echan la basura así, pues así no sería. Entonces, principalmente, pues, sería por ese factor y también diría que porque, pues, hay muchos habitantes de calle también, o sea, no ayudan y lo que hacen es regar todo eso, los animalitos de la calle, pues, también rebuscan ahí, pues, eso es un completo desorden y, pues, afecta a todos como tal.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 9,
+  "rol": "entrevistador",
+  "texto": "Hay tres cosas que tú tocas interesantes, entonces voy a abordar la primera. La primera tú dices falta de cultura. ¿Recuerdas en estos cuatro años que has estado acá que se hayan hecho campañas de concientización, de cultura con todos los habitantes del sector?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 10,
+  "rol": "participante",
+  "texto": "No, mira que no, no, o sea, no. Ni la gente por sí misma toma conciencia, no es que es algo complicado. O por ejemplo, pues, ejemplo a mí, pues, en mi casa no hay como tal algo de reciclaje, pero pues sí, con mis hermanos hemos planteado la idea y pues lo hemos ido haciendo. Por ejemplo, hojas que ya no necesitamos, entonces como \"ay, ven, vamos a llevarlo a algún lugar que sí puedan aprovechar ese reciclaje\".",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 11,
+  "rol": "entrevistador",
+  "texto": "¿Material?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 12,
+  "rol": "participante",
+  "texto": "Material, sí.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 13,
+  "rol": "entrevistador",
+  "texto": "Ok, tú mencionaste otra segunda cosa importante y que de hecho lo notamos cuando llegamos y fue la cantidad de perritos que hay. Desde el momento que tú llegaste hace cuatro años hasta el día de hoy, siempre ha sido ese comportamiento a nivel de todos los animalitos y no solo perritos, ¿has visto otro tipo de animales que han estado alrededor de todo este tema de desechos?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 14,
+  "rol": "participante",
+  "texto": "Pues sí, ha influenciado mucho más el abandono de animalitos, entonces, pues cuando yo llegué sí se veía, pero no mucho. Yo creo que con el paso del tiempo es cuando más va avanzando, entonces, por ese lado, más animales distintos a los perritos, no, mira que gatos casi no, ellos sí son muy de casa, pero, bueno, ratas, pero eso es por la misma contaminación que sí se percibe, sí he visto, entonces... Eso nos afecta muchísimo tanto también el ambiente que eso va a nuestro sistema respiratorio y todo eso entonces. A mayor tiempo pues nos puede afectar, pero entonces...",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "Y el tema de la indigencia que mencionas, que has visto bastante habitante en condición de calle, ¿cómo es el comportamiento de ellos en relación a este sector en particular, que vemos que tienes un gran problema de basuras aquí al lado? ¿Exactamente cómo es su comportamiento que hace que afecte aún más el problema?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "Bueno, pues principalmente ellos ingresan ahí al lugar y pues a esas bolsas que ya están hechas a desarmarlas y dejar un desorden por todo eso y a eso viene pues que van regando toda esa basura y se va expandiendo, o sea era solo la casita que se ve ahí pero ahora es todo por fuera, se puede observar la montañita allá, todo eso está lleno de basura, entonces eso influye en que ellos pues por buscar algo de comer para ellos realizan ese tipo de cosas.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 17,
+  "rol": "entrevistador",
+  "texto": "¿Tú recuerdas si alguien conocido, tú o acá la persona encargada de este comercio, haya puesto algún tipo de denuncia, algún derecho de petición o algo ante los entes reguladores o el mismo distrito con el problema que ustedes tienen?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 18,
+  "rol": "participante",
+  "texto": "Sí, claro, sí, varias personas ya lo han hecho la petición, pero aún así no se ha sido escuchado de manera como deberíamos ser escuchados, como quisiéramos escuchar. Entonces, pues sí se han hecho, pero pues no se ha actuado de manera que nosotros nos gustaría que actuara.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 19,
+  "rol": "entrevistador",
+  "texto": "¿A ti cómo te gustaría que se solucionara el problema? Si tú tuvieses la oportunidad de proponer una solución y decir, esto lo deberían hacer, ¿qué crees que debería ser la solución?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 20,
+  "rol": "participante",
+  "texto": "Primordial pues una campaña, sería súper importante concientizar porque pues primero empieza desde nosotros, desde casa puede empezar y pues así mismo en la regular pues las basuras, ejemplo pues hay mucho... mucho tema pues que no es basura pero si se puede utilizar, reutilizar, entonces eso sería un buen mecanismo para plantear.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 21,
+  "rol": "entrevistador",
+  "texto": "Ok, desde la casa tú mencionas que estabas o con tus hermanos hacías un poco iniciativas a nivel de reciclaje. Si nos vamos exactamente al tema de los desechos orgánicos en la cocina, en tu hogar, ¿cómo hacen ustedes el manejo de lo típico, la cáscara de huevo que queda después de hacer el desayuno, la cáscara de banano y todo este tipo de desechos orgánicos incluso que quedan en el plato después? ¿Qué pasa con eso a nivel del hogar?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 22,
+  "rol": "participante",
+  "texto": "Bueno, pues eso sí, o lo consideramos o quizás no tengamos el conocimiento, pues sí es algo orgánico, pero entonces sí lo botamos, sí lo desperdiciamos y pues va a la basura.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 23,
+  "rol": "entrevistador",
+  "texto": "¿Tienen un mismo chute de basura para todo o separan?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 24,
+  "rol": "participante",
+  "texto": "Separamos lo que digamos es plástico y hojas y ya lo orgánico de cocina pues queda solo en la cocina, la basura de la cocina.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 25,
+  "rol": "entrevistador",
+  "texto": "Lo orgánico de cocina va junto con, no sé, con más basura aparte del plástico, el plástico y el papel lo separan, pero todo lo demás va en el mismo chute.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 26,
+  "rol": "participante",
+  "texto": "Diría pues lo orgánico, porque por ejemplo esos plastiquitos de dulces o cosas así va con lo plástico y papel que ya mencioné anteriormente.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 27,
+  "rol": "entrevistador",
+  "texto": "¿Cada cuánto pasa acá la basura?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 28,
+  "rol": "participante",
+  "texto": "Cada día, día de por medio pasa. O sea, no es muy demorada tampoco, o sea, pasa.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 29,
+  "rol": "entrevistador",
+  "texto": "¿Y el comportamiento que tienes tú, incluso que has visto tus vecinos en relación al paso de la basura, la dejan en qué lugar? ¿O cómo hacen para dejar los desechos, específicamente los desechos orgánicos? ¿Los mantienen en su hogar mientras llega la basura, los sacan después de que llegue la basura, en el momento que llegue la basura? ¿O cómo funciona ese tema del camino desde la cocina hasta ese carro?",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 30,
+  "rol": "participante",
+  "texto": "Bueno, pues se ha evidenciado varias veces que es mucho antes, una noche antes sacan la basura, entonces se ve mucho el reguero de basura y ahí es donde aprovechan los animalitos a hacer su desorden, entonces al día siguiente se ve mucho desorden, aunque pues las personas que son encargadas de recoger la basura intentan limpiar y dejar eso lo más prudente, pero pues aún así no es suficiente porque pues también aquí un factor es el viento entonces eso corre muchísimo la basura entonces eso llega hasta nuestras caras que es algo pues incómodo y ya.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 31,
+  "rol": "entrevistador",
+  "texto": "Ok, una última pregunta ya para finalizar y es el tema del espacio en este sector a nivel de los hogares. El tipo de elemento que utilizan para recoger este tipo de desechos orgánicos, ¿qué tipo de caja o qué tipo de... cómo se llamaría esto? ¿Cierto? Como qué tipo de... sí, no sé cómo decirle, como dónde se deposita, o qué tipo de elemento utilizan, ¿la bolsa ahí en el piso, utilizan una caneca más o menos de qué tamaño suelen utilizar? Todo este tipo de cosas para ustedes, tanto en el comercio como también en tu hogar.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 32,
+  "rol": "participante",
+  "texto": "Bolsitas de basura bien cerradas y se deja y pues no sea, es que hay puntos específicos donde se puede dejar la basura que son como una casita así donde se ve, pues acá hay uno y en la parte de arriba bien arriba hay otro, pero entonces todas estas personas de esquinas las dejan ahí en la esquina, entonces pues eso no está bien porque ahí es por donde se empieza, entonces sí no deberían llevar la puesta a los puntos que ya integrados. Entonces sí, la mayoría de veces solo es en bolsitas bien cerradas y pues como ya dije principalmente, pues a veces hay personas también que ni siquiera bulsan, entonces solo llevan la caneca de su basura, la echan y ya, porque sí lo he evidenciado y pues sí lo he visto.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio8",
+  "turno": 33,
+  "rol": "entrevistador",
+  "texto": "Perfecto, entonces damos por finalizada la entrevista, mil mil gracias y acá paró la grabación.",
+  "fuente": "Audio8.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "Entonces, primero me presento: soy William Fonseca, estudiante del programa de Mercado y Publicidad del Politécnico Gran Colombiano. ¿Con quién tengo el gusto?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "Con Isaac Pardo.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "Listo. Isaac, como te comenté hace un momento, estamos haciendo un estudio de todo el tema del sector y a nivel de desechos orgánicos específicamente, que es lo que provoca, digamos que, los malos olores, infecciones, contaminación, todo el tema de roedores y también de los mismos perritos que destapan bolsas y todo este tema. Entonces vamos a conocer un poquito más tu opinión sobre eso en particular. Lo primero es, pues, conocerte un poco: ¿hace cuánto estás en este barrio, en este sector?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "Bueno, pues la verdad, o sea, hace qué, como 5 años más o menos, pero yo no vivo acá.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "Ok, hace 5 años tienes el local acá, por decirlo de alguna manera, o trabajas por este sector.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Ok.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "¿Qué percibes tú en este sector a diferencia de donde tu sueles vivir? O sea, ¿qué percibo como, en qué sentido?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 8,
+  "rol": "entrevistador",
+  "texto": "En el sentido de todo el tema de contaminación y desechos orgánicos.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 9,
+  "rol": "participante",
+  "texto": "Pues la verdad, por ejemplo, pues acá la basura pasa, pero pasa es como, o sea, ¿cómo le diría yo? Pasa es de afán.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 10,
+  "rol": "entrevistador",
+  "texto": "Ah, ok.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 11,
+  "rol": "participante",
+  "texto": "¿Sí? O sea, no hay, sí, en sí, en sí, no, no, por ejemplo, digamos, no paran en cierto lugar, que de pronto digan: \"bueno, mire\", o que diga uno: \"uy, pasó el carro, toca sacar la basura\". No, si no pasan es de afán. Eso por un lado. Por el otro, pues a como a tres cuadras más o menos, pues hay un sitio donde se puede dejar la basura, pero de igual, la misma vaina, porque, o sea, de allá pues vienen, si me entiende, pues digamos así, la gente y escarban y, bueno, y si me entiende, sacan papeles, se van al viento, los perros. Entonces, todo eso lo traen otra vez para, si me entiende, para la zona. Entonces, pues de igual, pues, o sea, está como, o seja, sí es bueno ese chux, pero al mismo tiempo, pues no, porque no, no se beneficia uno en nada. Y sí llegan malos olores, ve uno, sí, animales, o sea, animalitos, ratas, bueno, sí, de todo lo que sea.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 12,
+  "rol": "entrevistador",
+  "texto": "Cuando tú llegaste a este sector hace 5 años al día de hoy, ¿la situación cambió o siempre ha sido así?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 13,
+  "rol": "participante",
+  "texto": "No, siempre ha sido así, siempre ha sido así.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 14,
+  "rol": "entrevistador",
+  "texto": "Ok. O sea, no ha cambiado para nada, siempre sigue así.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 15,
+  "rol": "entrevistador",
+  "texto": "Tú hablabas algo interesante, y es en relación a que acá el sistema de aseo y, bueno, todo el tema de las basuras pasa cuando se le de la gana, o has notado que tiene cierta periodicidad?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 16,
+  "rol": "participante",
+  "texto": "No, pues más que todo, pues se supone que, digamos, o sea, por ejemplo, digamos, tiene que pasar los lunes, los miércoles y los sábados. Hoy, por ejemplo, es sábado y no he visto ni siquiera el carro por ahí.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 17,
+  "rol": "entrevistador",
+  "texto": "Ok. ¿Sí me entiende? Entonces, pues no.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 18,
+  "rol": "entrevistador",
+  "texto": "¿Cómo funciona la recolección de todo el tema de desechos orgánicos en un local como este? ¿Cuál es el protocolo, cómo la Secretaría [de Salud/Educación] exige algo en particular a nivel de manejo de desechos orgánicos en un local como este?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 19,
+  "rol": "participante",
+  "texto": "Sí, claro, sí señor. Sí, ellos le dicen a uno, por ejemplo, digamos: \"mire, hay canecas ahí\", y uno tiene una caneca allá y, por ejemplo, digamos, bota uno lo que es así basura, por ejemplo, digamos, papeles, bueno, así, cositas así. Y tiene uno otra caneca donde, por ejemplo, digamos, recicla, digamos, todo lo que sea de plástico, digámoslo así.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 20,
+  "rol": "entrevistador",
+  "texto": "Ok. Y a nivel de orgánico, ¿qué es? ¿Cáscaras de huevo? No sé, el almuerzo, cuando uno termina de almorzar, que le quedó los frijolitos ahí pegados, pedacito de ensalada, todo eso, ¿a dónde va?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 21,
+  "rol": "participante",
+  "texto": "Bueno, pues de igual, o sea, yo en particular, o sea, yo no almuerzo acá. O sea, yo, por ejemplo, digamos, yo cierro y me tomo mi media hora o mis 45 minutos, voy a almorzar, y después vuelvo otra vez.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 22,
+  "rol": "entrevistador",
+  "texto": "Ok. O sea, de igual, sí, o sea. Perfecto.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 23,
+  "rol": "entrevistador",
+  "texto": "En relación a lo que mencionaba de los desechos y de este tema de los chux que tienes tanto adentro como afuera, ¿este en particular lo manejas exclusivamente para todos los clientes que ingresan, o cómo funciona la recolección de este en particular?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 24,
+  "rol": "participante",
+  "texto": "Sí, pues más que todo, por ejemplo, digamos, pues no falta el que diga: \"ay, vecino, voy a botar esa botellita acá\", o \"vecino, voy a botar tal cosa acá\". ¿Sí? De igual así.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 25,
+  "rol": "entrevistador",
+  "texto": "¿No importaría, por ejemplo, llegar con una cáscara de banano y botarla ahí?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 26,
+  "rol": "participante",
+  "texto": "No. O sea, por ejemplo, digamos, sí, o sea, si llegan y la botan ahí, pues la botan ahí. Pero de igual, o sea, por ejemplo, igual uno, pues, o sea, nosotros tenemos una chica acá.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 27,
+  "rol": "entrevistador",
+  "texto": "Ok.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 28,
+  "rol": "participante",
+  "texto": "Y ella es la que hace el aseo, tal. Entonces uno le dice: \"bueno, si de pronto hay allá frascos o algo, échelos acá y el resto, lo que es basura, pues déjelo allá\". Perfecto.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 29,
+  "rol": "entrevistador",
+  "texto": "¿Cómo ve el sector a nivel de qué tanto le afecta, por ejemplo, el hecho de todos los animalitos que están en el sector? Hemos visto muchísimo perrito por toda la calle. ¿A qué cree que se debe eso particularmente?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 30,
+  "rol": "participante",
+  "texto": "Pues hoy en día, prácticamente, pues la gente tiene, qué le diría yo, como más prioridad con los perros, digámoslo así, ¿sí? Que una persona. Entonces, pues hay muchas personas que tienen esos perros, o sea, los tienen y al mismo tiempo no los tienen porque los tienen abandonados. Entonces de igual uno sí ve mucho perro en la calle. Bastante.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 31,
+  "rol": "entrevistador",
+  "texto": "Hemos logrado ver bastante perrito en la calle. Ahora bien, esos perritos en particular, adicional a otros tipos de animales, ¿qué opinión usted tiene en relación a cómo se ve afectado el tema de las basuras en relación a todos estos animalitos? O sea, ¿son atraídos, no son atraídos, o cómo funciona?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 32,
+  "rol": "participante",
+  "texto": "Uy, perdón.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 33,
+  "rol": "entrevistador",
+  "texto": "Sí, dale, tranqui. Dale.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 34,
+  "rol": "entrevistador",
+  "texto": "Tú mencionaste algo en relación al problema que tenía este sector con los chux que quedan aquí a pocas cuadras, de hecho. Sí, señor. En relación a ese problema, ¿recuerdas durante estos 5 años que se haya hecho alguna solicitud oficial, que hayan venido, que hayan hecho alguna campaña o algo en relación para solucionar? ¿Han propuesto alguna solución?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 35,
+  "rol": "participante",
+  "texto": "No, no señor. ¿Han...? Hasta donde yo sepa, no.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 36,
+  "rol": "entrevistador",
+  "texto": "¿Y recuerda que de pronto la comunidad se haya unido para hacer solicitudes?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 37,
+  "rol": "participante",
+  "texto": "No, tampoco.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 38,
+  "rol": "entrevistador",
+  "texto": "Ok. Hasta este momento, ese problema que ustedes están presentando en el sector, no ha habido como una conciliación con toda la comunidad, tanto de comercios como de viviendas, para decir: \"pasemos esto a la superintendencia, no sé, o al tema de alcantarillado, o al ente regulador\"?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 39,
+  "rol": "participante",
+  "texto": "No, no señor. Perfecto.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 40,
+  "rol": "entrevistador",
+  "texto": "Ahora, mencionabas algo relacionado con el paso de las basuras, y me voy a devolver un poquito nuevamente a ese tema, y es que, ¿cuál es la diferencia entre el paso de las basuras en este sector en relación al sector donde tú vives?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 41,
+  "rol": "participante",
+  "texto": "Bueno, lo que pasa es que, por ejemplo, digamos, acá donde tiene uno el negocio, pues es comercial. Y, pues, donde yo vivo, pues es residencial. Allá sí pasa la basura. Eso sí, por ejemplo, digamos, pasa lo que es el lunes, el miércoles y el viernes. Esos tres días sí pasa. ¿Para qué? Y pasa cumplido.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 42,
+  "rol": "entrevistador",
+  "texto": "¿Y pasa cumplido?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 43,
+  "rol": "participante",
+  "texto": "Y hasta pitan y todo. O sea, como tiene que ser, digámoslo así. Pero acá no. Y se supone que acá es comercio, pues es donde antes colmaba verano, ¿no? Claro. Pero eso sí, llega Navidad, entonces ahí sí pasan los que supuestamente barren por ahí: \"ay, vecino, que la Navidad, que no sé qué\". Pues dígame uno cómo les da la Navidad si no se lo han ganado, digámoslo así. Ok.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 44,
+  "rol": "entrevistador",
+  "texto": "La empresa que recoge la basura acá es la misma, o sea, ¿esa basura qué empresa? ¿O recuerdas el nombre de la empresa que la recoge?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 45,
+  "rol": "participante",
+  "texto": "Sí, Lime, la misma.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 46,
+  "rol": "entrevistador",
+  "texto": "¿La misma?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 47,
+  "rol": "participante",
+  "texto": "Sí. Sí, porque esa como es toda la zona cuarta. Ok. Todo eso es.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 48,
+  "rol": "entrevistador",
+  "texto": "Dale, perfecto. Ahora, otra pregunta: en tu casa, ¿cómo funciona el tema de la recolección de basura? Cuando terminas de desayunar, o todo el tema de cáscaras y cosas así, ¿tú tienes un chux especial para botar eso, o es lo mismo con toda la otra?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 49,
+  "rol": "participante",
+  "texto": "No, yo la verdad, en la casa, pues como, o sea, en mi casa tengo un jardín, en la parte de atrás. Entonces, ¿qué es lo que pasa? Que, por ejemplo, digamos, las vainitas esas de los huevos y toda esa vaina, pues yo las recolecto, yo las dejo en una bolsita. Y cuando ya tengo así de articas, entonces llego y las cojo con, o sea, así con las manos, le hago así, y se la echo a las maticas, como abono.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 50,
+  "rol": "entrevistador",
+  "texto": "Ok. ¿Y el resto de desechos?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 51,
+  "rol": "participante",
+  "texto": "El resto ya, por ejemplo, digamos así que se tome uno una gaseosa, o bueno, así que bote uno los frascos del aceite, bueno, así. Eso sí los deja uno en una bolsa aparte, y cuando pasa la basura, entonces ahí ese talego es donde está todo lo que es de plástico, y ya el resto, ya en bolsa, ya pues lo que son papeles del baño, lo que es de la cocina, etcétera, etcétera.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 52,
+  "rol": "entrevistador",
+  "texto": "Perfecto. Hablabas de tu huerta, de lo que tienes ahí en tu patio. ¿Sueles utilizar algún tipo de abono o cosas para poder que las matas crezcan mejor, para que todo tu jardín sea mejor? O compras por aparte tipo de abono, fertilizante, o cómo funciona el tema de tu huerta?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 53,
+  "rol": "participante",
+  "texto": "No, pues yo sí compro, o sea, fertilizantes, y les echo a las maticas.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 54,
+  "rol": "entrevistador",
+  "texto": "Ok. ¿Fertilizantes de alguna marca en especial, algo que tiene su mente?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 55,
+  "rol": "participante",
+  "texto": "No, o sea, eso es como que como para que les dé como vida, que como que se pongan más bonitas. ¿Sí? Algo así.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 56,
+  "rol": "entrevistador",
+  "texto": "Listo. Ahora, otra duda ya para finalizar. Con el problema de basuras que se tiene, si yo te preguntara: ¿qué idea o qué solución a ti se te ocurriría como para solucionar ese tema? O de tu experiencia estos 5 años que has tenido acá en el sector, ¿cuál crees que sea una solución viable que pueda unir a la comunidad?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 57,
+  "rol": "participante",
+  "texto": "Pues yo digo que, o sea, para mí, pues deberían era ser como, pues más que todo esto es como ya es como la alcaldía, ¿no? Si me entiende, que como que, o sea, que pongan, si me entiende, su mano en el corazón y diga: \"bueno, hombre, ¿qué es lo que está pasando en los barrios? Vamos a mirar a ver qué vamos a hacer\". ¿Sí? Y hacer como una asamblea, como llamar a la gente, como decirles: \"bueno, vamos a hacer esto, vamos a hacer aquello, ustedes qué opinan? Si están de acuerdo, no están de acuerdo, qué necesitan, qué podemos hacer por ustedes\". Algo así, ¿sí?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 58,
+  "rol": "entrevistador",
+  "texto": "¿Nunca han venido?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 59,
+  "rol": "participante",
+  "texto": "Pero no, o sea, no. O sea, el tiempo que yo llevo acá, no.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 60,
+  "rol": "entrevistador",
+  "texto": "¿Y hay algún líder entre los vecinos, entre el sector, que usted conozca, que tú conozcas?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 61,
+  "rol": "participante",
+  "texto": "No, la verdad no. No, así que de pronto alguien que uno diga de pronto alguien así, un líder, o de pronto digamos que un concejal, o un edil, algo así, digámoslo así, no.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 62,
+  "rol": "entrevistador",
+  "texto": "Ok. ¿Y el sector de la esquina, alguna vez lo has visto medianamente limpio? De, o sea, en el resto, o sea, en el... en el, en el, todo este sector, y más que todo donde en el chux de la esquina, ¿alguna vez has visto menos basura ahí? ¿O siempre está?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 63,
+  "rol": "participante",
+  "texto": "No, siempre, siempre es lo mismo. Y cuando, por ejemplo, digamos así que esté lloviendo, que esté haciendo mucho viento, y toda esa vaina, eso todos los papeles vienen para acá.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 64,
+  "rol": "entrevistador",
+  "texto": "¿Y cómo te afecta el olor? ¿Llega hasta acá el olor?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 65,
+  "rol": "participante",
+  "texto": "No, pues, o sea, digamos que llegue olor, olor no. O sea, más que todo es fastidioso porque, por ejemplo, digamos, llegan todos los papeles y hace un remolino y se meten todos los papeles. Y sí, le ensucia uno las neveras, bueno, en fin. Eso es lo feo. Eso por un lado. Por el otro, cuando llueve, se forma, si me entiende, o sea, como pichal, digámoslo así. Eso es como, por ejemplo, digamos ahí al frente. Si usted se pone a mirar de acá al otro lado, ¿sí? Todo está destapado, todo está en tierra. ¿Sí me entiende? Y no, o sea, nadie tampoco dice nada, nadie hace nada, de pronto decir: \"bueno, hombre, que al menos que nos echen un asfalto ahí\", como para que, si me entiende, nada. Pero no.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 66,
+  "rol": "entrevistador",
+  "texto": "¿Ya usted cree que los vecinos ya normalizaron ese lugar y viven tranquilos con eso?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 67,
+  "rol": "participante",
+  "texto": "No. Pues yo digo que de pronto no. O sea, pues de que vivan felices, no. Yo creo que ya como que se acostumbran, más bien, digámoslo así. Que ya dirán: \"ah, pues las cosas están así, pues dejémoslas así\".",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 68,
+  "rol": "entrevistador",
+  "texto": "¿Y no le ha afectado en absolutamente nada, o sí le ha afectado un poco el tema del objetivo de su comercio, del local en relación a esas basuras? Es decir, bajas ventas, más ventas, o comportamiento de los...",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 69,
+  "rol": "participante",
+  "texto": "No, no, porque, o sea, pues gracias a Dios, pues ya uno, o sea, digamos, yo, por ejemplo, digamos acá en este momento, pues yo tengo, o sea, 5 años de estar acá. O sea, yo, ¿sí? Pero, por ejemplo, digamos, mi sobrino, o sea, él ya, él sí ya lleva acá como 13 años acá. ¿Sí me entiende? Eso.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 70,
+  "rol": "entrevistador",
+  "texto": "Una última pregunta ya para finalizar, y es: ¿la basura, usted cree que tiene alguna relación o percepción con la seguridad del sector?",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 71,
+  "rol": "participante",
+  "texto": "Pues de pronto, pues yo digo que no, no tiene ninguna seguridad, porque... O relación. Digamos que de pronto, pues viene de pronto, qué sé yo, pues como saben que hay un chux allá y la gente todo lo bota allá, pues pueden venir gente de otros lados, ¿sí me entiende? Y pueden venir ahí a escarbar. Pero entonces, pueden que escarben, pero entonces están también mirando, ¿sí? O sea, digamos, las tiendas, para decir: \"bueno, de pronto en X parte dejan solo, pues por qué no hacemos tal cosa\", ¿sí? Entonces se puede prestar también para muchas cosas.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 72,
+  "rol": "entrevistador",
+  "texto": "Ok. Entonces sí es también como una atracción a nivel de delincuencia, puede atraer.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 73,
+  "rol": "participante",
+  "texto": "Sí, claro. Sí, señor.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio9",
+  "turno": 74,
+  "rol": "entrevistador",
+  "texto": "Ok. Perfecto. Creo que por ahora tenemos la información que necesitábamos. Mil, mil gracias.",
+  "fuente": "Audio9.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 1,
+  "rol": "entrevistador",
+  "texto": "¿Y el abono es carísimo?",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 2,
+  "rol": "participante",
+  "texto": "Sí.",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 3,
+  "rol": "entrevistador",
+  "texto": "¿El abono es carísimo y el abono natural es diez veces mejor?",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 4,
+  "rol": "participante",
+  "texto": "Mejor que todos esos químicos que hay. Porque el abono en Colombia se importa. El abono en Colombia se trae de otro país, entonces empezar desde abajo.",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 5,
+  "rol": "entrevistador",
+  "texto": "¿Empezar desde abajo?",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 6,
+  "rol": "participante",
+  "texto": "Sí, porque en el campo, por ejemplo, yo cuando voy al campo a visitar a los familiares de mi esposo, ellos todo reciclan. Lo que es los hollejos, todo eso lo cogen. El café, todo eso. Todo, para todo.",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 7,
+  "rol": "entrevistador",
+  "texto": "Entonces, ¿tú autorizas que utilicemos esta grabación del audio de la entrevista?",
+  "fuente": "Audio10_revisada.txt"
+ },
+ {
+  "audio": "Audio10",
+  "turno": 8,
+  "rol": "participante",
+  "texto": "Sí, para que hagan la tarea.",
+  "fuente": "Audio10_revisada.txt"
+ }
+]

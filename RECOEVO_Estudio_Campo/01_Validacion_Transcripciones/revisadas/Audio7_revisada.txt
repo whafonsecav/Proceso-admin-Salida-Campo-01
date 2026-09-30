@@ -1,0 +1,25 @@
+Audio7 · transcripción revisada (base: Whisper large-v3 + transcripción original; hablantes asignados por contexto)
+Participante: residente adulto/a mayor, hogar (vive con una hija). Duración: 4:17.
+
+Entrevistador: Listo, bueno, ¿su merced vive solo? ¿O vive acompañada?
+P: No, sí, una hija.
+Entrevistador: Ah, una hija. ¿Quién se encarga de la cocina normalmente? ¿De preparar la comida? ¿Lavar la loza?
+P: Por ahí, de eso yo me toca tal vez preparar, preparar mi comida, si quiero tomar un tinto, hacerlo, porque ella trabaja también, entonces, por ahí.
+Entrevistador: ¿Usted también hace parte de las labores de la cocina?
+P: Claro, las labores de la cocina, lavar la loza, regar. Sí, todavía pues me puedo mover. De salud estoy muy mal. Estoy muy mal de salud. Hace como cuatro años, tres años y medio o cuatro años, me pusieron un médico, me puso una sangre que no era mi equipo de sangre, y me envenenó la sangre, y estoy muy mal de los pies.
+Entrevistador: Bueno, y venga, yo le pregunto, ¿los residuos de la basura? La basura de su casa, ¿todo va en una misma bolsa siempre?
+P: Todo, todo, todo, todo, todo. Se paga por la casa, se paga como ciento sesenta, ciento treinta mil pesos. De basura, de basura. Sí, caro. Cada piso tiene su recibo, llega su recibo. Es comercial, todo comercial. Pasa, pasa, todo.
+Entrevistador: Bueno, y usted que lleva tantos años viviendo acá, ¿ese problema de las basuras siempre ha estado desde que usted está?
+P: Eso, el problema de las basuras, venga, le botan ahí. Eso es fuerte al diario, que botan la basura ahí.
+Entrevistador: Pero desde que usted está aquí en el barrio, ¿siempre ha pasado eso?
+P: Claro, eso casi toda la gente, llega acá y bota.
+Entrevistador: Pero, su merced, ¿ha mejorado o ha empeorado a lo largo de los años? ¿Hay menos basura ahorita o había mucha más?
+P: Ay, no, era que primero, o sea, aquí por las calles… mejora, ¿no? Más organizado.
+Entrevistador: Su merced, el tema de los manejos de, digamos, el arroz del día anterior, la cáscara de papa, toda esa basura, ¿ustedes la acumulan normalmente en la misma bolsa?
+P: Sí, todo. Todo va en la misma bolsa, para basura y eso.
+Entrevistador: El tema animales, el tema perros, ¿molesta mucho la basura? ¿Los perros no rompen las bolsas ni nada de eso por el chute?
+P: No, acá no. No, nada, todo es allá, al botadero. Las bolsas las sacan de ahí al botadero.
+Entrevistador: ¿Usted cree que es un problema de los más graves el tema de las basuras? Los olores, el desorden. ¿Es un problema muy grave o simplemente da igual?
+P: No, pues para nosotros no, porque nosotros cogemos la basura y la llevamos y la echamos allá. Y para la comunidad, no sé, los niños… ¿Quién sabe? Nosotros no. Como yo, yo soy muy enfermo, yo no salgo a nada de aquí.
+Entrevistador: ¿Ustedes han presentado problemáticas dentro de su casa de roedores, de ratones? ¿Cucarachas?
+P: Nada, nada, nada. Mi casa vive muy limpia.

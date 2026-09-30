@@ -1,0 +1,11 @@
+﻿id,audio,transcripcion,formato,duracion,palabras_transcripcion,observacion
+Audio1,Audio1.mp3,Audio1.txt,.mp3,00:07:37,1360,Entrevista; participante identificado en transcripción como Don José
+Audio2,Audio2.mp3,Audio2.txt,.mp3,00:00:26,107,Fragmento muy breve; Don Álvaro según transcripción
+Audio3,Audio3.mp3,Audio3.txt,.mp3,00:08:40,1225,Entrevista; líder/comerciante Don Álvaro según transcripción
+Audio4,Audio4.mp3,Audio4.txt,.mp3,00:08:21,1247,Entrevista; líder comunitario referido como Don Pérez/Álvaro; posible duplicidad por verificar
+Audio5,Audio5.mp3,Audio5.txt,.mp3,00:06:00,934,"Entrevista; trabajador de fruver Juan Sebastián, según transcripción"
+Audio6,Audio6.ogg,Audio6.txt,.ogg,No disponible,1048,"Entrevista; propietaria de local, 36 años en la zona según transcripción"
+Audio7,Audio7.ogg,Audio7.txt,.ogg,No disponible,570,Entrevista; residente/hogar; transcripción sin cabecera identificadora clara
+Audio8,Audio8.mp4,Audio8.txt,.mp4,00:09:28,1671,"Entrevista; residente/comerciante Valentina, según transcripción"
+Audio9,Audio9.mp4,Audio9.txt,.mp4,00:13:18,2551,"Entrevista; comerciante/residente Isaac, según transcripción"
+Audio10,Audio10.ogg,Audio10.txt,.ogg,No disponible,163,No parece entrevista sustantiva: transcripción contiene solicitud de firma/permiso; verificar contenido del audio

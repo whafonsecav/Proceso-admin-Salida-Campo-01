@@ -1,0 +1,832 @@
+{
+ "file": "Audio1.mp3",
+ "duration": 457.7436875,
+ "segments": [
+  {
+   "start": 1.14,
+   "end": 7.6,
+   "text": "Listo, don José, muy buenas tardes. Mi nombre es Willington Javier Ortiz, soy profesor del Politécnico Gran Colombiano",
+   "avg_logprob": -0.112,
+   "no_speech_prob": 0.129
+  },
+  {
+   "start": 7.6,
+   "end": 16.4,
+   "text": "y quiero hacerle unas preguntas frente a la forma como usted y su familia están haciendo disposición de la comida.",
+   "avg_logprob": -0.112,
+   "no_speech_prob": 0.129
+  },
+  {
+   "start": 16.98,
+   "end": 19.88,
+   "text": "Normalmente eso lo llamamos los residuos orgánicos.",
+   "avg_logprob": -0.112,
+   "no_speech_prob": 0.129
+  },
+  {
+   "start": 20.36,
+   "end": 26.44,
+   "text": "Nosotros nos hemos dado cuenta que en esta zona y prácticamente en gran parte de Bogotá,",
+   "avg_logprob": -0.112,
+   "no_speech_prob": 0.129
+  },
+  {
+   "start": 26.44,
+   "end": 29.72,
+   "text": "el manejo de las basuras se convirtió en un problema",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 29.72,
+   "end": 31.22,
+   "text": "y esto no es un problema de ahora",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 31.22,
+   "end": 32.86,
+   "text": "es un problema de hace mucho tiempo",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 32.86,
+   "end": 33.9,
+   "text": "¿qué opina usted de eso?",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 34.44,
+   "end": 35.92,
+   "text": "claro que sí señor, buenas tardes",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 35.92,
+   "end": 39.94,
+   "text": "sí, lo que está diciendo usted es totalmente real",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 39.94,
+   "end": 43.8,
+   "text": "el problema de las basuras es crónico",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 43.8,
+   "end": 46.98,
+   "text": "y entre más días como que se va poniendo peor el asunto",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 46.98,
+   "end": 49.72,
+   "text": "el manejo que nosotros le damos a las basuras",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 49.72,
+   "end": 51.86,
+   "text": "pues es lo más normal",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 51.86,
+   "end": 55.48,
+   "text": "de pronto tampoco soy de las personas que vamos a aportar diciendo",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.013
+  },
+  {
+   "start": 55.48,
+   "end": 61.82,
+   "text": "o en esta entrevista voy a decir, no, es que nosotros lo hacemos, lo seleccionamos porque eso es una cosa totalmente falsa en mi caso.",
+   "avg_logprob": -0.111,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 62.78,
+   "end": 67.62,
+   "text": "Entonces, sí, sería bueno que hubiera como un poquitico más de cultura en esa situación",
+   "avg_logprob": -0.111,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 67.62,
+   "end": 74.1,
+   "text": "y que fuéramos un poquito más de juiciosos para beneficio de nosotros y de la gran mayoría de personas",
+   "avg_logprob": -0.111,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 74.1,
+   "end": 80.16,
+   "text": "que de pronto seamos perjudicados con el tema de las basuras, sí señor.",
+   "avg_logprob": -0.111,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 80.16,
+   "end": 83.38,
+   "text": "Usted habla de una palabra clave y es la cultura",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 83.38,
+   "end": 87.5,
+   "text": "La cultura es lo que nos hace hacer lo que siempre hacemos",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 87.5,
+   "end": 91.7,
+   "text": "¿Cómo cree usted que debe cambiar esa cultura?",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 91.88,
+   "end": 93.98,
+   "text": "¿Cómo podemos hacer para que cambie esa cultura?",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 93.98,
+   "end": 99.98,
+   "text": "Para mejorar un poco esa forma de manejar los residuos",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 100.56,
+   "end": 102.38,
+   "text": "Sobre todo los residuos de alimentos",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 102.38,
+   "end": 108.1,
+   "text": "Sí, de pronto diría yo que se me ocurre que capacitaciones",
+   "avg_logprob": -0.137,
+   "no_speech_prob": 0.127
+  },
+  {
+   "start": 108.1,
+   "end": 114.1,
+   "text": "pero como la gran mayoría de personas hablando aquí del sector del sur de Bogotá",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 114.1,
+   "end": 116.82,
+   "text": "somos personas que mantenemos esas las carreras",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 116.82,
+   "end": 121.44,
+   "text": "entonces uno de pronto no va a decir no yo si voy a seleccionar porque sería muy bueno",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 121.44,
+   "end": 125.58,
+   "text": "sería muy bueno sería chévere que uno pues tomar esa buena costumbre",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 125.58,
+   "end": 129.28,
+   "text": "como uno cepillarse los dientes o hacer tantas cosas que son básicas",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 129.28,
+   "end": 133.44,
+   "text": "que meterlo uno en el menú también de lo básico poder uno hacer eso",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 133.44,
+   "end": 136.3,
+   "text": "pero como generalmente mantenemos esas las carreras",
+   "avg_logprob": -0.092,
+   "no_speech_prob": 0.092
+  },
+  {
+   "start": 136.3,
+   "end": 162.76,
+   "text": "entonces uno que la cáscara de la papa a la misma bolsa que el cartón, que esto, que las cáscaras de huevo, todo es un revueltijo, pero sí la pregunta está buena y me parece mágico que existiera algo donde uno pudiera depositar todo y que la misma máquina como que seleccionara y dijera a uno, puedo botar esto tranquilo o vienen y la recogen acá y se acabó el problema y lo práctico para uno también sería chévere.",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 163.18,
+   "end": 165.08,
+   "text": "No sé quién en su casa es el que saca la basura.",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 165.08,
+   "end": 167.3,
+   "text": "el que hago lo he mandado yo",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 167.3,
+   "end": 169.84,
+   "text": "sí señor, en la casa sí",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 169.84,
+   "end": 171.52,
+   "text": "yo soy el que",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 171.52,
+   "end": 172.48,
+   "text": "¿y quién cocina?",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 174.95,
+   "end": 175.15,
+   "text": "yo",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 175.15,
+   "end": 179.11,
+   "text": "ahorita sí me está tocando",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 179.11,
+   "end": 180.75,
+   "text": "ayudarle a mi esposa",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 180.75,
+   "end": 182.19,
+   "text": "con la cuestión de la cocina",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 182.19,
+   "end": 184.63,
+   "text": "entonces ahí nos compartimos los oficios",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 184.63,
+   "end": 185.91,
+   "text": "el único que no hace nada es",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 185.91,
+   "end": 188.41,
+   "text": "un muchacho que llega con nosotros",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 188.41,
+   "end": 190.93,
+   "text": "los consentidos",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 190.93,
+   "end": 192.09,
+   "text": "pregunta",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 192.09,
+   "end": 194.03,
+   "text": "¿usted tiene un bote de basura",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 194.03,
+   "end": 196.07,
+   "text": "exclusivo en la cocina?",
+   "avg_logprob": -0.175,
+   "no_speech_prob": 0.043
+  },
+  {
+   "start": 196.07,
+   "end": 197.35,
+   "text": "¿O hay uno para todo?",
+   "avg_logprob": -0.147,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 197.39,
+   "end": 201.83,
+   "text": "No, hay uno en la cocina y en los baños hay especialmente para ello.",
+   "avg_logprob": -0.147,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 202.17,
+   "end": 206.11,
+   "text": "Sino que al sacarlo, pues como todo, en la bolsa negra todo se amarra.",
+   "avg_logprob": -0.147,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 208.84,
+   "end": 218.08,
+   "text": "Usted prácticamente ya sugirió una solución, una solución que creo que fue comentada por su propio hijo.",
+   "avg_logprob": -0.147,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 219.34,
+   "end": 227.36,
+   "text": "Entonces, en ese sentido, ¿usted cree que la gente de este sector sí estaría dispuesta a hacer uso eficiente de ese artefacto",
+   "avg_logprob": -0.147,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 227.36,
+   "end": 231.76,
+   "text": "para manejar exclusivamente los residuos de alimentos?",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 232.88,
+   "end": 237.92,
+   "text": "Pues yo pienso que la persona que nos interesa el medio ambiente, uno se compromete,",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 238.38,
+   "end": 243.28,
+   "text": "se compromete uno y de pronto al ver que está funcionando en otras partes,",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 243.28,
+   "end": 250.06,
+   "text": "de pronto del sector, pienso yo que con seguridad la gente puede hacer ese gran aporte,",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 250.2,
+   "end": 254.12,
+   "text": "pues sería práctico, sería muy bueno, sería buenísimo eso, entonces yo creo que sí.",
+   "avg_logprob": -0.142,
+   "no_speech_prob": 0.024
+  },
+  {
+   "start": 254.12,
+   "end": 261.64,
+   "text": "¿Y usted haría eso, es decir, disponer los residuos de alimentos en esa caneca sin nada a cambio?",
+   "avg_logprob": -0.108,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 262.74,
+   "end": 271.76,
+   "text": "Yo creo que no hay nada que no tenga uno que ofrecer algo, bien sea la disponibilidad de tiempo o que tenga un costo económico,",
+   "avg_logprob": -0.108,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 271.88,
+   "end": 278.64,
+   "text": "entonces sí tiene que haber algún costo o algo que se deba hacer para poder adquirir ese tipo de beneficio.",
+   "avg_logprob": -0.108,
+   "no_speech_prob": 0.001
+  },
+  {
+   "start": 278.64,
+   "end": 284.14,
+   "text": "beneficio. ¿Usted cree que usted y los de su comunidad están sufriendo realmente por el tema",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.133
+  },
+  {
+   "start": 284.14,
+   "end": 291.88,
+   "text": "de las basuras? Uy, totalmente, totalmente, aquí afortunadamente nosotros, yo vivo en la parte de",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.133
+  },
+  {
+   "start": 291.88,
+   "end": 300.86,
+   "text": "arriba del sector, que pues allá la gran mayoría de personas sí tienen la facilidad de bajar las",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.133
+  },
+  {
+   "start": 300.86,
+   "end": 306.98,
+   "text": "basuras aquí al Chuc, pero resulta que aquí en el Chuc hay un desorden tenaz porque de pronto",
+   "avg_logprob": -0.088,
+   "no_speech_prob": 0.133
+  },
+  {
+   "start": 306.98,
+   "end": 310.42,
+   "text": "mandan los niños o personas que como nosotros los colombianos somos tan cómodos, nos parece",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 310.42,
+   "end": 315.5,
+   "text": "gracia golearla así y que se riegue y salgo corriendo y me subo en el bus y chao, no nos",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 315.5,
+   "end": 322.02,
+   "text": "importa que de pronto el vecino salga, un niño pise una cáscara de papa, de banano",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 322.02,
+   "end": 327.22,
+   "text": "y se caiga, no nos importa, o sea, eso es tan sencillo como eso, también sería bueno",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 327.22,
+   "end": 336.8,
+   "text": "que existiera un poquitico de concientización en cuanto a hacer el depósito de la basura",
+   "avg_logprob": -0.059,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 336.8,
+   "end": 338.46,
+   "text": "en el sitio adecuado el día adecuado",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 338.46,
+   "end": 340.56,
+   "text": "o si no es el día adecuado por algo Yamashuk",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 340.56,
+   "end": 342.14,
+   "text": "está disponible para tirarlo allá",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 342.14,
+   "end": 343.48,
+   "text": "pero entonces con",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 343.48,
+   "end": 348.7,
+   "text": "de la manera que corresponde",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 348.7,
+   "end": 349.94,
+   "text": "muy bien, es correcto",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 349.94,
+   "end": 352.36,
+   "text": "en algunas partes sucede que",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 352.36,
+   "end": 354.52,
+   "text": "después de que la gente saca",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 354.52,
+   "end": 356.64,
+   "text": "la basura para que el camión la recoja",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 356.64,
+   "end": 358.62,
+   "text": "entre ese tiempo de disponer",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 358.62,
+   "end": 361.04,
+   "text": "la basura y que el camión la recoja",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 361.04,
+   "end": 362.32,
+   "text": "normalmente pasan",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 362.32,
+   "end": 364.24,
+   "text": "recicladores que riegan",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 364.24,
+   "end": 366.48,
+   "text": "absolutamente todo, aquí pasa también eso",
+   "avg_logprob": -0.136,
+   "no_speech_prob": 0.041
+  },
+  {
+   "start": 366.48,
+   "end": 372.92,
+   "text": "Uy, aquí donde hay menos control, al menos por allá en ciertas partes de Bogotá, más hacia el norte,",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 373.38,
+   "end": 378.6,
+   "text": "al menos el guarda de seguridad está pendiente de sacar la basura precisamente cuando el camión va a pasar.",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 379.06,
+   "end": 382.58,
+   "text": "Acá no, acá es al contrario, porque si uno le dice a algún vecino,",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 382.7,
+   "end": 385.02,
+   "text": "¿qué está haciendo ahí, hermano? Le encargo.",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 386.6,
+   "end": 388.12,
+   "text": "Lo tratan a uno a lo colombiano.",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 388.72,
+   "end": 392.28,
+   "text": "¿El camión pasa los días y a la hora que debe pasar?",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 392.5,
+   "end": 396.24,
+   "text": "Mire que acá más bien descontroladito la hora de la pasada del camión.",
+   "avg_logprob": -0.121,
+   "no_speech_prob": 0.025
+  },
+  {
+   "start": 396.48,
+   "end": 400.72,
+   "text": "hay veces pasa por la mañana, pero él pasa haciendo bulla, él pasa pitando,",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 401.28,
+   "end": 406.74,
+   "text": "pero sí es bastante descontroladito el horario del paso del carro recolector de basuras.",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 406.98,
+   "end": 410.76,
+   "text": "Veo muchos perros, cuando hay acumulación de basura, yo me imagino que los perros",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 410.76,
+   "end": 413.88,
+   "text": "a todo momento están tratando de escarbar también esa basura.",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 413.96,
+   "end": 417.66,
+   "text": "Sí, sí, incluso suena gracioso lo que le voy a decir, pero incluso los perros",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 417.66,
+   "end": 420.82,
+   "text": "lo ven a uno bajar con la basura y ellas se quedan como mirándole, trae algo ahí",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 420.82,
+   "end": 424.54,
+   "text": "y se le tiran a uno como a tirar encima, rapar en la bolsita,",
+   "avg_logprob": -0.104,
+   "no_speech_prob": 0.036
+  },
+  {
+   "start": 424.54,
+   "end": 426.48,
+   "text": "entonces pues imagínese usted ya el desorden",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 426.48,
+   "end": 428.66,
+   "text": "aparte de perros, plagas",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 428.66,
+   "end": 430.06,
+   "text": "asociadas a eso",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 430.06,
+   "end": 431.76,
+   "text": "hay ratas y hay ratones también",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 431.76,
+   "end": 434.48,
+   "text": "lo dije en doble sentido",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 434.48,
+   "end": 436.52,
+   "text": "sí, sí, sí, esos son los demás",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 436.52,
+   "end": 438.44,
+   "text": "cuidado, sí, mucha plaga",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 438.44,
+   "end": 440.44,
+   "text": "zancudito, cuando hace así como",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 440.44,
+   "end": 442.5,
+   "text": "solecito se levanta mucho zancudito",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 442.5,
+   "end": 444.4,
+   "text": "los ratoncitos",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 444.4,
+   "end": 445.62,
+   "text": "salen también a tomar el sol",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 445.62,
+   "end": 447.64,
+   "text": "salen de ahí debajo de la basura",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 447.64,
+   "end": 450.58,
+   "text": "muy bien, listo don José, yo creo que por ahora",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 450.58,
+   "end": 451.96,
+   "text": "está la entrevista, muchas gracias",
+   "avg_logprob": -0.146,
+   "no_speech_prob": 0.007
+  },
+  {
+   "start": 451.96,
+   "end": 455.76,
+   "text": "Ya le voy a pasar el documento para que, por favor, nos lo ayude a firmar.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 456.0,
+   "end": 456.36,
+   "text": "Con mucho gusto.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 456.36,
+   "end": 456.72,
+   "text": "Muchas gracias.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.002
+  },
+  {
+   "start": 456.86,
+   "end": 457.72,
+   "text": "Sí, señor, con mucho gusto.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.002
+  }
+ ]
+}
